@@ -1,7 +1,7 @@
 ---
 title: Guide to Obtaining Official Authorization and Licensing
-date: 2024-08-18 20:59:49
-updated: 2024-08-21 10:51:43
+date: 2024-08-20T09:29:04.402Z
+updated: 2024-08-21T09:29:04.402Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a099867df0bbc5e1bf070a408f.jpg
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/2579e58fb859f12bcf75d41bfcd2bb7289ef81a09
 
 ## Find QA: license
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Find QA:
 
 [Search](http://www.epubor.com/Search.aspx?SystemID=46 "Find QA") 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Hot Q&A
 
 * [How to find my Kindle serial number?](https://tools.techidaily.com/epubor/products/)

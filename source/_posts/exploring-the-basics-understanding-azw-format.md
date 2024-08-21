@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Basics: Understanding AZW Format"
-date: 2024-08-19 15:46:28
-updated: 2024-08-21 10:52:33
+date: 2024-08-20T09:29:04.377Z
+updated: 2024-08-21T09:29:04.377Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500c43a741b28a10c98f28c4a5.jpg
@@ -87,12 +87,18 @@ When you launch Epubor Ultimate, it can detect the downloaded Kindle files autom
 
 ![red spot on ultimate](http://www.epubor.com/images/uppic/red-spot-on-ultimate.png)
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Tips:** There will be red spot besides Kindle to keep you informed if you download new Kindle book or delete any Kindle books from Kindle app.
 
 Next add the azw books from the left sidebar to the main window. All the books will be decrypted immediately. It works like a charm. 
 
 ![decrypt kfx via Kindle for PC1](http://www.epubor.com/images/uppic/decrypt-kfx-via-Kindle-for-PC1-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
 You can click **Decrypted** to find the DRM free AZW file.
 
 Now you can share the decrypted book with your friends and read it on any Kindle apps or devices without signing in. But you have to convert azw to other formats if you want to read it on non-Kindle apps and devices. 
@@ -103,6 +109,9 @@ Lastly, choose EPUB/AZW3/TXT/PDF/Mobi as the output format, then click the Conve
 
 Now your purchased azw books are 100% owned by you. 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How to edit azw file
 
 Epubor Ultimate can also edit the metadata of decrypted azw file. But if you can't edit some decrypted azw file, then this azw file is definitely a KFX file. There's one limitation about Epubor Ultimate is that it can't edit a KFX file's metadata by now. But the good news is that you can convert azw to epub/azw3/mobi/pdf/txt before editing the metadata. 
@@ -111,10 +120,16 @@ You can start editing metadata by clicking the pencil icon to the right of the b
 
 ![edit meta](http://www.epubor.com/images/uppic/edit-meta.png)
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 Calibre can edit azw file,too, but KFX files are not included. You can right click the book cover and select **Edit metadata**\>**Edit metadata individually**.
 
 ![edit meta calibre](http://www.epubor.com/images/uppic/edit-meta-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Therefore, Calibre can neither open KFX file nor decrypted azw file(some DRM free azw file are actually kfx file), let alone edit the metadata. But Epubor Ultimate can decrypt DRMed azw files as well as convert formats. And it can also help you eidt the metadata of the decrypted book, including KFX file(you must convert KFX to epub/mobi/pdf/txt before editing metadata). 
 
 **Tips**: If you want to decrypt DRM-protected Kindle AZW books with Calibre, you can read this step-by-step guide about [how to convert Kindle books to EPUB/Mobi/PDF with Calibre](https://tools.techidaily.com/epubor/products/).
@@ -135,6 +150,9 @@ Suggested reading
 
 ![author](http://www.epubor.com/images/uppic/Hillary.png)
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Amy Lopez](https://shorturl.at/bmsEO) crafts informative articles on eBooks and eReaders, uncovering optimal methods to enhance your eBook reading experience, and eagerly shares her findings with you.
 
 SHARING IS GREAT!

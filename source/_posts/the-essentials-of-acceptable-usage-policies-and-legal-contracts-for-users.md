@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Acceptable Usage Policies & Legal Contracts for Users
-date: 2024-08-20 15:46:39
-updated: 2024-08-21 12:19:58
+date: 2024-08-20T09:29:04.143Z
+updated: 2024-08-21T09:29:04.143Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c350e0ba60cc8399b6967ad03.jpg
@@ -67,6 +67,9 @@ Step 3, Send email to support@epubor.com. Once your email has been received, our
 
 ![refund steps](https://www.epubor.com/images/refund-steps.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ### Single-User License
 
 Installation of the program purchased under a Single-User Personal License is restricted to one single personal computer owned by or under control of the license plus one additional computer also owned by the license, eg.: One computer at home and another at work, or a desktop at home and a laptop at home. However, at any given time only one copy of the purchased programs may be in use.
@@ -77,6 +80,10 @@ Installation of the program purchased under a Single-User Personal License is re
 
 **Lifetime-license**: In lifetime since you purchase our software, anytime you have a problem in using the software, you can contact us and get our technical support in 24/7\. And you can also get the regular software update for free.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Multi-users licenses
 
 A multi-users license is not assigned to an individual user. The license can be installed on the specific numbers of computers entirely within your family, organizations and corporation, etc. 
@@ -87,12 +94,18 @@ Pricing for multi-user license depends on the number of end user. **The more use
 
 Please note: only by checking our via 2checkout you can benefit the discount. When you change the units number, the price per license will lower down automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ### Extended download service
 
 Now purchasing software online is more convenient than ever. The extended download service frees you from the time-consuming — but critical — chore of recording the registration code and download url for your new software.
 
 Now the extended download service is totally free. We’ll automatically store your registration code on our server in your license period. System crash? Hard disk error? No Worries! You can access your registration code and the software download url anytime during the license period to allow you to re-install your purchased software.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### As our client, you can:
 
 Anytime, you can download & register software as you loved, no limitations.
@@ -121,6 +134,15 @@ For all the license change and upgrade terms, you are required to **show us your
 
 [Join in Epubor Editor Team to Get Lifetime License for Free](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### Secure Shopping Guarantee
 
 We use the industry standard encryption protocol known as Secure Socket Layer (SSL) to keep your order information secure.
@@ -166,6 +188,9 @@ Copyright © 2011-2024 www.epubor.com. All rights reserved.
 
 ![mcafee badge](http://www.epubor.com/images/mcafee-secure.png)![norton badge](http://www.epubor.com/images/norton-icon.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"

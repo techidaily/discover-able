@@ -1,7 +1,7 @@
 ---
 title: "Comment Supprimer Les DRM De Vos eBooks Amazon Kindle en 2024 : Une Méthode Détaillée Par Trois Étapes"
-date: 2024-08-19 21:45:57
-updated: 2024-08-21 11:41:59
+date: 2024-08-20T09:29:04.284Z
+updated: 2024-08-21T09:29:04.284Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/3c560b5f84950935f235a17f57ab9b2b0c297df9b81f28e15578b876da96606b.jpg
@@ -33,6 +33,9 @@ Mais comment faire? Vous vous êtes peut-être demandé ce problème pendant lon
 
 Pour commencer, je vous recommande fortement de préparer vos livres Kindle sur votre ordinateur. Si vous avez le périphérique e-ink Kindle, vous pouvez simplement télécharger des livres Kindle via votre appareil Kindle. Si vous n'avez pas d'appareil Kindle, vous devez installer Kindle pour PC ou Mac. Ouvrez l’application Kindle, connectez-vous avec votre propre compte amazon, puis tous les fichiers que vous avez achetés dans kindle store seront synchronisés. Choisissez les fichiers que vous souhaitez obtenir, double-cliquez sur la couverture du livre, puis le téléchargement commence. Ensuite, vous pouvez fermer l’application, trouver les fichiers de livres téléchargés dans le dossier de destination: [Où sont enregistrés les ebooks du Kindle](https://tools.techidaily.com/epubor/products/). 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Méthode 1: supprimez DRM des livres Kindle avec Calibre Plugin
 
 Calibre est un excellent outil de gestion de bibliothèque de livres électroniques, un logiciel à code source ouvert, qui vous permet de supprimer le DRM de livre et de convertir le format.
@@ -53,6 +56,9 @@ Sélectionnez le fichier "DeDRM\_plugin.zip". Plus d'informations s'il vous pla�
 
 ![](https://epubor.com/images/uppic/des-drm-avec-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 #### Étape 3: Importer des livres DRMed dans Calibre
 
 Si vos kindle books sont téléchargés via l'application de bureau Kindle, importez vos livres Kindle téléchargés dans Calibre, le DRM sera automatiquement supprimé. Mais si vous avez déjà ajouté des livres de calibre limités par DRM, vous feriez mieux de les importer à nouveau. Travail fait, vous pouvez cliquer sur "cliquez pour ouvrir" sur le côté droit pour obtenir un aperçu de la bibliothèque de calibre.
@@ -61,6 +67,9 @@ Si vos kindle books sont téléchargés via Kindle eReaders, vous devez personna
 
 ![des drm avec calibre](https://epubor.com/images/uppic/kindle-dedrm-ksn.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 **Nouvelles informations:** 
 
 Pour convertir des livres Kindle, vous devez ajouter non seulement le plugin dedrm mais également le [plugin d'entrée kfx à Calibre](https://tools.techidaily.com/epubor/products/). 
@@ -69,6 +78,9 @@ Vous pouvez rencontrer une erreur lorsque vous essayez de télécharger le calib
 
 Les plugins Calibre DeDRM ne fonctionneront plus avec les livres Kindle KFX si l'application Kindle pour PC a été mise à jour vers la version 2.4.1 (70946). Réinstallez la version 2.4.70904, qui fonctionne comme avant, ou vous pouvez également essayer d'utiliser Epubor Ultimate comme meilleure alternative. 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Méthode 2: supprimez DRM des livres Kindle avec Shareware
 
 Cette méthode est appliquée aux débutants et aux experts. Et je vous recommande vivement de l’obtenir avec un essai gratuit. Je crois qu'après avoir essayé, vous tomberez amoureux de ce programme.
@@ -83,6 +95,10 @@ Téléchargez Epubor Ultimate gratuitement:
 
 [![enlever le drm de Kindle](https://epubor.com/images/uppic/epubor-drm-kindle.png)](https://tools.techidaily.com/epubor/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 Remarque : Epubor Ultimate pour Mac ne fonctionnera pas pour tous les livres Kindle téléchargés via l'application Kindle pour Mac, car certains d'entre eux seront au format .kcr et non .azw. Dans la plupart des cas, ces livres sont des mangas ou des bandes dessinées Kindle.
 
 Pour [convertir des bandes dessinées Kindle en pdf/epub sur Mac](https://tools.techidaily.com/epubor/products/), il est préférable d'utiliser Epubor Kindle Converter. 
@@ -95,6 +111,9 @@ Téléchargez à nouveau les livres Kindle pour supprimer les DRM.
 
 **Conseils:** Une fois l’ancienne version installée, vous devez accéder à “Outils”, puis désactiver la mise à jour automatique.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Méthode 3: Téléchargez des livres Kindle via le simulateur Android sur Windows/Mac (prend en charge les livres Kindle publiés en 2023)
 
 Étant donné que de nombreux utilisateurs ne possèdent pas l'appareil Kindle, il est presque impossible de supprimer drm des livres Kindle publiés en 2023\. 

@@ -1,7 +1,7 @@
 ---
 title: "Rakuten Acquires OverDrive: Strategies and Implications for the Future of Kindle Integration"
-date: 2024-08-20 11:22:14
-updated: 2024-08-21 12:37:36
+date: 2024-08-20T09:29:04.456Z
+updated: 2024-08-21T09:29:04.456Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac79f6588ee6f56110294810a.jpg
@@ -41,6 +41,9 @@ Steve Potash, Overdrive founder and CEO, added:
 > Rakuten’s vision of empowerment is  
 > perfectly aligned with OverDrive. Since 1986, our vision has been to advance digital publishing and content to connect readers with books and information. We’re passionate about working with publishers, libraries, schools and retailers to make that happen, and we are very excited to join an innovative company that shares and supports our vision.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How will they deal with Kindle?
 
 Overdrive will be acquised by Rakuten in April, and they will operate as a subsidiary of Rakuten.
@@ -49,6 +52,9 @@ It is great for Kobo customers because we can get eBooks directly from libraries
 
 But for a large number of Kindle users, like me, I wonder **what's it mean for Kindle library eBooks**. All content in Overdrive libraries will be used to boost Rakutens Kobo e-reader and e-book store, which will compete with Amazon Kindle eReaders.![impaction](http://www.epubor.com/images/uppic/impaction.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 I believe they will work together to make more user-friendly services, which may make some users like to read books with Kobo devices or apps. But at the same time I believe (I hope) they would increase sales of Kindle library books, in a differnt way. 
 
 The first reason, offering Kindle books obviously is a big part of the revenue stream for OverDrive.
@@ -67,6 +73,9 @@ Abovhttps://share.hsforms.com/1XMDdDw\_CReqsb5-qCwX6fgc1yk8" target="\_blank" re
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!

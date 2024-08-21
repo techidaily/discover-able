@@ -1,7 +1,7 @@
 ---
 title: "Converting Crystallographic Structures: A Comprehensive Tutorial on PDB to PDF Conversion for Scientists and Researchers"
-date: 2024-08-18 11:16:45
-updated: 2024-08-21 10:57:53
+date: 2024-08-20T09:29:04.330Z
+updated: 2024-08-21T09:29:04.330Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/6bdcba73a44ac207e8fdf00ab1c5febff71a5d180b14959fd7d55488ff318cda.jpg
@@ -43,6 +43,9 @@ If your eReader PDB books are DRM protected, you can't directly convert them to 
 
 You will find the status field shows "Suceeded" in minutes. Right-click an item, select "Explore the output file" to get the decrypted books. Note that the decrypted PDB books will become PMLZ format. 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Convert PDB to PDF 
 
 In this step, we will use Calibre to convert PDB to PDF free. If you **don't know whether your books are protected or not**, simply follow steps below to convert PDB to PDF on your PC or Mac. There will be a warning if any secure book is detected. 
@@ -55,20 +58,32 @@ In this step, we will use Calibre to convert PDB to PDF free. If you **don't kno
 
 ![convert PDB to PDF - step2 - set output format](https://www.epubor.com/images/uppic/pdb_set_output.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **If the following DRM warning pops during the conversion, that book will be protected.** ([strip DRM from PDB books](https://tools.techidaily.com/epubor/products/)) 
 
 ![convert PDB to PDF - step1 - DRM detected](https://www.epubor.com/images/uppic/pdb_drm_warning.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
   
 When the status zone shows "Jobs:0" in the lower-right corner, the conversion is done. Click "PDF" link (next to "Formats") on the right side to preview the converted PDF book, or click "Click to open" link (next to "Path") to get the converted files. 
 
 ![convert PDB to PDF - step1 - output](https://www.epubor.com/images/uppic/pdb_get_output.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
   
 You can also change the output formats to "EPUB" or "MOBI" to convert PDB to EPUB or MOBI
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Rights Management: An In-Depth Look at DRM Functionality"
-date: 2024-08-19 19:43:58
-updated: 2024-08-21 12:23:21
+date: 2024-08-20T09:29:04.603Z
+updated: 2024-08-21T09:29:04.603Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5c8fee31ed3df2a195c8af00.jpg
@@ -27,6 +27,9 @@ From my point of view, also the view of most people, DRM represents Digital Rest
 
 Aren't these objects such as eBooks or music we bought from distributors belong to us? Why are there so many limitations after we paid so much? Think about these questions. We all be restricted when using the products we bought with each penny. And you will find the necessity of Digital Rights Management which attached to products from those sanctimonious distributors does not look so reasonable. Rather, the deep meaning of DRM represents Digital Restrictions Management.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
 ### How Does DRM Work?
 
 As a matter of fact, DRM deprives the usage control of the person in owning digital contents and makes a computer or a procedure to take over the right of control. And it is composed of four comment stages which are packaging, distribution, license-serving, and license acquisition.
@@ -63,6 +66,9 @@ eBooks--DRM is employed many online bookstores as a wrapper around the actual eB
 | 5                          | B&N's drm            | Nook EPUB                                                                                                                     |
 | 6                          | Rakuten Kobo's DRM   | Kobo KEPUB                                                                                                                    |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Disadvantages of DRM
 
 #### DRM Reduces Sales
@@ -101,6 +107,9 @@ The statutory and Common law interpretations of copyright law afford individuals
 
 There is a wrong understanding on DRM can decrease the quantity of piracy. On the contrary, DRM version only can be pirated more times than the DRM-free version. For example, after Witcher 3 was released, CD Projekt Red which is the makers of Witcher 3 discovered that the DRM-protected disk version was pirated more times than the DRM-free version sold by online download.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Law of DRM
 
 The most famous law of DRM is the Digital Millennium Copyright Act (DMCA), which released a clause about the ban on "circumventing" digital rights management (DRM) and other "technological protection measures" that was signed in by President Bill Clinton on October 28, 1998\. This clause is criticized by Electronic Frontier Foundation (EFF) which is one of the famous anti-DRM organization. EFF thinks the merchants will take advantage of the DMCA to against consumers, scientists, and legitimate competitors rather than withstand copyright infringers.
@@ -109,6 +118,9 @@ In January of 1999, Sony sued Connectix over PlayStation emulator which bring co
 
 "The U.S. Library of Congress in 1999 conducted a rulemaking on the DMCA anti-circumvention rules that recognized the right of lawful users to circumvent broken access controls and assess software-filtering programs." ---------"Digital Rights Management {and, or, vs.} the Law" by Pamela Samuelson.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### DRM-Free Works
 
 In spite of the widely use of DRM in different kinds of products, there are also many companies find out that if you provide DRM-free goods the sales volume can be increased according to their practice. Those companies which have the courage to release DRM-free goods finally get favored and respect from consumers and achieve new records of sales volume. 
@@ -131,6 +143,9 @@ Sill for Amazon, the owner decided to provide DRM-free comics in Comixology whic
 
 As long as companies have the best products, consumers are willing to pay for your products. Think about a few large companies such as Amazon. They admit the products they offered are the best. If they have the best goods, there is no need to put DRM into their products and make trouble for consumers. Take heart of grace and the consumers will give you the best answers and the companies will not be disappointed.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Organizations and notable persons fight against DRM
 
 As we can see, DRM is designed to restrict all of the possibilities enabled by digital technologies. In another word, DRM is taking away every possible use of digital media, regardless of legal rights, and sell some of these functionalization back as severely limited services. Therefore, many organizations, prominent individuals, and computer scientists are opposed to DRM.
@@ -153,6 +168,10 @@ And we also believe that with the development of science and technology, more an
 
 ![author](http://www.epubor.com/images/uppic/iris.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 [Iris Yan](https://www.facebook.com/iris.yan.16718) has been a passionate member of Epubor since 2017\. Her mission is to enhance your ebook reading experience by sharing insightful tips and tricks. Join her on a journey towards reading excellence today!
 
 SHARING IS GREAT!
