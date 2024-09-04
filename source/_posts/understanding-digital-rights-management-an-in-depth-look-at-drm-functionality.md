@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Rights Management: An In-Depth Look at DRM Functionality"
-date: 2024-08-25T20:58:52.656Z
-updated: 2024-08-26T20:58:52.656Z
+date: 2024-09-03T22:38:33.532Z
+updated: 2024-09-04T22:38:33.532Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5c8fee31ed3df2a195c8af00.jpg
@@ -28,7 +28,10 @@ From my point of view, also the view of most people, DRM represents Digital Rest
 Aren't these objects such as eBooks or music we bought from distributors belong to us? Why are there so many limitations after we paid so much? Think about these questions. We all be restricted when using the products we bought with each penny. And you will find the necessity of Digital Rights Management which attached to products from those sanctimonious distributors does not look so reasonable. Rather, the deep meaning of DRM represents Digital Restrictions Management.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### How Does DRM Work?
 
@@ -67,7 +70,10 @@ eBooks--DRM is employed many online bookstores as a wrapper around the actual eB
 | 6                          | Rakuten Kobo's DRM   | Kobo KEPUB                                                                                                                    |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2030385/7443" target="_top" id="2030385">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030385" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030385/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Disadvantages of DRM
 
@@ -108,7 +114,16 @@ The statutory and Common law interpretations of copyright law afford individuals
 There is a wrong understanding on DRM can decrease the quantity of piracy. On the contrary, DRM version only can be pirated more times than the DRM-free version. For example, after Witcher 3 was released, CD Projekt Red which is the makers of Witcher 3 discovered that the DRM-protected disk version was pirated more times than the DRM-free version sold by online download.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770776">
+					<video width="150" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### The Law of DRM
 
@@ -118,9 +133,6 @@ In January of 1999, Sony sued Connectix over PlayStation emulator which bring co
 
 "The U.S. Library of Congress in 1999 conducted a rulemaking on the DMCA anti-circumvention rules that recognized the right of lawful users to circumvent broken access controls and assess software-filtering programs." ---------"Digital Rights Management {and, or, vs.} the Law" by Pamela Samuelson.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### DRM-Free Works
 
 In spite of the widely use of DRM in different kinds of products, there are also many companies find out that if you provide DRM-free goods the sales volume can be increased according to their practice. Those companies which have the courage to release DRM-free goods finally get favored and respect from consumers and achieve new records of sales volume. 
@@ -131,6 +143,18 @@ According to the July 2014 Author Earnings Report, the indie titles without DRM 
 
 ![](http://www.epubor.com//www.epubor.com/images/uppic/daily-earnings_2017831165353.png) 
 
+<!-- affiliate ads begin -->
+<span id="1982499">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 On February 6, 2007, Steve Jobs released an open letter to the public, which said, Apple Inc. has come up with a conclusion that DRM can't guarantee the songs bought from big record companies are not pirates. Therefore, Apple Inc. is willing to completely abolish DRM technology so that all MP3 player can play any music bought from any online music store. At the same time, using DRM technology can lead to leakage of privacy information. So Apple Inc. also called on the major record companies to stop using DRM technology. 
 
 Bill, chairman of Microsoft, during an interview in March 2007, also made it clear that he's disappointed at DRM. He thought that DRM let those legitimate music consumers suffer and did not play a role in preventing piracy. "DRM did not do its job". What upsets those download paid music consumers is that the music downloaded from iPod music store iTunes are protected by DRM and cannot play on SanDisk, innovation or Microsoft Zune player.
@@ -144,7 +168,10 @@ Sill for Amazon, the owner decided to provide DRM-free comics in Comixology whic
 As long as companies have the best products, consumers are willing to pay for your products. Think about a few large companies such as Amazon. They admit the products they offered are the best. If they have the best goods, there is no need to put DRM into their products and make trouble for consumers. Take heart of grace and the consumers will give you the best answers and the companies will not be disappointed.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Organizations and notable persons fight against DRM
 
@@ -160,6 +187,12 @@ Two famous DRM critics are John Walker who wrote "The Digital Imprimatur: How Bi
 
 There are also many other notable critics of DRM, including Professor Ross Anderson of Cambridge University. He is a header of a British organization which opposes DRM.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Call for Anti-DRM
 
 Many people think that supporting removal DRM means supporting piracy. The truth is not the case. This idea is also an insult to the basic consumers' right of ownership and privacy. Actually, DRM is ineffective in stop piracy because it can often be cracked and missed its original goal. In another word, even a kid can decrypt an Amazon eBook with Epubor Ultimate software within 2 seconds. The vendors who use DRM in their products should remember that people buy a product do not mean they are going to distribute them. 
@@ -168,10 +201,6 @@ And we also believe that with the development of science and technology, more an
 
 ![author](http://www.epubor.com/images/uppic/iris.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 [Iris Yan](https://www.facebook.com/iris.yan.16718) has been a passionate member of Epubor since 2017\. Her mission is to enhance your ebook reading experience by sharing insightful tips and tricks. Join her on a journey towards reading excellence today!
 
 SHARING IS GREAT!
