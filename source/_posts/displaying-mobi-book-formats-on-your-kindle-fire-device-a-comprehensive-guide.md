@@ -1,14 +1,26 @@
 ---
 title: Displaying MOBI Book Formats on Your Kindle Fire Device – A Comprehensive Guide
-date: 2024-09-03T22:38:32.236Z
-updated: 2024-09-04T22:38:32.236Z
+date: 2024-09-08T23:33:01.901Z
+updated: 2024-09-09T23:33:01.901Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Displaying MOBI Book Formats on Your Kindle Fire Device – A Comprehensive Guide
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make Mobi Files Display as Books on Kindle Fire
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 7/18/2024 10:53:14 AM.
@@ -19,6 +31,12 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 7
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 MOBI is a well-known e-book format. The popular Amazon AZW e-book is just based on MOBI. You can find many MOBI ebooks on the amazon.com. But one problem I ever met when reading MOBI e-book on Kindle Fire is that some MOBI ebooks don't display in the "Books" category but "Docs" instead. This situation causes some inconvenience of managing a large number of ebooks as you have to browse in two different categories. Or just think about the scene that your favorite ebooks are mixed with some uncorrelated documents. It's totally a mess! So it's better to make MOBI files display as books on Kindle Fire, not docs.
 
 Before we start, we should figure out why the MOBI books display in "Docs". We know that the Docs category is used for storing personal documents like PDF, HTML, TXT or other documents sent by Amazon "Send to Kindle" service. Some MOBI ebooks are added personal document tag when generated so that the Kindle Fire will recognize them as documents but not ebooks.
@@ -31,6 +49,12 @@ Step 2 Open Calibre and choose "Add book" to add MOBI ebooks. You can add more b
 
 ![add-mobi-book](https://www.epubor.com/images/remote/D4/1D/D41D8C_1-add-mobi-book.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3 Select all books in the list and choose "Convert books". Set the Output format as "MOBI" (or **"AZW3"**). Click "MOBI Output" at the left menu and find "Kindle Options" at right side. Delete the default "**\[PDOC\]**" and keep the **Personal Doc Tag** blank. Then click "OK" to start conversion. 
 
 **Importance Notice:**
@@ -49,6 +73,12 @@ Step 5 Connect your Kindle Fire to computer with USB cable. Transfer the MOBI fi
 
 ![make-mobi-files-display-as-books-on-kindle-fire](https://www.epubor.com/images/remote/D4/1D/D41D8C_5-mobi-files-displayed-as-books.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Pro Tips:**
 
 1\. In our test we find that some MOBI ebooks can still display in "Books" even you don't delete the "\[PDOC\]" but convert them with Calibre only. But I still suggest you replace the Personal Doc Tag with \[EBOK\] as this is more reliable.
@@ -61,6 +91,12 @@ Step 5 Connect your Kindle Fire to computer with USB cable. Transfer the MOBI fi
 
 ![author](https://www.epubor.com/images/uppic/jonny.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -956,10 +992,3 @@ Leave a comment
 <li><a href="https://discover-able.techidaily.com/understanding-kindle-unlimited-membership-comprehensive-frequently-asked-questions/"><u>Understanding Kindle Unlimited Membership: Comprehensive Frequently Asked Questions</u></a></li>
 <li><a href="https://discover-able.techidaily.com/unlocking-your-ebooks-how-to-disable-drm-on-chapter-9-and-beyond/"><u>Unlocking Your eBooks: How to Disable DRM on Chapter 9 and Beyond</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

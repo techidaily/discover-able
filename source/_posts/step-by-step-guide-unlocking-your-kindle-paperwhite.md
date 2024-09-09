@@ -1,12 +1,18 @@
 ---
 title: "Step-by-Step Guide: Unlocking Your Kindle Paperwhite"
-date: 2024-09-03T22:38:32.518Z
-updated: 2024-09-04T22:38:32.518Z
+date: 2024-09-08T23:33:02.186Z
+updated: 2024-09-09T23:33:02.186Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a500625454298afd84e9855ed4fbb6b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Step-by-Step Guide: Unlocking Your Kindle Paperwhite
 
 ## How to Jailbreak Kindle Paperwhite 2022
@@ -19,6 +25,12 @@ Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 7
 
 ![follow](http://www.epubor.com/images/follow.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 With the development of Android and iOS devices, jailbreak is no longer so strange to people at present. After jailbroken we can easily modify our device and add some new and interesting features which the native system doesn't support. We've written an article of [how to jailbreak Kindle Fire](https://tools.techidaily.com/epubor/products/) that has helped many Kindle Fire users. Today we'll show you how to jailbreak another popular Amazon ebook reader – the Kindle Paperwhite.
 
 You may be confused of jailbreaking Kindle Paperwhite as it's only an e-ink eReader which runs Linux. It does not have various features like the Android-based Kindle Fire. Actually jailbreaking a Kindle Paperwhite will give you much convenience. For example, you can change the wallpaper. I bet you have been tired of the original wallpaper for a long time. Wanna change it? Just jailbreak your Kindle Paperwhite first!
@@ -35,6 +47,12 @@ Due to the fact that Amazon has made much limitation on their devices, jailbreak
 
 ![os-version](http://www.epubor.com/images/uppic/1-os-version.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ####  Step 1\. Change Kindle Paperwhite OS version
 
 If your OS version is _**5.3.0**_, _**5.3.1**_, or _**5.3.5**_, you don't need to change the OS version. Just go to [step 2](https://tools.techidaily.com/epubor/products/) directly; if your OS version is _**5.3.4**_ or _**5.3.6**_, you need to upgrade or downgrade it to _**5.3.5**_. The following is the tutorial for upgrading/downgrading Kindle Paperwhite OS version.
@@ -47,6 +65,12 @@ If your OS version is _**5.3.0**_, _**5.3.1**_, or _**5.3.5**_, you don't need t
 
 ![update-os](http://www.epubor.com/images/uppic/2-update-os.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### Step 2\. Install jailbreak files
 
 At this step, we need to put the jailbreak files into Kindle Paperwhite. [Click here to download the jailbreak zip file](https://storage.gra.cloud.ovh.net/v1/AUTH%5F2ac4bfee353948ec8ea7fd1710574097/mr-public/Touch/kindle-jailbreak-1.16.N-r18981.tar.xz). Extract the zip file and you will see these files:
@@ -63,47 +87,53 @@ Eject the device and you'll find there is a new personal document at home page.
 
 ![new-document](http://www.epubor.com/images/uppic/6-new-document.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Open this file and click the "Jailbreak" link on the first page.
 
 ![open-jailbreak-document](http://www.epubor.com/images/uppic/7-open-jailbreak-document.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You'll see this page.
 
 ![click-to-jailbreak](http://www.epubor.com/images/uppic/8-click-to-jailbreak.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Follow these instructions and then your device will start the jailbreak process.
 
 ![jailbreak-start](http://www.epubor.com/images/uppic/9-jailbreak-start.jpg)
 
 After the process has been completed, the Kindle Paperwhite will turn back to normal. You will see the new document we mentioned above has changed into another one. This means the jailbreaking is successful.
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="150" height="125" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Jailbreak Kindle with Firmware Version 5.6.5
 
 Kindle 5.6.5 jailbreak was released, it is not complicated to complete. But, make sure your Kindle's firmware version is 5.6.5\. If the firmware version is lower than 5.6.5, please [maually update it to 5.6.5](https://tools.techidaily.com/epubor/products/). If it is upper than 5.6.5, such as 5.7.2, you need to downgrade to 5.6.5\. ![jailbreak-kindle-paperwhite](http://www.epubor.com/images/uppic/10-jaibreak-log.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="540" height="960" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Support Firmware version:** Only firmware version 5.6.5.
 
@@ -127,12 +157,6 @@ In the opened new page, Go to "Stage 1" first. And when it fails to load, return
 
 ![Jailbreak Kindle Paperwhite 5.6.5](http://www.epubor.com/images/uppic/jailbreak-kindle-paperwhite-5.6.5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After it appears "run the ;fc-cache in the search bar", click "Search bar", type “**;fc-cache**” and click enter button.
 
 When you see a message "Jailbreak Succeeded", it means the process is finished, Turn on airplane mode quickly.
@@ -229,15 +253,21 @@ As long as you have downgraded your Kindle device to the specific version, you c
 ![cro buttom](http://www.epubor.com/images/uppic/crobuttom.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 You must try these methods step by step. When the jailbreak procedure has been done, you can update your firmware to the latest version with the effective jailbreak. Learn the details of [how to update your Kindle firmware](https://tools.techidaily.com/epubor/products/).
 
 With these methods, you can jailbreak Kindle Paperwhite or other Kindle versions freely. If you have tried above methods and succeed, please leave your Kindle versions through the comment column to give others a reference.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Jailbreak Kindle Paperwhite3-4GB & Paperwhite3–32GB with Firmware 5.8.9.0.1 
 
 The jailbreaking method provided in this section only applies to Kindle Paperwhite 3 with firmware 5.8.9.0.1 including Paperwhite 3 - 4GB and Paperwhite - manga 32GB (both devices are without special offers). Your mileage may vary if your device is with Special Offers or you have Special Offers enabled. For example, you may encounter boot loops when the factory firmware starts the first time. And if your device is passcode accessible or/and parental controls enabled, you probably will not bring your device back to normal from such boot loops. So I strongly recommend you to remove Special Offers and disable password access and parental controls before you perform the jailbreak.
@@ -325,12 +355,6 @@ Enjoy your jailbroken Kindle PaperWhite now.sss
 
 ![](http://www.epubor.com/images/faq.png) Frequently Asked Questions
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Q: What's the benefits of Jailbreak Kindle eReader?
 
 A: With a jailbroken Kindl e, you can change the screensaver and remove ads from Amazon. Install some plugins, such as KUAL and Koreader, these plugins will make it possible to read ePub and other formats on Kindle, and reflow PDF books for better reading experience.
@@ -368,10 +392,10 @@ Related Readings
 ![author](https://www.epubor.com/images/uppic/jonny.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
