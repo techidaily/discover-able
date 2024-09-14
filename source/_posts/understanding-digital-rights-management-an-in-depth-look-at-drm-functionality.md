@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Rights Management: An In-Depth Look at DRM Functionality"
-date: 2024-09-08T23:33:03.070Z
-updated: 2024-09-09T23:33:03.070Z
+date: 2024-09-13T22:00:13.617Z
+updated: 2024-09-14T18:10:29.596Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5c8fee31ed3df2a195c8af00.jpg
@@ -9,28 +9,14 @@ thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5
 
 ## Understanding Digital Rights Management: An In-Depth Look at DRM Functionality
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is DRM and How Does DRM Work
 
 Posted by [Iris Yan](https://www.facebook.com/iris.yan.16718) on 4/26/2023 10:02:13 AM.
 
 3 [(0 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 All the time, DRM contents have aroused people's attention with the vigorous development of digital products. Its existence also makes everyone argue endlessly. The adversarial relationship between digital content providers and consumers hasn't been remitted. More and more consumers who suffer much from DRM trend to use crack software such as Epubor Ultimate to control digital contents freely. Today let's talk about DRM around and find out why we must resist DRM.
 
 ###  What is DRM?
@@ -39,12 +25,6 @@ From my point of view, also the view of most people, DRM represents Digital Rest
 
 Aren't these objects such as eBooks or music we bought from distributors belong to us? Why are there so many limitations after we paid so much? Think about these questions. We all be restricted when using the products we bought with each penny. And you will find the necessity of Digital Rights Management which attached to products from those sanctimonious distributors does not look so reasonable. Rather, the deep meaning of DRM represents Digital Restrictions Management.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How Does DRM Work?
 
 As a matter of fact, DRM deprives the usage control of the person in owning digital contents and makes a computer or a procedure to take over the right of control. And it is composed of four comment stages which are packaging, distribution, license-serving, and license acquisition.
@@ -56,12 +36,6 @@ Stage 4 is license acquisition which designed for legitimate customers acquire t
 
 For example, when you bought a software with costs, if you want to use it, the most widely used license serving will appear according to the service provider. Generally, the access key must be tied to one machine, device or account. Others can't get the right to access the contents when they don't purchase them or transfer the original contents.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Industries Using DRM
 
 As a profound term, DRM can be used to control the limits of authority among many objects. Those projects such as software, eBooks, images, stream media, mobile contents, etc. are implanted DRM by embedding code that prevents the spread even though it's legal.
@@ -125,12 +99,6 @@ The statutory and Common law interpretations of copyright law afford individuals
 
 There is a wrong understanding on DRM can decrease the quantity of piracy. On the contrary, DRM version only can be pirated more times than the DRM-free version. For example, after Witcher 3 was released, CD Projekt Red which is the makers of Witcher 3 discovered that the DRM-protected disk version was pirated more times than the DRM-free version sold by online download.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Law of DRM
 
 The most famous law of DRM is the Digital Millennium Copyright Act (DMCA), which released a clause about the ban on "circumventing" digital rights management (DRM) and other "technological protection measures" that was signed in by President Bill Clinton on October 28, 1998\. This clause is criticized by Electronic Frontier Foundation (EFF) which is one of the famous anti-DRM organization. EFF thinks the merchants will take advantage of the DMCA to against consumers, scientists, and legitimate competitors rather than withstand copyright infringers.
@@ -138,6 +106,13 @@ The most famous law of DRM is the Digital Millennium Copyright Act (DMCA), which
 In January of 1999, Sony sued Connectix over PlayStation emulator which bring convenience to consumers to play legit games. In 2001, 321 Studio's DVD X Copy software which aimed to help consumers to back up their own DVD movies was involved in a legal battle with Hollywood studios. 321 Studio thought that the attempt to stifle this software is a violation of free speech under the first amendment, and thus is unconstitutional. Finally, 321 lose this battle and the California court deemed 321 Studio was banned from selling their DVD X Copy software. In August 2004, the 321 Studio was shut down.
 
 "The U.S. Library of Congress in 1999 conducted a rulemaking on the DMCA anti-circumvention rules that recognized the right of lawful users to circumvent broken access controls and assess software-filtering programs." ---------"Digital Rights Management {and, or, vs.} the Law" by Pamela Samuelson.
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### DRM-Free Works
 
@@ -149,12 +124,6 @@ According to the July 2014 Author Earnings Report, the indie titles without DRM 
 
 ![](http://www.epubor.com//www.epubor.com/images/uppic/daily-earnings_2017831165353.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 On February 6, 2007, Steve Jobs released an open letter to the public, which said, Apple Inc. has come up with a conclusion that DRM can't guarantee the songs bought from big record companies are not pirates. Therefore, Apple Inc. is willing to completely abolish DRM technology so that all MP3 player can play any music bought from any online music store. At the same time, using DRM technology can lead to leakage of privacy information. So Apple Inc. also called on the major record companies to stop using DRM technology. 
 
 Bill, chairman of Microsoft, during an interview in March 2007, also made it clear that he's disappointed at DRM. He thought that DRM let those legitimate music consumers suffer and did not play a role in preventing piracy. "DRM did not do its job". What upsets those download paid music consumers is that the music downloaded from iPod music store iTunes are protected by DRM and cannot play on SanDisk, innovation or Microsoft Zune player.
@@ -166,6 +135,19 @@ That was a big progress for anti-DRM. Also after download Amazon music, the cons
 Sill for Amazon, the owner decided to provide DRM-free comics in Comixology which is owned by Amazon since July 2014\. The comics purchased from Comixology were DRM versions before the time. This measure can be another step in taking comics further. 
 
 As long as companies have the best products, consumers are willing to pay for your products. Think about a few large companies such as Amazon. They admit the products they offered are the best. If they have the best goods, there is no need to put DRM into their products and make trouble for consumers. Take heart of grace and the consumers will give you the best answers and the companies will not be disappointed.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Organizations and notable persons fight against DRM
 
@@ -180,6 +162,13 @@ It also launched a campaign in 2006 with an anti-DRM protest at WinHEC. From the
 Two famous DRM critics are John Walker who wrote "The Digital Imprimatur: How Big brother and big media can put the Internet genie back in the bottle" and Richard Stallman who wrote "The Right to Read". Stallman even believes that "rights" in "Digital Rights Management" is misleading and suggested to use " Restrictions" as an instead. This terminology has been adopted by many other writer and critics from then on.
 
 There are also many other notable critics of DRM, including Professor Ross Anderson of Cambridge University. He is a header of a British organization which opposes DRM.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Call for Anti-DRM
 
@@ -196,8 +185,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 0 Comments
 
@@ -223,8 +210,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,45 +219,12 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-clearing-photos-expert-background-takedown-in-photopea/"><u>[New] Clearing Photos  Expert Background Takedown in Photopea</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-pinpointing-video-picks-s-social-landscape-facebook/"><u>[New] In 2024, Pinpointing Video Picks 'S Social Landscape (Facebook)</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-virtual-venue-face-off-assessing-obs-and-twitch-studios/"><u>[Updated] 2024 Approved  Virtual Venue Face-Off  Assessing OBS & Twitch Studios</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1-comparing-e-readers-kindle-fire-vs-kindle-paperwhite-which-one-wins/"><u>1. Comparing E-Readers: Kindle Fire Vs. Kindle Paperwhite – Which One Wins?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/a-comprehensive-guide-for-pc-users-unlocking-the-secrets-of-reading-ebooks-in-epub-format/"><u>A Comprehensive Guide For PC Users: Unlocking The Secrets Of Reading eBooks in EPUB Format</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/androids-best-youtube-video-downloaders-reviewed-for-2024/"><u>Android's Best YouTube Video Downloaders Reviewed for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/best-selling-epub-books-you-can-download-gratis/"><u>Best Selling EPUB Books You Can Download Gratis</u></a></li>
-<li><a href="https://discover-able.techidaily.com/come-convertilo-tre-soluzioni-innovative-per-cambiare-adobe-digital-editions-in-pdf/"><u>Come Convertilo: Tre Soluzioni Innovative per Cambiare Adobe Digital Editions in PDF</u></a></li>
-<li><a href="https://discover-able.techidaily.com/comment-supprimer-les-drm-de-vos-ebooks-amazon-kindle-en-2024-une-methode-detaillee-par-trois-etapes/"><u>Comment Supprimer Les DRM De Vos eBooks Amazon Kindle en 2024 : Une Méthode Détaillée Par Trois Étapes</u></a></li>
-<li><a href="https://discover-able.techidaily.com/como-compartir-tus-libros-electronicos-de-amazon-kindle-con-sus-mejores-amigos/"><u>Como Compartir Tus Libros Electrónicos De Amazon Kindle Con Sus Mejores Amigos</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-tutorial-on-resetting-a-kindle-or-kindle-fire-tablet/"><u>Complete Tutorial on Resetting a Kindle or Kindle Fire Tablet</u></a></li>
-<li><a href="https://discover-able.techidaily.com/comprehensive-tutorial-on-converting-secured-digital-rights-management-drm-books-into-readable-format/"><u>Comprehensive Tutorial on Converting Secured Digital Rights Management (DRM) Books Into Readable Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/convert-your-audible-aa-books-quickly-with-the-fastest-mp3-transformer/"><u>Convert Your Audible AA Books Quickly with the Fastest MP3 Transformer</u></a></li>
-<li><a href="https://discover-able.techidaily.com/converting-crystallographic-structures-a-comprehensive-tutorial-on-pdb-to-pdf-conversion-for-scientists-and-researchers/"><u>Converting Crystallographic Structures: A Comprehensive Tutorial on PDB to PDF Conversion for Scientists and Researchers</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-tutorial-on-converting-ebooks-from-azw-format-to-portable-document-format-pdf/"><u>Easy Tutorial on Converting eBooks From .azw Format to Portable Document Format (.pdf)</u></a></li>
-<li><a href="https://discover-able.techidaily.com/effizientes-acsm-zu-pdf-umwandeln-mit-unserer-spezialisierten-softwarelosung-fur-eine-nahtlose-konvertierung/"><u>Effizientes ACSM Zu PDF-Umwandeln Mit Unserer Spezialisierten Softwarelösung Für Eine Nahtlose Konvertierung</u></a></li>
-<li><a href="https://discover-able.techidaily.com/effortless-browsing-on-amazons-kindle-step-by-step-instructions-for-viewing-web-content/"><u>Effortless Browsing on Amazon's Kindle: Step-by-Step Instructions for Viewing Web Content</u></a></li>
-<li><a href="https://discover-able.techidaily.com/effortless-conversion-techniques-for-changing-epub-to-mobi-on-macos-devices/"><u>Effortless Conversion Techniques for Changing EPUB to MOBI on macOS Devices</u></a></li>
-<li><a href="https://discover-able.techidaily.com/essential-kindle-compatible-file-types-what-every-reader-must-understand/"><u>Essential Kindle-Compatible File Types: What Every Reader Must Understand</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exploring-benefits-learn-german-now/"><u>Exploring Benefits: Learn German Now!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/exploring-the-basics-understanding-azw-format/"><u>Exploring the Basics: Understanding AZW Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/free-mac-drm-free-ebook-converter-unlock-and-download-your-ebooks-now/"><u>Free Mac DRM-Free eBook Converter: Unlock and Download Your eBooks Now</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-motorola-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Motorola Face Lock?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/guide-to-obtaining-official-authorization-and-licensing/"><u>Guide to Obtaining Official Authorization and Licensing</u></a></li>
-<li><a href="https://discover-able.techidaily.com/guide-switching-your-kindles-language-setting-to-access-international-stores/"><u>Guide: Switching Your Kindle's Language Setting to Access International Stores</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-liberate-your-digital-library-step-by-step-tutorial-for-epub-drm-extraction-on-adobe-digital-editions/"><u>How to Liberate Your Digital Library: Step-by-Step Tutorial for EPUB DRM Extraction on Adobe Digital Editions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-read-protected-epub-books-from-adobe-drm-on-your-amazon-kindle-device/"><u>How to Read Protected EPUB Books From Adobe DRM on Your Amazon Kindle Device</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-save-your-ebooks-from-adobe-digital-editions-as-a-pdf-document/"><u>How to Save Your eBooks From Adobe Digital Editions as a PDF Document</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-transfer-and-read-ebooks-in-epub-format-directly-from-your-pc-to-your-ipad/"><u>How to Transfer and Read eBooks in EPub Format Directly From Your PC to Your iPad</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-zte-blade-a73-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from ZTE Blade A73 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/innovations-in-balancing-exposures-for-perfect-pictures-for-2024/"><u>Innovations in Balancing Exposures for Perfect Pictures for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/master-the-art-of-drm-free-reading-convert-ebooks-across-formats-safely/"><u>Master the Art of DRM-Free Reading – Convert eBooks Across Formats Safely</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mastering-linguistic-skills-the-key-to-unlocking-global-communication/"><u>Mastering Linguistic Skills: The Key to Unlocking Global Communication</u></a></li>
-<li><a href="https://discover-able.techidaily.com/rakuten-acquires-overdrive-strategies-and-implications-for-the-future-of-kindle-integration/"><u>Rakuten Acquires OverDrive: Strategies and Implications for the Future of Kindle Integration</u></a></li>
-<li><a href="https://discover-able.techidaily.com/rapidmp3-converter-speedy-tool-for-transforming-audible-audiobooks-into-mp3-format/"><u>RapidMP3 Converter - Speedy Tool for Transforming Audible Audiobooks Into MP3 Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/seamless-storytelling-how-to-enjoy-audible-books-through-your-kindle-device/"><u>Seamless Storytelling: How to Enjoy Audible Books Through Your Kindle Device</u></a></li>
-<li><a href="https://discover-able.techidaily.com/seamless-streaming-how-to-link-your-kindle-fire-hd-with-a-television/"><u>Seamless Streaming: How to Link Your Kindle Fire HD with a Television</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/should-you-use-etiquette-with-chatgpt-and-virtual-assistants/"><u>Should You Use Etiquette With ChatGPT and Virtual Assistants?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/streamline-your-content-best-12-html5-video-tools/"><u>Streamline Your Content  Best 12 HTML5 Video Tools</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-selection-elite-network-servers-racks-for-2n4/"><u>Ultimate Selection: Elite Network Servers Racks for 2N4</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-groundbreaking-tools-to-create-instagram-grids-that-wow/"><u>[New] 2024 Approved Groundbreaking Tools to Create Instagram Grids That Wow</u></a></li>
+<li><a href="https://discover-able.techidaily.com/converting-acsm-format-to-epub-the-ultimate-guide/"><u>Converting ACSM Format to EPUB: The Ultimate Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/crafting-quality-content-setting-up-your-mac-for-minecraft-sessions/"><u>Crafting Quality Content Setting Up Your Mac for Minecraft Sessions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/displaying-mobi-book-formats-on-your-kindle-fire-device-a-comprehensive-guide/"><u>Displaying MOBI Book Formats on Your Kindle Fire Device – A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/dive-into-amazons-kindle-collection-with-a-touch-of-kobo-vox-elegance-for-readers/"><u>Dive Into Amazon's Kindle Collection with a Touch of Kobo Vox Elegance for Readers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-strategies-to-protect-your-inbox-by-adding-your-domain-to-the-macos-mail-safelist/"><u>Expert Strategies to Protect Your Inbox by Adding Your Domain to the MacOS Mail Safelist</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solving-bloodhunts-crashes-and-skips-on-windows/"><u>Troubleshooting Guide: Solving Bloodhunt's Crashes and Skips on Windows</u></a></li>
 </ul></div>
+

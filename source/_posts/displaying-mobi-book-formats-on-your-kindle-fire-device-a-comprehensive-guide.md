@@ -1,42 +1,22 @@
 ---
 title: Displaying MOBI Book Formats on Your Kindle Fire Device – A Comprehensive Guide
-date: 2024-09-08T23:33:01.901Z
-updated: 2024-09-09T23:33:01.901Z
+date: 2024-09-10T19:32:45.078Z
+updated: 2024-09-14T23:38:55.648Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Displaying MOBI Book Formats on Your Kindle Fire Device – A Comprehensive Guide
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Make Mobi Files Display as Books on Kindle Fire
 
 Posted by [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) on 7/18/2024 10:53:14 AM.
 
 4.8 [(67 comments)](http://www.epubor.com/#comment-area) 
 
-
-
 ![follow](http://www.epubor.com/images/follow.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 MOBI is a well-known e-book format. The popular Amazon AZW e-book is just based on MOBI. You can find many MOBI ebooks on the amazon.com. But one problem I ever met when reading MOBI e-book on Kindle Fire is that some MOBI ebooks don't display in the "Books" category but "Docs" instead. This situation causes some inconvenience of managing a large number of ebooks as you have to browse in two different categories. Or just think about the scene that your favorite ebooks are mixed with some uncorrelated documents. It's totally a mess! So it's better to make MOBI files display as books on Kindle Fire, not docs.
 
 Before we start, we should figure out why the MOBI books display in "Docs". We know that the Docs category is used for storing personal documents like PDF, HTML, TXT or other documents sent by Amazon "Send to Kindle" service. Some MOBI ebooks are added personal document tag when generated so that the Kindle Fire will recognize them as documents but not ebooks.
@@ -49,12 +29,6 @@ Step 2 Open Calibre and choose "Add book" to add MOBI ebooks. You can add more b
 
 ![add-mobi-book](https://www.epubor.com/images/remote/D4/1D/D41D8C_1-add-mobi-book.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 3 Select all books in the list and choose "Convert books". Set the Output format as "MOBI" (or **"AZW3"**). Click "MOBI Output" at the left menu and find "Kindle Options" at right side. Delete the default "**\[PDOC\]**" and keep the **Personal Doc Tag** blank. Then click "OK" to start conversion. 
 
 **Importance Notice:**
@@ -73,12 +47,6 @@ Step 5 Connect your Kindle Fire to computer with USB cable. Transfer the MOBI fi
 
 ![make-mobi-files-display-as-books-on-kindle-fire](https://www.epubor.com/images/remote/D4/1D/D41D8C_5-mobi-files-displayed-as-books.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Pro Tips:**
 
 1\. In our test we find that some MOBI ebooks can still display in "Books" even you don't delete the "\[PDOC\]" but convert them with Calibre only. But I still suggest you replace the Personal Doc Tag with \[EBOK\] as this is more reliable.
@@ -91,12 +59,6 @@ Step 5 Connect your Kindle Fire to computer with USB cable. Transfer the MOBI fi
 
 ![author](https://www.epubor.com/images/uppic/jonny.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
 SHARING IS GREAT!
@@ -104,8 +66,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 67 Comments
 
@@ -938,8 +898,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -949,46 +907,34 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-mastering-video-capturing-made-simple-a-complete-guide-using-zd-software/"><u>[New] 2024 Approved  Mastering Video Capturing Made Simple  A Complete Guide Using ZD Software</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-golden-grounds-of-terrafirma-top-treasure-hunts/"><u>[Updated] In 2024, Golden Grounds of Terrafirma  Top Treasure Hunts</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1-comparing-e-readers-kindle-fire-vs-kindle-paperwhite-which-one-wins/"><u>1. Comparing E-Readers: Kindle Fire Vs. Kindle Paperwhite – Which One Wins?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sounds-of-laughter-top-ringtones-downloaders/"><u>2024 Approved  Sounds of Laughter  Top Ringtones Downloaders</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-top-30-metaverse-gems-diy-meme-ideas-unleashed/"><u>2024 Approved  Top 30 Metaverse Gems  DIY Meme Ideas Unleashed</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-visual-victory-a-guide-to-speed-up-picture-perfection-in-windows/"><u>2024 Approved  Visual Victory  A Guide to Speed Up Picture Perfection in Windows</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-z2-masterclass-smartphone-smarter-than-ever/"><u>2024 Approved  Z2 Masterclass  Smartphone Smarter Than Ever?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/a-comprehensive-guide-for-pc-users-unlocking-the-secrets-of-reading-ebooks-in-epub-format/"><u>A Comprehensive Guide For PC Users: Unlocking The Secrets Of Reading eBooks in EPUB Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/best-selling-epub-books-you-can-download-gratis/"><u>Best Selling EPUB Books You Can Download Gratis</u></a></li>
-<li><a href="https://discover-able.techidaily.com/come-convertilo-tre-soluzioni-innovative-per-cambiare-adobe-digital-editions-in-pdf/"><u>Come Convertilo: Tre Soluzioni Innovative per Cambiare Adobe Digital Editions in PDF</u></a></li>
-<li><a href="https://discover-able.techidaily.com/comment-supprimer-les-drm-de-vos-ebooks-amazon-kindle-en-2024-une-methode-detaillee-par-trois-etapes/"><u>Comment Supprimer Les DRM De Vos eBooks Amazon Kindle en 2024 : Une Méthode Détaillée Par Trois Étapes</u></a></li>
-<li><a href="https://discover-able.techidaily.com/como-compartir-tus-libros-electronicos-de-amazon-kindle-con-sus-mejores-amigos/"><u>Como Compartir Tus Libros Electrónicos De Amazon Kindle Con Sus Mejores Amigos</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-tutorial-on-resetting-a-kindle-or-kindle-fire-tablet/"><u>Complete Tutorial on Resetting a Kindle or Kindle Fire Tablet</u></a></li>
-<li><a href="https://discover-able.techidaily.com/comprehensive-tutorial-on-converting-secured-digital-rights-management-drm-books-into-readable-format/"><u>Comprehensive Tutorial on Converting Secured Digital Rights Management (DRM) Books Into Readable Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/convert-your-audible-aa-books-quickly-with-the-fastest-mp3-transformer/"><u>Convert Your Audible AA Books Quickly with the Fastest MP3 Transformer</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-obs-mastery-streaming-success-on-fb/"><u>[New] OBS Mastery Streaming Success on FB</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-optimal-visual-snatchers-for-videos-for-2024/"><u>[Updated] Optimal Visual Snatchers for Videos for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-xiaomi-redmi-13c-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Xiaomi Redmi 13C Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-expert-tips-to-cut-through-false-social-endorsements/"><u>2024 Approved Expert Tips to Cut Through False Social Endorsements</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/capture-the-moment-a-guide-to-superior-webcam-recorders/"><u>Capture the Moment - A Guide to Superior WebCam Recorders</u></a></li>
 <li><a href="https://discover-able.techidaily.com/converting-acsm-format-to-epub-the-ultimate-guide/"><u>Converting ACSM Format to EPUB: The Ultimate Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/exporting-your-amazon-kindle-annotations-a-step-by-step-guide/"><u>Exporting Your Amazon Kindle Annotations: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/feast-of-nations-international-dishes-on-tiktok-for-2024/"><u>Feast of Nations  International Dishes on TikTok for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-get-the-most-out-of-your-streamlabs-obs-setup/"><u>How to Get the Most Out of Your Streamlabs OBS Setup</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-remove-or-delete-a-program-efficiently/"><u>How to Remove or Delete a Program Efficiently</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-xr-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone XR?</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-nokia-c12-plus-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Nokia C12 Plus to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/inside-look-features-and-performance-battle-of-google-play-books-versus-kindle-ereaders/"><u>Inside Look: Features and Performance Battle of Google Play Books versus Kindle eReaders</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ize-youtube-traffic-select-best-rankers-explained-for-2024/"><u>Optimize YouTube Traffic  Select Best Rankers Explained for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/pdf-konvertierung-fur-acm-zu-xps-schnelle-und-einfache-methode/"><u>PDF-Konvertierung Für ACM Zu XPS: Schnelle Und Einfache Methode</u></a></li>
-<li><a href="https://discover-able.techidaily.com/seamless-conversion-from-amazons-kindle-azw-and-azw3-books-to-universally-compatible-epub-ebooks-step-by-step-instructions/"><u>Seamless Conversion From Amazon's Kindle AZW and AZW3 Books to Universally Compatible EPUB eBooks: Step-by-Step Instructions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/seamless-conversion-guide-transforming-your-ibooks-into-compatible-kindle-format/"><u>Seamless Conversion Guide: Transforming Your iBooks Into Compatible Kindle Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-converting-aax-audio-files-to-mp3-on-windows-10/"><u>Step-by-Step Guide: Converting AAX Audio Files to MP3 on Windows 10</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-unlocking-your-kindle-paperwhite/"><u>Step-by-Step Guide: Unlocking Your Kindle Paperwhite</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-tutorial-access-and-enjoy-your-kindle-library-seamlessly-on-macos/"><u>Step-by-Step Tutorial: Access and Enjoy Your Kindle Library Seamlessly on macOS</u></a></li>
-<li><a href="https://discover-able.techidaily.com/steps-to-enhance-your-kindle-azw-ebooks-with-protective-sleeves-and-decorative-wraps/"><u>Steps to Enhance Your Kindle (AZW) Ebooks with Protective Sleeves and Decorative Wraps</u></a></li>
-<li><a href="https://discover-able.techidaily.com/steps-to-remove-drm-protection-from-an-ebook-a-complete-guide/"><u>Steps to Remove DRM Protection From an eBook: A Complete Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/the-essentials-of-acceptable-usage-policies-and-legal-contracts-for-users/"><u>The Essentials of Acceptable Usage Policies & Legal Contracts for Users</u></a></li>
-<li><a href="https://discover-able.techidaily.com/the-ultimate-guide-selecting-the-best-5-mobile-bookworms-supporting-azw3-format-for-googles-os/"><u>The Ultimate Guide: Selecting the Best 5 Mobile Bookworms Supporting AZW3 Format for Google's OS</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transferring-rss-content-onto-your-kindle-device-easy-steps-for-seamless-reading/"><u>Transferring RSS Content Onto Your Kindle Device - Easy Steps for Seamless Reading</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-guide-how-to-remove-digital-rights-management-drm-from-e-books-in-various-formats/"><u>Ultimate Guide: How to Remove Digital Rights Management (DRM) From E-Books in Various Formats</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-guide-top-tools-for-efficiently-combining-and-dividing-pdf-files/"><u>Ultimate Guide: Top Tools for Efficiently Combining and Dividing PDF Files</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-tutorial-the-comprehensive-journey-into-blank-skills/"><u>Ultimate Tutorial: The Comprehensive Journey Into Blank Skills</u></a></li>
-<li><a href="https://discover-able.techidaily.com/understanding-kindle-unlimited-membership-comprehensive-frequently-asked-questions/"><u>Understanding Kindle Unlimited Membership: Comprehensive Frequently Asked Questions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/unlocking-your-ebooks-how-to-disable-drm-on-chapter-9-and-beyond/"><u>Unlocking Your eBooks: How to Disable DRM on Chapter 9 and Beyond</u></a></li>
+<li><a href="https://discover-able.techidaily.com/dive-into-amazons-kindle-collection-with-a-touch-of-kobo-vox-elegance-for-readers/"><u>Dive Into Amazon's Kindle Collection with a Touch of Kobo Vox Elegance for Readers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-audio-file-transformation-the-best-audible-converter-tools/"><u>Easy Audio File Transformation: The Best Audible Converter Tools</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-guide-eliminating-drm-protection-on-nook-epub-books/"><u>Easy Guide: Eliminating DRM Protection on NOOK ePub Books</u></a></li>
+<li><a href="https://discover-able.techidaily.com/elevate-your-career-with-cutting-edge-technology-training-and-expert-tips/"><u>Elevate Your Career with Cutting-Edge Technology Training and Expert Tips!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/essential-kindle-hacks-free-resources-and-supportive-services-for-an-optimal-digital-reading-experience/"><u>Essential Kindle Hacks, Free Resources & Supportive Services for an Optimal Digital Reading Experience</u></a></li>
+<li><a href="https://discover-able.techidaily.com/expert-guide-mastering-the-art-of-blank-techniques/"><u>Expert Guide: Mastering the Art of Blank Techniques</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-mastering-file-shift-quick-and-easy-transfer-tactics-for-the-computer/"><u>In 2024, Mastering File Shift Quick and Easy Transfer Tactics for the Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-seamless-speech-recognition-the-pinnacle-of-googles-translation/"><u>In 2024, Seamless Speech Recognition The Pinnacle of Google's Translation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-tutorial-adjusting-button-layout-and-swipe-actions-for-enhanced-android-interaction/"><u>Step-by-Step Tutorial: Adjusting Button Layout & Swipe Actions for Enhanced Android Interaction</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ultimate-vision-tech-top-5-for-slow-motion-for-2024/"><u>Ultimate Vision Tech Top 5 for Slow Motion for 2024</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+

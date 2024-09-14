@@ -1,7 +1,7 @@
 ---
 title: Sodium Is a Metal that Is Solid at Room Temperature.
-date: 2024-09-08T23:33:02.897Z
-updated: 2024-09-09T23:33:02.897Z
+date: 2024-09-13T22:05:26.405Z
+updated: 2024-09-14T18:14:24.777Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831fe3b245b44881a2b3d8e123.jpg
@@ -9,19 +9,11 @@ thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831
 
 ## Sodium Is a Metal that Is Solid at Room Temperature.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Read eBooks on Windows 8
 
 Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 2:09:04 PM.
 
 5 [(1 comments)](http://www.epubor.com/#comment-area) 
-
-
 
 ![follow](http://www.epubor.com/images/follow.png)
 
@@ -31,12 +23,6 @@ It seems that more and more people use Windows 8 operating system on their compu
 
 ![kindle for windows 8](http://www.epubor.com/images/uppic/kindle-for-win-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Let's start with the Kindle books. Reading Kindle books on Windows 8 seems to be much more simple than epub/pdf books. The program needed is just the Kindle for Windows 8 App. 
 
 1Get the needed program ready.
@@ -51,12 +37,6 @@ Get the Kindle app running on windows 8\. Using your Amazon Account to register 
 
 After you register the Kindle app, all the Kindle books you purchased under your account will be synced automatically. The kindle books will be listed for you.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Read EPUB & PDF eBooks on Windows 8 
 
 You can get specific software to read epub and pdf ebooks correspondingly which may offer you much nicer reading experience. However, the integrated way is more convenient.
@@ -65,24 +45,12 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 
 ![read ebooks on windows 8](http://www.epubor.com/images/uppic/read-ebooks-on-windows-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The epub books here have to be DRM-free ones. For reading epub ebooks on Windows 8, [Metro Reader](https://www.microsoft.com/en-us/store/p/metro-reader/9nblggh08czx) is the first off-line ebook reader for it. Metro Reader supports epub and txt formats. There are two reading modes provided: the day mode & the night mode. You can choose it as you need. And the snap mode is of course indispensable. The Table of Contents is supported (only for epub books). Besides, CoverFlow and GridView are supported in it. The font size of the content is customizable, so you can change it as you like. When reading your epub books with it, you can set it as the one-page mode or the two-page mode. Very flexible, right? It sells $2.99 now and free trial is available.
 
 #### **2\. Adobe Reader to Read DRM-Free PDF on Windows 8** 
 
 ![read pdf on win 8](http://www.epubor.com/images/uppic/read-pdf-on-win-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115924/19272" target="_top" id="2115924">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115924" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115924/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 For reading pdf ebooks on Windows 8, a nice choice would be [Adobe Reader.](http://apps.microsoft.com/windows/en-US/app/adobe-reader/162a2931-8ee6-4a56-9570-53282525d7a3)It's free in Windows app store, so this can be an advantage of it. There is nothing better than freebies. This software works perfectly with Windows 8 operating system. It opens your pdf files quickly (including password-protected but non-DRM pdfs). This software offers many functions to help users get a better reading experience. For example, you can take notes when you are reading. 
 
 ####   **3\. Read DRM EPUB & PDF on Windows 8**
@@ -120,12 +88,6 @@ Related Articles
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123477/16836" target="_top" id="2123477">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123477" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123477/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
 SHARING IS GREAT!
@@ -133,8 +95,6 @@ SHARING IS GREAT!
 [Tweet](https://twitter.com/share) 
 
 [SAVE PAGE AS PDF](https://tools.techidaily.com/epubor/products/) 
-
-
 
 1 Comments
 
@@ -182,8 +142,6 @@ Leave a comment
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,39 +151,32 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-photopeas-background-erase-technique/"><u>[New] 2024 Approved  Mastering Photopea's Background Erase Technique</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-professional-video-tweaks-with-these-top-8-free-editing-apps/"><u>[New] In 2024, Professional Video Tweaks with These Top 8 Free Editing Apps</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-in-game-audio-capture-in-overwatch/"><u>[Updated] In 2024, Mastering In-Game Audio Capture in Overwatch</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/aurora-hdr-superior-or-subpar-imaging/"><u>Aurora HDR  Superior or Subpar Imaging?</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/bite-sized-biographical-look-for-2024/"><u>Bite-Sized Biographical Look for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-guide-to-bypassing-kobo-drm-gain-full-control-over-your-library/"><u>Complete Guide to Bypassing Kobo DRM - Gain Full Control Over Your Library</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-guide-to-downloading-instagram-on-amazon-kindle-fire-devices/"><u>Complete Guide to Downloading Instagram on Amazon Kindle Fire Devices</u></a></li>
-<li><a href="https://discover-able.techidaily.com/convert-mobi-files-to-epub-gratis-top-3-strategies-for-seamless-conversion/"><u>Convert MOBI Files to EPUB Gratis: Top 3 Strategies for Seamless Conversion</u></a></li>
-<li><a href="https://discover-able.techidaily.com/converting-acsm-format-to-epub-the-ultimate-guide/"><u>Converting ACSM Format to EPUB: The Ultimate Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/displaying-mobi-book-formats-on-your-kindle-fire-device-a-comprehensive-guide/"><u>Displaying MOBI Book Formats on Your Kindle Fire Device – A Comprehensive Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/dive-into-amazons-kindle-collection-with-a-touch-of-kobo-vox-elegance-for-readers/"><u>Dive Into Amazon's Kindle Collection with a Touch of Kobo Vox Elegance for Readers</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-audio-file-transformation-the-best-audible-converter-tools/"><u>Easy Audio File Transformation: The Best Audible Converter Tools</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-guide-eliminating-drm-protection-on-nook-epub-books/"><u>Easy Guide: Eliminating DRM Protection on NOOK ePub Books</u></a></li>
-<li><a href="https://discover-able.techidaily.com/elevate-your-career-with-cutting-edge-technology-training-and-expert-tips/"><u>Elevate Your Career with Cutting-Edge Technology Training and Expert Tips!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/essential-kindle-hacks-free-resources-and-supportive-services-for-an-optimal-digital-reading-experience/"><u>Essential Kindle Hacks, Free Resources & Supportive Services for an Optimal Digital Reading Experience</u></a></li>
-<li><a href="https://discover-able.techidaily.com/expert-guide-mastering-the-art-of-blank-techniques/"><u>Expert Guide: Mastering the Art of Blank Techniques</u></a></li>
-<li><a href="https://discover-able.techidaily.com/exporting-your-amazon-kindle-annotations-a-step-by-step-guide/"><u>Exporting Your Amazon Kindle Annotations: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-motorola-moto-g-stylus-5g-2023-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Motorola Moto G Stylus 5G (2023)</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-remove-or-delete-a-program-efficiently/"><u>How to Remove or Delete a Program Efficiently</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-13t-pro-by-fonelab-android-recover-music/"><u>How to retrieve erased music from 13T Pro</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/in-depth-maxsun-terminator-z790m-d5-ice-motherboard-analysis-featuring-5-m2-slots-and-ultrawhite-design/"><u>In-Depth Maxsun Terminator Z790M D5 Ice Motherboard Analysis – Featuring 5 M.2 Slots & Ultrawhite Design</u></a></li>
-<li><a href="https://discover-able.techidaily.com/inside-look-features-and-performance-battle-of-google-play-books-versus-kindle-ereaders/"><u>Inside Look: Features and Performance Battle of Google Play Books versus Kindle eReaders</u></a></li>
-<li><a href="https://discover-able.techidaily.com/pdf-konvertierung-fur-acm-zu-xps-schnelle-und-einfache-methode/"><u>PDF-Konvertierung Für ACM Zu XPS: Schnelle Und Einfache Methode</u></a></li>
-<li><a href="https://driver-error.techidaily.com/resolved-compatibility-issue-unsupported-amdintel-graphics-with-premiere-pro/"><u>Resolved Compatibility Issue: Unsupported AMD/Intel Graphics with Premiere Pro</u></a></li>
-<li><a href="https://discover-able.techidaily.com/seamless-conversion-from-amazons-kindle-azw-and-azw3-books-to-universally-compatible-epub-ebooks-step-by-step-instructions/"><u>Seamless Conversion From Amazon's Kindle AZW and AZW3 Books to Universally Compatible EPUB eBooks: Step-by-Step Instructions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/seamless-conversion-guide-transforming-your-ibooks-into-compatible-kindle-format/"><u>Seamless Conversion Guide: Transforming Your iBooks Into Compatible Kindle Format</u></a></li>
-<li><a href="https://discover-able.techidaily.com/seamless-streaming-how-to-link-your-kindle-fire-hd-with-a-television/"><u>Seamless Streaming: How to Link Your Kindle Fire HD with a Television</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/securing-tomorrows-web-top-7-anticipated-cybersecurity-innovations/"><u>Securing Tomorrow's Web: Top 7 Anticipated Cybersecurity Innovations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/socialvideocutter-download-feature-for-2024/"><u>SocialVideoCutter  Download Feature for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-converting-aax-audio-files-to-mp3-on-windows-10/"><u>Step-by-Step Guide: Converting AAX Audio Files to MP3 on Windows 10</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-unlocking-your-kindle-paperwhite/"><u>Step-by-Step Guide: Unlocking Your Kindle Paperwhite</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-tutorial-access-and-enjoy-your-kindle-library-seamlessly-on-macos/"><u>Step-by-Step Tutorial: Access and Enjoy Your Kindle Library Seamlessly on macOS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-ultimate-checklist-for-a-premium-4k-lens-buy/"><u>The Ultimate Checklist for a Premium 4K Lens Buy</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-rev-up-your-videos-10-best-free-speed-changing-apps-for-ios-and-android-for-2024/"><u>Updated Rev Up Your Videos 10 Best Free Speed Changing Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-tips-for-turning-off-automatic-podcast-adds-on-spotify/"><u>[New] 2024 Approved Tips for Turning Off Automatic Podcast Adds on Spotify</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensively-reviewing-top-10-no-cost-video-communication-apps-for-professional-and-academic-needs-for-2024/"><u>[New] Comprehensively Reviewing Top 10 No-Cost Video Communication Apps for Professional and Academic Needs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-2-secrets-to-convert-instagram-videos-into-premium-mp4/"><u>[New] In 2024, Top 2 Secrets to Convert Instagram Videos Into Premium MP4</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-crafting-impressive-hdr-images-using-lightroom/"><u>[New] The Art of Crafting Impressive HDR Images Using Lightroom</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/anticipated-pricing-for-new-xbox-vr-gadget-with-insight-into-future-debut-and-features/"><u>Anticipated Pricing for New Xbox VR Gadget with Insight Into Future Debut & Features</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comment-supprimer-les-drm-de-vos-ebooks-amazon-kindle-en-2024-une-methode-detaillee-par-trois-etapes/"><u>Comment Supprimer Les DRM De Vos eBooks Amazon Kindle en 2024 : Une Méthode Détaillée Par Trois Étapes</u></a></li>
+<li><a href="https://discover-able.techidaily.com/como-compartir-tus-libros-electronicos-de-amazon-kindle-con-sus-mejores-amigos/"><u>Como Compartir Tus Libros Electrónicos De Amazon Kindle Con Sus Mejores Amigos</u></a></li>
+<li><a href="https://discover-able.techidaily.com/complete-tutorial-on-resetting-a-kindle-or-kindle-fire-tablet/"><u>Complete Tutorial on Resetting a Kindle or Kindle Fire Tablet</u></a></li>
+<li><a href="https://discover-able.techidaily.com/convert-your-audible-aa-books-quickly-with-the-fastest-mp3-transformer/"><u>Convert Your Audible AA Books Quickly with the Fastest MP3 Transformer</u></a></li>
+<li><a href="https://discover-able.techidaily.com/converting-crystallographic-structures-a-comprehensive-tutorial-on-pdb-to-pdf-conversion-for-scientists-and-researchers/"><u>Converting Crystallographic Structures: A Comprehensive Tutorial on PDB to PDF Conversion for Scientists and Researchers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-tutorial-on-converting-ebooks-from-azw-format-to-portable-document-format-pdf/"><u>Easy Tutorial on Converting eBooks From .azw Format to Portable Document Format (.pdf)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-the-pipe-worlds-a-selection-of-the-superior-six-mario-games-on-pc/"><u>Navigating the Pipe Worlds: A Selection of the Superior Six Mario Games on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-installing-a-full-screen-color-picker-tool-in-windows-10/"><u>Ultimate Guide to Installing a Full-Screen Color Picker Tool in Windows 10</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
