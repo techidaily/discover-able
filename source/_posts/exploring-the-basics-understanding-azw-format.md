@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Basics: Understanding AZW Format"
-date: 2024-09-11T19:50:53.758Z
-updated: 2024-09-14T22:35:55.818Z
+date: 2024-09-15T02:12:26.681Z
+updated: 2024-09-19T02:07:27.507Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500c43a741b28a10c98f28c4a5.jpg
@@ -101,13 +101,6 @@ Lastly, choose EPUB/AZW3/TXT/PDF/Mobi as the output format, then click the Conve
 
 Now your purchased azw books are 100% owned by you. 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### How to edit azw file
 
 Epubor Ultimate can also edit the metadata of decrypted azw file. But if you can't edit some decrypted azw file, then this azw file is definitely a KFX file. There's one limitation about Epubor Ultimate is that it can't edit a KFX file's metadata by now. But the good news is that you can convert azw to epub/azw3/mobi/pdf/txt before editing the metadata. 
@@ -120,9 +113,23 @@ Calibre can edit azw file,too, but KFX files are not included. You can right cli
 
 ![edit meta calibre](http://www.epubor.com/images/uppic/edit-meta-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Therefore, Calibre can neither open KFX file nor decrypted azw file(some DRM free azw file are actually kfx file), let alone edit the metadata. But Epubor Ultimate can decrypt DRMed azw files as well as convert formats. And it can also help you eidt the metadata of the decrypted book, including KFX file(you must convert KFX to epub/mobi/pdf/txt before editing metadata). 
 
 **Tips**: If you want to decrypt DRM-protected Kindle AZW books with Calibre, you can read this step-by-step guide about [how to convert Kindle books to EPUB/Mobi/PDF with Calibre](https://tools.techidaily.com/epubor/products/).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -139,13 +146,6 @@ Suggested reading
 * [How to Convert AZW to PDF](https://tools.techidaily.com/epubor/products/)
 
 ![author](http://www.epubor.com/images/uppic/Hillary.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Amy Lopez](https://shorturl.at/bmsEO) crafts informative articles on eBooks and eReaders, uncovering optimal methods to enhance your eBook reading experience, and eagerly shares her findings with you.
 
@@ -188,21 +188,20 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-8-best-wedding-videos-on-youtube-and-vimeo/"><u>[New] In 2024, 8 Best Wedding Videos on YouTube and Vimeo</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-mastering-the-art-of-backwards-videos-on-instagram/"><u>[New] In 2024, Mastering the Art of Backwards Videos on Instagram</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-the-complete-process-of-video-recording-and-editing-on-adobe-connect/"><u>[New] The Complete Process of Video Recording & Editing on Adobe Connect</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-transformative-tiktok-techniques-for-business-expansion/"><u>[Updated] 2024 Approved Transformative TikTok Techniques for Business Expansion</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-liberate-your-digital-library-step-by-step-tutorial-for-epub-drm-extraction-on-adobe-digital-editions/"><u>How to Liberate Your Digital Library: Step-by-Step Tutorial for EPUB DRM Extraction on Adobe Digital Editions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-read-protected-epub-books-from-adobe-drm-on-your-amazon-kindle-device/"><u>How to Read Protected EPUB Books From Adobe DRM on Your Amazon Kindle Device</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-save-your-ebooks-from-adobe-digital-editions-as-a-pdf-document/"><u>How to Save Your eBooks From Adobe Digital Editions as a PDF Document</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-transfer-and-read-ebooks-in-epub-format-directly-from-your-pc-to-your-ipad/"><u>How to Transfer and Read eBooks in EPub Format Directly From Your PC to Your iPad</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-play-8t-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor Play 8T to iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-master-guide-crafting-perfect-collages/"><u>In 2024, Master Guide Crafting Perfect Collages</u></a></li>
-<li><a href="https://discover-able.techidaily.com/master-the-art-of-drm-free-reading-convert-ebooks-across-formats-safely/"><u>Master the Art of DRM-Free Reading – Convert eBooks Across Formats Safely</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mastering-linguistic-skills-the-key-to-unlocking-global-communication/"><u>Mastering Linguistic Skills: The Key to Unlocking Global Communication</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/peaceful-playback-practices-for-pcos-users/"><u>Peaceful Playback Practices for PC/OS Users</u></a></li>
-<li><a href="https://discover-able.techidaily.com/rakuten-acquires-overdrive-strategies-and-implications-for-the-future-of-kindle-integration/"><u>Rakuten Acquires OverDrive: Strategies and Implications for the Future of Kindle Integration</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/step-by-step-guide-to-live-stream-your-google-meet-on-youtube-for-2024/"><u>Step-By-Step Guide to Live Stream Your Google Meet on YouTube for 2024</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/ultimate-guide-and-comprehensive-review-mastering-mp4-video-format-conversions/"><u>Ultimate Guide & Comprehensive Review: Mastering MP4 Video Format Conversions</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-snap-success/"><u>[Updated] 2024 Approved Unveiling the Secrets to Snap Success</u></a></li>
+<li><a href="https://discover-able.techidaily.com/3-audiophile-editing-tools-beyond-aviutl/"><u>「アビユートルを超える3つの最優秀編集ツール」 - Audiophile Editing Tools Beyond AviUtl</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-top-rated-pc-and-web-based-avi-to-iphone-video-conversion-software/"><u>1. Top Rated PC and Web-Based AVI to iPhone Video Conversion Software</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-hassle-free-photo-and-video-upload-ios-device/"><u>2024 Approved Hassle-Free Photo & Video Upload IOS Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-realme-11-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Realme 11 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-enhance-your-experience-with-updated-xp-pen-controls/"><u>Download and Enhance Your Experience with Updated XP-Pen Controls</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effortless-techniques-for-rapid-amv-to-avi-file-transformation/"><u>Effortless Techniques for Rapid AMV to AVI File Transformation</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-apple-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Bypassing iCloud Activation Lock on Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-top-online-tools-to-generate-artificial-faces-for-free/"><u>In 2024, Top Online Tools to Generate Artificial Faces for Free</u></a></li>
+<li><a href="https://blog-min.techidaily.com/live-streaming-with-manycam-top-virtual-camera-and-broadcasting-app/"><u>Live Streaming with ManyCam: Top Virtual Camera and Broadcasting App</u></a></li>
+<li><a href="https://discover-able.techidaily.com/no-more-errors-your-destination-is-here-at-wonderfox/"><u>No More Errors: Your Destination Is Here at WonderFox</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726030582122-obs/"><u>OBSマニュアル：音声だけに焦点を当てた録音方法</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/speedy-tiktok-video-acquisition-guide/"><u>Speedy TikTok Video Acquisition Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-successfully-adding-and-setting-up-the-apex-sports-extension-with-matrix-support-in-kodi/"><u>Step-by-Step Guide: Successfully Adding and Setting Up the Apex Sports Extension with Matrix Support in Kodi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-elite-list-of-online-marketplaces-for-surprise-gift-containers/"><u>The Elite List of Online Marketplaces for Surprise Gift Containers</u></a></li>
 </ul></div>
 

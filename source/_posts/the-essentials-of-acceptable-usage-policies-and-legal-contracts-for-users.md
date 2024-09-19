@@ -1,7 +1,7 @@
 ---
 title: The Essentials of Acceptable Usage Policies & Legal Contracts for Users
-date: 2024-09-12T17:09:11.621Z
-updated: 2024-09-14T16:26:24.944Z
+date: 2024-09-13T02:46:44.735Z
+updated: 2024-09-18T18:46:17.839Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c350e0ba60cc8399b6967ad03.jpg
@@ -67,6 +67,13 @@ Step 3, Send email to support@epubor.com. Once your email has been received, our
 
 ![refund steps](https://www.epubor.com/images/refund-steps.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Single-User License
 
 Installation of the program purchased under a Single-User Personal License is restricted to one single personal computer owned by or under control of the license plus one additional computer also owned by the license, eg.: One computer at home and another at work, or a desktop at home and a laptop at home. However, at any given time only one copy of the purchased programs may be in use.
@@ -77,13 +84,6 @@ Installation of the program purchased under a Single-User Personal License is re
 
 **Lifetime-license**: In lifetime since you purchase our software, anytime you have a problem in using the software, you can contact us and get our technical support in 24/7\. And you can also get the regular software update for free.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Multi-users licenses
 
 A multi-users license is not assigned to an individual user. The license can be installed on the specific numbers of computers entirely within your family, organizations and corporation, etc. 
@@ -93,13 +93,6 @@ A multi-users license is not assigned to an individual user. The license can be 
 Pricing for multi-user license depends on the number of end user. **The more users, the cheaper price.**If you are intend to purchase hundreds of licenses or more, we can give you a lower price, please [open a ticket](http://www.epubor.com/mailto:support@epubor.com) and our customer service will contact you within 24 hours in working days. 
 
 Please note: only by checking our via 2checkout you can benefit the discount. When you change the units number, the price per license will lower down automatically.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Extended download service
 
@@ -136,10 +129,10 @@ For all the license change and upgrade terms, you are required to **show us your
 [Join in Epubor Editor Team to Get Lifetime License for Free](https://tools.techidaily.com/epubor/products/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Secure Shopping Guarantee
@@ -172,6 +165,13 @@ We will cover the liability of purchases made through this web site only if the 
 * CONNECT WITH US
 * [![facebook](http://www.epubor.com/images/fb.png)](https://www.facebook.com/eBookConverter)[![twitter](http://www.epubor.com/images/tw.png)](https://twitter.com/eBook%5FConverter)[![linkedin](http://www.epubor.com/images/Linkedin-Logo.png)](https://www.linkedin.com/company/epubor/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Subscribe
 * Submit
 
@@ -202,12 +202,20 @@ Copyright © 2011-2024 www.epubor.com. All rights reserved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/end-the-annoyance-steps-to-cease-relentless-cursor-blindness/"><u>End the Annoyance: Steps to Cease Relentless Cursor Blindness</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-guide-to-finding-free-westeros-ringtones/"><u>In 2024, The Ultimate Guide to Finding Free Westeros Ringtones</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722971335816-logitech-c615-drivers-easy-trouble-shoot-and-solutions-provided/"><u>Logitech C615 Drivers – Easy Trouble-Shoot & Solutions Provided</u></a></li>
-<li><a href="https://discover-able.techidaily.com/steps-to-remove-drm-protection-from-an-ebook-a-complete-guide/"><u>Steps to Remove DRM Protection From an eBook: A Complete Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/superior-software-for-beat-alteration-tech/"><u>Superior Software for Beat Alteration Tech</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-guide-top-tools-for-efficiently-combining-and-dividing-pdf-files/"><u>Ultimate Guide: Top Tools for Efficiently Combining and Dividing PDF Files</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-tutorial-the-comprehensive-journey-into-blank-skills/"><u>Ultimate Tutorial: The Comprehensive Journey Into Blank Skills</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-step-by-step-guide-to-hulu-screen-capture-for-various-operating-systems-for-2024/"><u>[Updated] Step-by-Step Guide to Hulu Screen Capture for Various Operating Systems for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-complete-list-where-to-find-high-quality-music-files-for-2024/"><u>A Complete List Where to Find High-Quality Music Files for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comment-convertir-un-fichier-nef-en-format-jpeg-guide-dutilisation-du-convertisseur-de-demovavi/"><u>Comment Convertir Un Fichier NEF en Format JPEG : Guide D'utilisation Du Convertisseur De DeMovavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversione-file-quicktime-qt-a-formato-movie-mov-soluzione-online-e-gratuita-da-movavi/"><u>Conversione File QuickTime (QT) a Formato Movie (MOV): Soluzione Online E Gratuita Da Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-vivo-y02t-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Vivo Y02T Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/embark-on-a-reality-shifting-journey-creating-an-account-for-your-oculus-quest-or-quest-2-headset/"><u>Embark on a Reality-Shifting Journey - Creating an Account for Your Oculus Quest or Quest 2 Headset</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ce-videos-at-no-extra-cost-best-editors-ranked-top-9/"><u>Enhance Videos at No Extra Cost Best Editors Ranked (Top 9)</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-unveiling-engagement-secrets-top-10-video-reacting-techniques/"><u>In 2024, Unveiling Engagement Secrets Top 10 Video Reacting Techniques</u></a></li>
+<li><a href="https://discover-able.techidaily.com/online-free-ogg-to-m4a-converter-by-movavi/"><u>Online Free OGG to M4A Converter by Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/online-vrije-m4a-convertisseur-voor-wav-filelen-movavi/"><u>Online Vrije M4A-Convertisseur Voor WAV-Filelen: Movavi</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/t-mobile-enters-the-fiber-arena-a-game-changer-for-telecom-rivalry/"><u>T-Mobile Enters the Fiber Arena - A Game Changer for Telecom Rivalry</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/top-10-terraria-game-boosters-for-2024/"><u>Top 10 Terraria Game Boosters for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-mp4-trimming-tools-how-to-resize-and-convert-videos-seamlessly/"><u>Top MP4 Trimming Tools: How to Resize and Convert Videos Seamlessly</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transformez-vos-fichiers-mkv-en-audio-aac-gratuitement-sur-internet-avec-movavi/"><u>Transformez Vos Fichiers MKV en Audio AAC Gratuitement Sur Internet - Avec Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/upload-videos-to-instagram-via-desktop-a-detailed-tutorial-for-windows-and-mac-users/"><u>Upload Videos to Instagram via Desktop: A Detailed Tutorial for Windows and Mac Users</u></a></li>
 </ul></div>
 

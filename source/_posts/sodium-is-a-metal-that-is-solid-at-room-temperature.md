@@ -1,7 +1,7 @@
 ---
 title: Sodium Is a Metal that Is Solid at Room Temperature.
-date: 2024-09-13T22:05:26.405Z
-updated: 2024-09-14T18:14:24.777Z
+date: 2024-09-16T17:17:45.837Z
+updated: 2024-09-18T21:55:58.899Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831fe3b245b44881a2b3d8e123.jpg
@@ -151,32 +151,28 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-tips-for-turning-off-automatic-podcast-adds-on-spotify/"><u>[New] 2024 Approved Tips for Turning Off Automatic Podcast Adds on Spotify</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-comprehensively-reviewing-top-10-no-cost-video-communication-apps-for-professional-and-academic-needs-for-2024/"><u>[New] Comprehensively Reviewing Top 10 No-Cost Video Communication Apps for Professional and Academic Needs for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-top-2-secrets-to-convert-instagram-videos-into-premium-mp4/"><u>[New] In 2024, Top 2 Secrets to Convert Instagram Videos Into Premium MP4</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-art-of-crafting-impressive-hdr-images-using-lightroom/"><u>[New] The Art of Crafting Impressive HDR Images Using Lightroom</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/anticipated-pricing-for-new-xbox-vr-gadget-with-insight-into-future-debut-and-features/"><u>Anticipated Pricing for New Xbox VR Gadget with Insight Into Future Debut & Features</u></a></li>
-<li><a href="https://discover-able.techidaily.com/comment-supprimer-les-drm-de-vos-ebooks-amazon-kindle-en-2024-une-methode-detaillee-par-trois-etapes/"><u>Comment Supprimer Les DRM De Vos eBooks Amazon Kindle en 2024 : Une Méthode Détaillée Par Trois Étapes</u></a></li>
-<li><a href="https://discover-able.techidaily.com/como-compartir-tus-libros-electronicos-de-amazon-kindle-con-sus-mejores-amigos/"><u>Como Compartir Tus Libros Electrónicos De Amazon Kindle Con Sus Mejores Amigos</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-tutorial-on-resetting-a-kindle-or-kindle-fire-tablet/"><u>Complete Tutorial on Resetting a Kindle or Kindle Fire Tablet</u></a></li>
-<li><a href="https://discover-able.techidaily.com/convert-your-audible-aa-books-quickly-with-the-fastest-mp3-transformer/"><u>Convert Your Audible AA Books Quickly with the Fastest MP3 Transformer</u></a></li>
-<li><a href="https://discover-able.techidaily.com/converting-crystallographic-structures-a-comprehensive-tutorial-on-pdb-to-pdf-conversion-for-scientists-and-researchers/"><u>Converting Crystallographic Structures: A Comprehensive Tutorial on PDB to PDF Conversion for Scientists and Researchers</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-tutorial-on-converting-ebooks-from-azw-format-to-portable-document-format-pdf/"><u>Easy Tutorial on Converting eBooks From .azw Format to Portable Document Format (.pdf)</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>How to Use Pokémon Emerald Master Ball Cheat On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/navigating-the-pipe-worlds-a-selection-of-the-superior-six-mario-games-on-pc/"><u>Navigating the Pipe Worlds: A Selection of the Superior Six Mario Games on PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/ultimate-guide-to-installing-a-full-screen-color-picker-tool-in-windows-10/"><u>Ultimate Guide to Installing a Full-Screen Color Picker Tool in Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-earning-through-eyes-the-actual-youtube-view-count-needed/"><u>[New] 2024 Approved Earning Through Eyes The Actual YouTube View Count Needed</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-nifty-editing-edits-discover-the-top-5-online-strategies-for-cutting-and-condensing-videos/"><u>[Updated] Nifty Editing Edits Discover the Top 5 Online Strategies for Cutting & Condensing Videos</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mp4-vob/"><u>効率的な手ブレーカー使い方: MP4, VOBビデオを一度にマージするテクニック</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-downgrade-iphone-11-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 11 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-idea-to-recording-a-comprehensive-guide-to-podcast-scripting/"><u>In 2024, From Idea to Recording A Comprehensive Guide to Podcast Scripting</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967107058-install-microsofts-comfort-designed-ergokeyboard-4000-download-drivers-fast/"><u>Install Microsoft's Comfort-Designed ErgoKeyboard 4000 - Download Drivers Fast!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/iphoneflv/"><u>IPhone対応のFLV形式動画をスムーズに見るためのガイド</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mastering-dvd-viewing-the-best-free-windows-11-dvd-decoding-tools-explained/"><u>Mastering DVD Viewing: The Best Free Windows 11 DVD Decoding Tools Explained</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-the-hp-beats-audio-drivers-challenge-on-windows-versions-11-8-and-ebit-6-successful-tips-and-fixes/"><u>Mastering the HP Beats Audio Drivers Challenge on Windows Versions 11, 8 & Ebit-6 – Successful Tips and Fixes</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-viral-internet-landscape-for-2024/"><u>Navigating the Viral Internet Landscape for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/pcfod-and-mp4/"><u>PC上でFOD動画を安全にダウンロード & MP4形式に変換するテクニック</u></a></li>
+<li><a href="https://discover-able.techidaily.com/proven-approaches-to-turn-your-videos-into-text-format-options-with-or-without-subtitles/"><u>Proven Approaches to Turn Your Videos Into Text Format - Options with or Without Subtitles</u></a></li>
+<li><a href="https://discover-able.techidaily.com/quick-guide-to-seamlessly-transform-mts-videos-into-avi-for-high-quality-playback/"><u>Quick Guide to Seamlessly Transform MTS Videos Into AVI for High-Quality Playback</u></a></li>
+<li><a href="https://discover-able.techidaily.com/simple-methods-how-to-get-audio-out-of-flv-videos-at-no-cost/"><u>Simple Methods: How to Get Audio Out of FLV Videos at No Cost!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-fitbit-inspire-hr-a-247-activity-tracker-for-enhanced-health-monitoring/"><u>The Ultimate Guide to the Fitbit Inspire HR - A 24/7 Activity Tracker for Enhanced Health Monitoring</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-your-connection-download-the-new-hdmi-to-usb-drivers-instantly/"><u>Update Your Connection: Download the New HDMI to USB Drivers Instantly!</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

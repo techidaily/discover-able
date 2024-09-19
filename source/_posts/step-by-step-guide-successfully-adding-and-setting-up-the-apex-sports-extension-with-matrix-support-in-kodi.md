@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Successfully Adding and Setting Up the Apex Sports Extension with Matrix Support in Kodi"
-date: 2024-09-08 12:29:17
-updated: 2024-09-11 10:26:33
+date: 2024-09-17T22:27:44.998Z
+updated: 2024-09-19T00:57:31.047Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/20d5859d1451225abaa94d6d3c8c9cdada02fd525d9a47948cb889f866ae7774.jpg
@@ -80,6 +80,13 @@ Just install this Windows video editor on your PC and learn how to edit a video 
 
 [Free Download](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## \---How to Edit Videos with the Free Video Editor
 
 ### Step 1: Add the Source Video into the Program
@@ -97,6 +104,13 @@ _**#1\. Merge the Videos**_
 To [merge videos into one file](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), you first need to import at least 2 or more video files into the program. Click the **Merge** button on the top menu bar and you will see the videos under the **Video List**. Select the videos and click the **middle Merge** button to save the videos in **Pack 1**. You can adjust the video order in the video pack. You can also repeat the step to create multiple packs. Finally, click the **bottom Merge** button to save the changes.
 
 ![How to Edit Videos on Laptop Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-2.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Also See:** [Free Video Merger without Watermark](https://tools.techidaily.com/videoconverterfactory/video-watermark/) | [Join Videos without Re-encoding](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
@@ -120,6 +134,13 @@ Enter the **Crop** window by clicking the fourth icon on the toolbar. It offers 
 
 ![Best Free Video Editor for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-5.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 _**#5\. Add Effects/Filter to Video**_
 
 Hit on the **Magic Wand** icon to open the **Effect** window and [add effects to the video](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/). There are 18 predefined filters available for you to choose from. Meanwhile, you can also adjust the **Brightness**, **Contrast**, **Saturation**, and **Hue** of the added effect. Then hit **OK** to return to the main interface.
@@ -131,6 +152,13 @@ _**#6\. Add Watermark to Video**_
 Click the **Stamper** icon to bring up the **Watermark** window. Here you can type in the text to [add text watermark](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) and adjust the text font, size, etc. You can also [add the image watermark](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) from the preset image or your local drive and adjust the shadow, opacity, and location of the added watermark. Then press **OK** to go back.
 
 ![How to Edit Videos on Laptop Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-7.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _**#7\. Edit the Video Metadata**_
 
@@ -163,6 +191,13 @@ When everything is OK, specify a destination folder to save the output video by 
 Apart from the video editing and conversion features, Free HD Video Converter also enables you to download 8K/4K/2K/1080P/720P videos and music from 500+ popular sites. Download and experience it now!
 
 [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) [Free Download Compatible with Windows 11/10/8.1/8/7/... 100% Clean & Safe](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Final Words...
 
@@ -210,11 +245,30 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-unlock-the-potential-of-dslr-with-facebook-live-compatible-pcsmacs-for-2024/"><u>[New] Unlock the Potential of DSLR with Facebook LIVE, Compatible PCs/Macs for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-behind-the-scenes-unpacking-instagram-stories/"><u>[Updated] 2024 Approved Behind the Scenes Unpacking Instagram Stories</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-commercial-free-android-vision-capturer-for-2024/"><u>[Updated] Commercial-Free Android Vision Capturer for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-complete-itunes-users-manual-recording/"><u>[Updated] In 2024, The Complete iTunes User's Manual (Recording)</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726029424615-7/"><u>「自由に利用できるビデオから音声を取り出すための方法とソフトウェア7選」</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726028812276-movm4v/"><u>高速MOVからM4Vへの変換：快適で質の良いファイルコンバート手順</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/he-cord-with-youtube-mp3-conversion-tools/"><u>Cut the Cord with YouTube-MP3 Conversion Tools</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-a14-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy A14 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 Plus To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-from-voice-to-verse-a-novices-guide-to-creating-a-polished-podcast-masterpiece/"><u>New 2024 Approved From Voice to Verse A Novices Guide to Creating a Polished Podcast Masterpiece</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-guide-to-the-best-windows-11-dvd-to-avi-transcoding-software-of-2e24/"><u>Ultimate Guide to the Best Window's 11 DVD to AVI Transcoding Software of 2E24</u></a></li>
+<li><a href="https://discover-able.techidaily.com/windows-1011mp4mp3-12/"><u>Windows 10/11でMP4ファイルからMP3コンバータ - ベスト無料ツール12選</u></a></li>
+<li><a href="https://discover-able.techidaily.com/windows-11dvd/"><u>Windows 11におけるDVD再生の問題：トラブルシューティングガイド</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726029771229-youtube/"><u>YouTube動画ダウンロード:ハードディスクへの記録手順</u></a></li>
+<li><a href="https://discover-able.techidaily.com/aviutlmp3/"><u>ぴったりフィットするAviUtl用MP3読み込めない問題を簡単に直す手引き</u></a></li>
+</ul></div>
+

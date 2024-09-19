@@ -1,7 +1,7 @@
 ---
 title: "Silent Recording Techniques: Capturing Videos Without Audio on Desktops and Smartphones"
-date: 2024-09-08 19:39:45
-updated: 2024-09-11 12:18:34
+date: 2024-09-11T19:46:40.563Z
+updated: 2024-09-19T01:07:53.414Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
@@ -97,6 +97,13 @@ _Tips. iMovie is pre-installed on a Mac computer. If you don’t have the app, d
 
 Here, we provide two ways to remove audio from a video on your Android or iOS device: Google Photos and InShot.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### • Google Photos
 
 Google Photos is the home for all your photos and videos automatically organized and easy to share. The app is pre-installed on most Android phones, while iPhone and iPad users can download it from the App Store. With this app, you can mute, trim, crop, rotate, add a filter and effect, or export a still from your video.
@@ -178,6 +185,13 @@ VSDC Free Video Editor is an excellent tool for editing your videos on Windows. 
 
 Yes. There are many ways to [remove sound from iPhone videos](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), such as using the Photos app, iMovie, an online video editor, or a third-party audio remover.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Q2\. How do I remove a specific audio track from a video?
 
 Firstly, import your video into the editing software and separate the audio from the video. Then, select and delete the audio track you want to remove.
@@ -186,6 +200,20 @@ Firstly, import your video into the editing software and separate the audio from
  Check the complete guide on [how to remove certain audio from video >>](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
 ![How to Remove Certain Audio from Video](https://www.videoconverterfactory.com/tips/imgs-self/how-to-remove-audio-from-video/how-to-remove-audio-from-video-13.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Q3\. How to mute a video on different apps?
 
@@ -196,6 +224,13 @@ Firstly, import your video into the editing software and separate the audio from
 **TikTok:** Simply drag the slider of the volume bar to zero. You can also go to TikTok’s settings to make videos start muted by default.
 
 **WhatsApp:** Open the app on your iPhone or Android. Next, select Chats > choose chat to mute or open a video from your gallery. Finally, tap the speaker icon to mute it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bottom Line
 
@@ -221,11 +256,23 @@ It’s the easiest way to convert, edit, and download videos on Windows. Beyond 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-audiences-choice-in-drama-writings/"><u>[Updated] Audience's Choice in Drama Writings</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/mp4rmvb/"><u>初学者ガイド：高解像度MP4へのRMVBファイル変換手順</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adding-descriptive-tags-to-your-images-on-pcs-and-macs-for-2024/"><u>Adding Descriptive Tags to Your Images on PCs and Macs for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-guide-reading-your-favorite-manga-on-amazon-kindle-devices/"><u>Easy Guide: Reading Your Favorite Manga on Amazon Kindle Devices</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-trp-to-mp4-transformation-free-online-editing-tool-by-movavi/"><u>Easy Trp-to-Mp4 Transformation: Free Online Editing Tool by Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/get-your-movavi-video-converter-now-safe-transaction-and-special-offers-await/"><u>Get Your Movavi Video Converter Now - Safe Transaction and Special Offers Await!</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-poco-f5-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Poco F5 5G FRP In 3 Different Ways</u></a></li>
+<li><a href="https://discover-able.techidaily.com/strategia-rapida-e-facile-cambiare-i-tuoi-file-mp3-in-m4r-con-movavi-video-converter/"><u>Strategia Rapida E Facile: Cambiare I Tuoi File MP3 in M4R Con Movavi Video Converter</u></a></li>
+</ul></div>
+

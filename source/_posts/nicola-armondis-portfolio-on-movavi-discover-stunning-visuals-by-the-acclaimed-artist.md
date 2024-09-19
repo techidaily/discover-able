@@ -1,7 +1,7 @@
 ---
 title: Nicola Armondi's Portfolio on Movavi – Discover Stunning Visuals by the Acclaimed Artist
-date: 2024-09-13T16:53:11.187Z
-updated: 2024-09-14T19:21:07.652Z
+date: 2024-09-15T20:16:49.888Z
+updated: 2024-09-18T21:48:17.854Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/99b109a018ec790ad915859b13c869439cc17a979bbda283730a317cf601feb3.png
@@ -214,6 +214,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -278,19 +285,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -311,13 +305,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le centre de contrôle AMD/ATI
 
 Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disent qu'elles rivalisent même avec leur concurrent NVIDIA. Modifiez ces paramètres pour optimiser les jeux de Windows 10.
@@ -325,6 +312,13 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 1. Activez l'accentuation des images d'AMD en cliquant sur **Paramètres**, puis sur **Graphiques** pour trouver le paramètre. Vous pouvez l'activer pour des jeux individuels ou globalement.
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
 
@@ -345,10 +339,10 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
@@ -447,15 +441,22 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -544,13 +545,6 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Avez-vous des questions ?
 
 [Visitez notre centre d'assistance](https://tools.techidaily.com/movavi/products/)
@@ -586,18 +580,17 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-innovative-phone-applications-altering-your-natural-tone/"><u>[New] 2024 Approved Innovative Phone Applications Altering Your Natural Tone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-masterful-monitoring-with-the-latest-asus-proart-4k-display/"><u>[New] Masterful Monitoring with the Latest ASUS ProArt 4K Display</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-mastering-multiperspective-media-expert-guide-to-instagram-video-rotations/"><u>[Updated] Mastering Multiperspective Media Expert Guide to Instagram Video Rotations</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-pranksters-paradise-iphone-memes/"><u>[Updated] Pranksters' Paradise - iPhone Memes</u></a></li>
-<li><a href="https://discover-able.techidaily.com/best-selling-epub-books-you-can-download-gratis/"><u>Best Selling EPUB Books You Can Download Gratis</u></a></li>
-<li><a href="https://discover-able.techidaily.com/come-convertilo-tre-soluzioni-innovative-per-cambiare-adobe-digital-editions-in-pdf/"><u>Come Convertilo: Tre Soluzioni Innovative per Cambiare Adobe Digital Editions in PDF</u></a></li>
-<li><a href="https://discover-able.techidaily.com/comment-supprimer-les-drm-de-vos-ebooks-amazon-kindle-en-2024-une-methode-detaillee-par-trois-etapes/"><u>Comment Supprimer Les DRM De Vos eBooks Amazon Kindle en 2024 : Une Méthode Détaillée Par Trois Étapes</u></a></li>
-<li><a href="https://discover-able.techidaily.com/como-compartir-tus-libros-electronicos-de-amazon-kindle-con-sus-mejores-amigos/"><u>Como Compartir Tus Libros Electrónicos De Amazon Kindle Con Sus Mejores Amigos</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-tutorial-on-resetting-a-kindle-or-kindle-fire-tablet/"><u>Complete Tutorial on Resetting a Kindle or Kindle Fire Tablet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-setup-guide-canon-dr-c225-drivers-for-windows-10-8-and-latest-version/"><u>Download & Setup Guide: Canon DR-C225 Drivers for Windows 10, 8 & Latest Version</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-vivo-s18e-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Vivo S18e To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/spotlight-savvy-profiling-and-promoting-on-snapchat-for-2024/"><u>Spotlight Savvy Profiling and Promoting on Snapchat for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Tecno Spark 10 4G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-unlock-potential-discover-these-30-compelling-nicknames-for-tiktok/"><u>[New] Unlock Potential Discover These 30 Compelling Nicknames for TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-uncharted-territory-latest-windows-10-apps-and-games/"><u>[Updated] Uncharted Territory Latest Windows 10 Apps & Games</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-unlock-the-potential-of-your-camera-creating-stunning-slow-motion-videos-for-instagram-for-2024/"><u>[Updated] Unlock the Potential of Your Camera Creating Stunning Slow-Motion Videos for Instagram for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726219601569-10/"><u>10優秀な無料ウィンドウズ動画編集ソフトウェア・オプションランキング</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726226131167-movavi-ogg-mpeg/"><u>使用 MOVAVI 自由下載器，如何把 OGG 檔案快速轉換為 MPEG 格式</u></a></li>
+<li><a href="https://discover-able.techidaily.com/au-file-wattoen-in-wav-formaat-voorneemend-kostenloos-en-timmerend-movavi-convert/"><u>Au File Wattoen in Wav Formaat Voorneemend, Kostenloos en TIMMEREND - Movavi Convert</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/creating-smooth-edits-implementing-fades-in-video-editing/"><u>Creating Smooth Edits Implementing Fades in Video Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cutting-edge-approaches-to-adjacent-and-distinct-windows-partition-merging/"><u>Cutting-Edge Approaches to Adjacent and Distinct Windows Partition Merging</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/effortless-fix-for-stop-error-criticalprocessdied-0x00000116/"><u>Effortless Fix for Stop Error 'CRITICAL_PROCESS_DIED' (0X00000116)</u></a></li>
+<li><a href="https://discover-able.techidaily.com/gratuit-wykant-eten-wmv-naar-mpeg-en-online-zoekmeester-voor-movavi/"><u>Gratuit Wykant Eten WMV Naar MPEG en Online - Zoekmeester Voor Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-benefits-googles-bard-ai-evolution-through-palm-2/"><u>Unveiling the Benefits: Google’s Bard AI Evolution Through PaLM 2</u></a></li>
 </ul></div>
 

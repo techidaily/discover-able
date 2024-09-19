@@ -1,7 +1,7 @@
 ---
 title: A Comprehensive Guide to Applying Stunning Overlay Effects in Web Design
-date: 2024-09-13T20:55:19.198Z
-updated: 2024-09-14T23:15:03.076Z
+date: 2024-09-17T20:36:52.706Z
+updated: 2024-09-18T18:36:28.338Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/4e09b5e1cc338687bdb5629756ebeeb2fe654043864239ecb486e820200a0bb1.jpg
@@ -176,6 +176,13 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
@@ -214,13 +221,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -243,6 +243,13 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
@@ -260,13 +267,6 @@ Pour définir vos heures actives, appuyez sur la   **touche Windows** \+ **I**, 
 Si vous êtes un joueur de nuit ou si vos heures de sommeil varient considérablement, de sorte que vous ne pouvez pas définir une heure de repos spécifique, nous vous conseillons (en plus de changer vos habitudes de sommeil) de vous assurer que Windows vous rappelle chaque fois qu'il voudra redémarrer afin que, si cela se produit pendant que vous jouez, vous puissiez toujours le retarder.
 
 Pour ce faire, retournez à Windows Update, cliquez sur **Advanced options** et assurez-vous que l'interrupteur sous **We'll show a reminder when we're going to restart** est activé.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Réglez les paramètres de vos effets visuels
 
@@ -358,6 +358,13 @@ Le choix de la première mise à niveau dépend des types de jeux auxquels vous 
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez votre RAM à niveau
 
 La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise à niveau du processeur ou du GPU. Mais elle peut donner à votre matériel le coup de pouce dont il a besoin pour augmenter votre fréquence d'images et améliorer votre expérience de jeu globale. 
@@ -365,13 +372,6 @@ La mise à niveau de votre RAM n'aura pas un effet aussi important que la mise �
 De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente régulièrement, car les titres les plus récents recommandent une mémoire vive de 12 Go. 
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'algorithme de Nagle
 
@@ -393,6 +393,19 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
+
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -416,13 +429,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -430,6 +436,13 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -482,13 +495,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -580,13 +586,21 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-9-powerful-youtube-video-downloader-for-android-for-2024/"><u>[New] 9 Powerful YouTube Video Downloader for Android for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/comparing-epub-and-mobi-determining-the-optimal-ebook-format-for-your-reader-device/"><u>Comparing EPUB and MOBI: Determining the Optimal eBook Format for Your Reader Device</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-guide-to-bypassing-kobo-drm-gain-full-control-over-your-library/"><u>Complete Guide to Bypassing Kobo DRM - Gain Full Control Over Your Library</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-guide-how-to-bypass-drm-protection-on-e-books-epub-pdf-azw-formats/"><u>Complete Guide: How to Bypass DRM Protection on E-Books (ePUB, PDF, AZW Formats)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/grab-prime-time-savings-premium-roku-models-now-at-record-low-prices/"><u>Grab Prime Time Savings: Premium Roku Models Now at Record Low Prices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On Apple iPhone 12 Pro without Password?</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/successfully-tackled-persistent-doubling-of-mouse-clicks/"><u>Successfully Tackled: Persistent Doubling of Mouse Clicks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/troubleshooting-audio-issues-installing-the-latest-realtek-hd-manager-on-windows-10-and-11-systems/"><u>Troubleshooting Audio Issues: Installing the Latest Realtek HD Manager on Windows 10 & 11 Systems</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-make-the-most-of-your-gaming-experience-top-methods-to-document-minecraft-on-mac/"><u>[New] In 2024, Make the Most of Your Gaming Experience - Top Methods to Document Minecraft on Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-streamlining-color-correction-leveraging-look-up-tables-from-cg-central/"><u>[New] In 2024, Streamlining Color Correction Leveraging Look-Up Tables From CG Central</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726227115782-mac/"><u>「美麗でモダン: Macユーザー向けカスタムスライドショー制作ガイド」</u></a></li>
+<li><a href="https://win-web.techidaily.com/1-how-to-resolve-video-playback-issues-on-your-iphone-fast-fixes-and-solutions/"><u>1. How to Resolve Video Playback Issues on Your iPhone - Fast Fixes and Solutions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726222292322-vob-movavi/"><u>無需付費的線上 VOB 流動式電影 - Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726221855721-cr2tiff-movavi/"><u>線上將CR2數位相機拍立方體編碼成TIFF - 利用Movavi轉換器進行無限制自由使用</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726226772752-jpggif-movavi/"><u>在线无需付费将JPG图片转换为GIF - 运用Movavi编辑器</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/building-your-own-digital-classroom-a-five-step-guide-to-launching-a-successful-online-course-2024-edition/"><u>Building Your Own Digital Classroom: A Five-Step Guide to Launching a Successful Online Course - 2024 Edition</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-lenovo-screen-brightness-loss/"><u>Correcting Lenovo Screen Brightness Loss</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/incorporating-side-content-a-filmmakers-guide-for-2024/"><u>Incorporating Side Content A Filmmaker's Guide for 2024</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-10-best-sites-to-download-bgm-music/"><u>New 2024 Approved 10 Best Sites to Download BGM Music</u></a></li>
+<li><a href="https://discover-able.techidaily.com/subir-contenido-de-forma-exitosa-al-tiktok-con-estas-cuatro-tecnicas/"><u>Subir Contenido De Forma Exitosa Al TikTok Con Estas Cuatro Técnicas</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-8-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 8 for Parents | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-mp4-trimming-tools-how-to-resize-and-convert-videos-seamlessly/"><u>Top MP4 Trimming Tools: How to Resize and Convert Videos Seamlessly</u></a></li>
+<li><a href="https://discover-able.techidaily.com/trier-et-convertissez-un-fichier-amv-au-format-mpeg-gratuitement-en-ligne-movavi/"><u>Trier Et Convertissez Un FICHIER AMV Au Format MPEG Gratuitement en Ligne - Movavi</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-google-translate-video-a-complete-guide-to-translate-video-with-google/"><u>Updated Google Translate Video A Complete Guide To Translate Video With Google</u></a></li>
 </ul></div>
 
