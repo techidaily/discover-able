@@ -1,7 +1,7 @@
 ---
 title: "Rakuten Acquires OverDrive: Strategies and Implications for the Future of Kindle Integration"
-date: 2024-09-12T03:03:23.254Z
-updated: 2024-09-18T17:46:59.061Z
+date: 2024-09-26T11:55:33.513Z
+updated: 2024-10-03T05:17:16.955Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/289107adae482c208effdc1eb510e9f1c669fd2ac79f6588ee6f56110294810a.jpg
@@ -23,6 +23,13 @@ I'm so surprised when I know the news that **Rakuten bought Overdrive company fo
 
 Overdrive is a leading marketplace in the library eBooks and audiobooks market. He is the person who makes digital media available to libraries, school students, and others. With Overdrive service, we can borrow or purchase books easily and read them on Kindle, Android, IOS devices.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### About Rakuten and Overdrive
 
 Rakuten, a major Japanese retailer, looks like it had strong confidence in eBooks industry and they will try its best to play its own role. Rakuten said today that it considers digital books as a strong part of its content ecosystem which covers video site Viki and on-demand video streaming service Wuaki.tv.
@@ -39,6 +46,13 @@ Steve Potash, Overdrive founder and CEO, added:
 > Rakuten’s vision of empowerment is  
 > perfectly aligned with OverDrive. Since 1986, our vision has been to advance digital publishing and content to connect readers with books and information. We’re passionate about working with publishers, libraries, schools and retailers to make that happen, and we are very excited to join an innovative company that shares and supports our vision.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How will they deal with Kindle?
 
 Overdrive will be acquised by Rakuten in April, and they will operate as a subsidiary of Rakuten.
@@ -46,6 +60,13 @@ Overdrive will be acquised by Rakuten in April, and they will operate as a subsi
 It is great for Kobo customers because we can get eBooks directly from libraries onto our Kobo devices via Overdrive, no need to transfer via Adobe Digital Editions on a computer. 
 
 But for a large number of Kindle users, like me, I wonder **what's it mean for Kindle library eBooks**. All content in Overdrive libraries will be used to boost Rakutens Kobo e-reader and e-book store, which will compete with Amazon Kindle eReaders.![impaction](http://www.epubor.com/images/uppic/impaction.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 I believe they will work together to make more user-friendly services, which may make some users like to read books with Kobo devices or apps. But at the same time I believe (I hope) they would increase sales of Kindle library books, in a differnt way. 
 
@@ -64,6 +85,13 @@ Why worry about? Two big eReader platforms with access to a large amount of cont
 Abovhttps://share.hsforms.com/1XMDdDw\_CReqsb5-qCwX6fgc1yk8" target="\_blank" rel="nofollow">with a ticket, then I will consider adding them to this content. For more detailed comparison between Kindle and Kobo, please read [Kindle VS. Kobo](https://tools.techidaily.com/epubor/products/). 
 
 ![author](https://www.epubor.com/images/uppic/1-22-2013 12-03-06 AM.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Ada Wang](https://plus.google.com/+AdaWang/posts) works for Epubor and writes articles for a collection of blogs such as ebookconverter.blogspot.com.
 
@@ -104,12 +132,21 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-a-comprehensive-walkthrough-of-adding-text-to-instagram-clips/"><u>[New] 2024 Approved A Comprehensive Walkthrough of Adding Text to Instagram Clips</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-epic-audio-essentials-top-10-for-trending-yt-shorts/"><u>[New] 2024 Approved Epic Audio Essentials Top 10 for Trending YT Shorts</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-shuffle-youtube-playlist-for-2024/"><u>[Updated] How to Shuffle YouTube Playlist for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/comprehensive-review-the-best-software-solutions-for-total-iphone-data-cleansing-top-10-picks/"><u>Comprehensive Review: The Best Software Solutions for Total iPhone Data Cleansing (Top 10 Picks)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gameplay-smoothness-overcoming-frequent-frame-drops-and-delays-in-gaming/"><u>Enhance Gameplay Smoothness: Overcoming Frequent Frame Drops & Delays in Gaming</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-epson-v39-software-compatible-with-windows-7-10-get-your-drivers-here/"><u>Latest Epson V39 Software Compatible with Windows 7-10 – Get Your Drivers Here!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-huawei-nova-y71-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Huawei Nova Y71 Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-ensuring-your-controller-works-with-steam-on-windows-computers/"><u>Step-by-Step Solutions: Ensuring Your Controller Works with Steam on Windows Computers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-guide-how-to-remove-digital-rights-management-drm-from-e-books-in-various-formats/"><u>Ultimate Guide: How to Remove Digital Rights Management (DRM) From E-Books in Various Formats</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-guide-top-tools-for-efficiently-combining-and-dividing-pdf-files/"><u>Ultimate Guide: Top Tools for Efficiently Combining and Dividing PDF Files</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-tutorial-the-comprehensive-journey-into-blank-skills/"><u>Ultimate Tutorial: The Comprehensive Journey Into Blank Skills</u></a></li>
+<li><a href="https://discover-able.techidaily.com/understanding-kindle-unlimited-membership-comprehensive-frequently-asked-questions/"><u>Understanding Kindle Unlimited Membership: Comprehensive Frequently Asked Questions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/unlocking-your-ebooks-how-to-disable-drm-on-chapter-9-and-beyond/"><u>Unlocking Your eBooks: How to Disable DRM on Chapter 9 and Beyond</u></a></li>
+</ul></div>
 

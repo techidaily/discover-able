@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Rights Management: An In-Depth Look at DRM Functionality"
-date: 2024-09-17T16:29:39.994Z
-updated: 2024-09-19T01:10:15.212Z
+date: 2024-09-28T21:20:12.769Z
+updated: 2024-10-03T11:50:16.061Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5c8fee31ed3df2a195c8af00.jpg
@@ -25,6 +25,13 @@ From my point of view, also the view of most people, DRM represents Digital Rest
 
 Aren't these objects such as eBooks or music we bought from distributors belong to us? Why are there so many limitations after we paid so much? Think about these questions. We all be restricted when using the products we bought with each penny. And you will find the necessity of Digital Rights Management which attached to products from those sanctimonious distributors does not look so reasonable. Rather, the deep meaning of DRM represents Digital Restrictions Management.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### How Does DRM Work?
 
 As a matter of fact, DRM deprives the usage control of the person in owning digital contents and makes a computer or a procedure to take over the right of control. And it is composed of four comment stages which are packaging, distribution, license-serving, and license acquisition.
@@ -35,19 +42,6 @@ Stage 3 is license serving where specialized servers authenticate legitimate use
 Stage 4 is license acquisition which designed for legitimate customers acquire their encryption keys to unlock their files.
 
 For example, when you bought a software with costs, if you want to use it, the most widely used license serving will appear according to the service provider. Generally, the access key must be tied to one machine, device or account. Others can't get the right to access the contents when they don't purchase them or transfer the original contents.
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Industries Using DRM
 
@@ -112,6 +106,13 @@ The statutory and Common law interpretations of copyright law afford individuals
 
 There is a wrong understanding on DRM can decrease the quantity of piracy. On the contrary, DRM version only can be pirated more times than the DRM-free version. For example, after Witcher 3 was released, CD Projekt Red which is the makers of Witcher 3 discovered that the DRM-protected disk version was pirated more times than the DRM-free version sold by online download.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Law of DRM
 
 The most famous law of DRM is the Digital Millennium Copyright Act (DMCA), which released a clause about the ban on "circumventing" digital rights management (DRM) and other "technological protection measures" that was signed in by President Bill Clinton on October 28, 1998\. This clause is criticized by Electronic Frontier Foundation (EFF) which is one of the famous anti-DRM organization. EFF thinks the merchants will take advantage of the DMCA to against consumers, scientists, and legitimate competitors rather than withstand copyright infringers.
@@ -130,6 +131,13 @@ According to the July 2014 Author Earnings Report, the indie titles without DRM 
 
 ![](http://www.epubor.com//www.epubor.com/images/uppic/daily-earnings_2017831165353.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 On February 6, 2007, Steve Jobs released an open letter to the public, which said, Apple Inc. has come up with a conclusion that DRM can't guarantee the songs bought from big record companies are not pirates. Therefore, Apple Inc. is willing to completely abolish DRM technology so that all MP3 player can play any music bought from any online music store. At the same time, using DRM technology can lead to leakage of privacy information. So Apple Inc. also called on the major record companies to stop using DRM technology. 
 
 Bill, chairman of Microsoft, during an interview in March 2007, also made it clear that he's disappointed at DRM. He thought that DRM let those legitimate music consumers suffer and did not play a role in preventing piracy. "DRM did not do its job". What upsets those download paid music consumers is that the music downloaded from iPod music store iTunes are protected by DRM and cannot play on SanDisk, innovation or Microsoft Zune player.
@@ -141,13 +149,6 @@ That was a big progress for anti-DRM. Also after download Amazon music, the cons
 Sill for Amazon, the owner decided to provide DRM-free comics in Comixology which is owned by Amazon since July 2014\. The comics purchased from Comixology were DRM versions before the time. This measure can be another step in taking comics further. 
 
 As long as companies have the best products, consumers are willing to pay for your products. Think about a few large companies such as Amazon. They admit the products they offered are the best. If they have the best goods, there is no need to put DRM into their products and make trouble for consumers. Take heart of grace and the consumers will give you the best answers and the companies will not be disappointed.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Organizations and notable persons fight against DRM
 
@@ -163,6 +164,13 @@ Two famous DRM critics are John Walker who wrote "The Digital Imprimatur: How Bi
 
 There are also many other notable critics of DRM, including Professor Ross Anderson of Cambridge University. He is a header of a British organization which opposes DRM.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Call for Anti-DRM
 
 Many people think that supporting removal DRM means supporting piracy. The truth is not the case. This idea is also an insult to the basic consumers' right of ownership and privacy. Actually, DRM is ineffective in stop piracy because it can often be cracked and missed its original goal. In another word, even a kid can decrypt an Amazon eBook with Epubor Ultimate software within 2 seconds. The vendors who use DRM in their products should remember that people buy a product do not mean they are going to distribute them. 
@@ -170,13 +178,6 @@ Many people think that supporting removal DRM means supporting piracy. The truth
 And we also believe that with the development of science and technology, more and more new electronic equipment are launched, DRM-free products can get more living space. One day a kind of technology which can both to protect the copyright and do not give consumers any using trouble will appear, but definitely not the present DRM technology. DRM doesn't be used to against copyright infringer, but instead against consumers, scientists and legitimate competitors. Consumers should not pay for the present defective DRM technology. The action of anti-DRM is carried out for the convenience of everyone's life.
 
 ![author](http://www.epubor.com/images/uppic/iris.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Iris Yan](https://www.facebook.com/iris.yan.16718) has been a passionate member of Epubor since 2017\. Her mission is to enhance your ebook reading experience by sharing insightful tips and tricks. Join her on a journey towards reading excellence today!
 
@@ -217,5 +218,21 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-bandicam-unveiled-the-complete-review/"><u>[New] 2024 Approved Bandicam Unveiled The Complete, Review</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-digital-domination-worlds-top-10-video-content-kings-and-queens/"><u>[New] 2024 Approved Digital Domination World's Top 10 Video Content Kings & Queens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-eye-catcher-gaming-creating-striking-template-designs-for-2024/"><u>[New] Eye Catcher Gaming Creating Striking Template Designs for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/our-first-steps-in-the-digital-world-course-recommendations/"><u>[New] Your First Steps in the Digital World Course Recommendations</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>2024 Approved Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
+<li><a href="https://discover-able.techidaily.com/4kwindows/"><u>4Kビデオファイルのエディティング手法：Windowsプラットフォームでのガイド</u></a></li>
+<li><a href="https://discover-able.techidaily.com/alternative-kodi-addons-to-arconai-tv-down-uninterrupted-live-tv-and-on-demand-viewing-options-explored/"><u>Alternative Kodi Addons to Arconai TV Down: Uninterrupted Live TV and On-Demand Viewing Options Explored</u></a></li>
+<li><a href="https://discover-able.techidaily.com/boost-your-recordings-sound-a-guide-to-enhancing-audio-clarity-without-cost/"><u>Boost Your Recording's Sound: A Guide to Enhancing Audio Clarity Without Cost</u></a></li>
+<li><a href="https://discover-able.techidaily.com/converting-mp4-files-to-mov-format-using-vlc-a-step-by-step-guide/"><u>Converting MP4 Files to MOV Format Using VLC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-methods-for-converting-dvd-media-to-save-on-an-ssd/"><u>Easy Methods for Converting DVD Media to Save on an SSD</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-the-be600m1-from-apc-an-expert-look-at-its-battery-backup-capabilities-and-convenient-usb-charging-feature/"><u>In-Depth Analysis: The BE600M1 From APC - An Expert Look at Its Battery Backup Capabilities & Convenient USB Charging Feature</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-quick-fixes-resolving-issues-with-windows-11-start-menu-accessibility/"><u>Mastering Quick Fixes: Resolving Issues with Windows 11 Start Menu Accessibility</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-soundless-shift-how-to-remove-audio-from-video-projects-today-for-2024/"><u>New The Soundless Shift How to Remove Audio From Video Projects Today for 2024</u></a></li>
+</ul></div>
 

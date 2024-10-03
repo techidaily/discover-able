@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Basics: Understanding AZW Format"
-date: 2024-09-15T02:12:26.681Z
-updated: 2024-09-19T02:07:27.507Z
+date: 2024-10-01T10:58:58.740Z
+updated: 2024-10-02T21:04:33.814Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/578092e9e17a69c476b3082e47519b7819155a500c43a741b28a10c98f28c4a5.jpg
@@ -37,6 +37,13 @@ First, you need to add [Kindle Cloud Reader Extension](https://chrome.google.com
 
 ![add kindle cloud reader to chrome](http://www.epubor.com/images/uppic/add-kindle-cloud-reader-to-chrome.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Second, click Kindle Cloud Reader extension icon in the menu bar of Chrome browser and sign in Kindle Cloud Reader with your Amazon account. 
 
 ![sign in kindle cloud reader](http://www.epubor.com/images/uppic/sign-in-kindle-cloud-reader.png)
@@ -44,6 +51,13 @@ Second, click Kindle Cloud Reader extension icon in the menu bar of Chrome brows
 You can read the Kindle books online immediately by right clicking the book cover and select **Open book**.
 
 ![remove kindle book from kcr](http://www.epubor.com/images/uppic/remove-kindle-book-from-kcr.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now you can read any of your Kindle books online or offline by double clicking the book cover.
 
@@ -60,6 +74,13 @@ Third, you can read the AZW file you have downloaded after syncing them to your 
 #### 3Kindle Devices
 
 All series Kindle devices, like Kindle, Kindle Fire, Kindle Oasis, Kindle Paperwhite, Kindle Touch, Kindle Keyboard, etc, can open downloaded AZW books after syncing them to Kindle Devices.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How to open azw file on non-Kindle apps and devices
 
@@ -85,11 +106,25 @@ When you launch Epubor Ultimate, it can detect the downloaded Kindle files autom
 
 ![red spot on ultimate](http://www.epubor.com/images/uppic/red-spot-on-ultimate.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Tips:** There will be red spot besides Kindle to keep you informed if you download new Kindle book or delete any Kindle books from Kindle app.
 
 Next add the azw books from the left sidebar to the main window. All the books will be decrypted immediately. It works like a charm. 
 
 ![decrypt kfx via Kindle for PC1](http://www.epubor.com/images/uppic/decrypt-kfx-via-Kindle-for-PC1-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can click **Decrypted** to find the DRM free AZW file.
 
@@ -113,23 +148,9 @@ Calibre can edit azw file,too, but KFX files are not included. You can right cli
 
 ![edit meta calibre](http://www.epubor.com/images/uppic/edit-meta-calibre.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Therefore, Calibre can neither open KFX file nor decrypted azw file(some DRM free azw file are actually kfx file), let alone edit the metadata. But Epubor Ultimate can decrypt DRMed azw files as well as convert formats. And it can also help you eidt the metadata of the decrypted book, including KFX file(you must convert KFX to epub/mobi/pdf/txt before editing metadata). 
 
 **Tips**: If you want to decrypt DRM-protected Kindle AZW books with Calibre, you can read this step-by-step guide about [how to convert Kindle books to EPUB/Mobi/PDF with Calibre](https://tools.techidaily.com/epubor/products/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -186,5 +207,19 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-ultimate-blueprint-for-memetic-virality/"><u>[New] 2024 Approved The Ultimate Blueprint for Memetic Virality</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-embrace-the-synergy-streaming-fb-videos-through-your-apple-device/"><u>[New] Embrace the Synergy Streaming FB Videos Through Your Apple Device</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-straightforward-recording-for-windows-10/"><u>[New] Straightforward Recording for Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-supercharge-your-yi-4k-videos-with-pro-gear/"><u>[Updated] Supercharge Your YI 4K Videos with Pro Gear</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-comparing-e-readers-kindle-fire-vs-kindle-paperwhite-which-one-wins/"><u>1. Comparing E-Readers: Kindle Fire Vs. Kindle Paperwhite – Which One Wins?</u></a></li>
+<li><a href="https://discover-able.techidaily.com/a-comprehensive-guide-for-pc-users-unlocking-the-secrets-of-reading-ebooks-in-epub-format/"><u>A Comprehensive Guide For PC Users: Unlocking The Secrets Of Reading eBooks in EPUB Format</u></a></li>
+<li><a href="https://discover-able.techidaily.com/descargar-la-herramienta-gratuita-para-convertir-archivos-de-ogg-a-mov-guia-completa-con-movavi/"><u>Descargar La Herramienta Gratuita Para Convertir Archivos De Ogg a Mov: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726225717745-movavitsmp4/"><u>Movaviの無料ツールを使ってTSファイルをMP4にシームレスに変換する方法</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-battle-between-chatgpt-and-huggingchat-which-conversational-ai-takes-the-lead/"><u>The Battle Between ChatGPT and HuggingChat: Which Conversational AI Takes the Lead?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/nail-insight-top-picks-for-maximizing-video-visibility-for-2024/"><u>Thumbnail Insight Top Picks for Maximizing Video Visibility for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transformacion-en-la-creacion-de-materiales-videograficos-para-marketing-introduccion-al-software-corporativo-de-movavi/"><u>Transformación en La Creación De Materiales Videográficos Para Marketing: Introducción Al Software Corporativo De Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/unlocking-the-potential-of-virtual-collaboration-starting-zoom-calls-on-android/"><u>Unlocking the Potential of Virtual Collaboration Starting Zoom Calls on Android</u></a></li>
+</ul></div>
 

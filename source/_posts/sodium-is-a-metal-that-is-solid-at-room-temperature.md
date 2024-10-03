@@ -1,7 +1,7 @@
 ---
 title: Sodium Is a Metal that Is Solid at Room Temperature.
-date: 2024-09-16T17:17:45.837Z
-updated: 2024-09-18T21:55:58.899Z
+date: 2024-09-27T17:06:58.129Z
+updated: 2024-10-02T17:55:39.690Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/c889a547e421f550d3854604da4881f54e6123831fe3b245b44881a2b3d8e123.jpg
@@ -19,9 +19,23 @@ Posted by [Ada Wang](https://plus.google.com/+AdaWang/posts) on 11/21/2018 2:09:
 
 It seems that more and more people use Windows 8 operating system on their computers. Then when new to it, some people may not be so sure how to read ebooks on Windows 8\. And some users said that certain softwares they used to read books before cannot be used now on Windows 8\. So here I would be glad to share some information about reading ebooks on Windows 8 with you. Hope this article can help you enjoy your ebooks better.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Read Kindle eBooks on Windows 8
 
 ![kindle for windows 8](http://www.epubor.com/images/uppic/kindle-for-win-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Let's start with the Kindle books. Reading Kindle books on Windows 8 seems to be much more simple than epub/pdf books. The program needed is just the Kindle for Windows 8 App. 
 
@@ -45,11 +59,25 @@ You can get specific software to read epub and pdf ebooks correspondingly which 
 
 ![read ebooks on windows 8](http://www.epubor.com/images/uppic/read-ebooks-on-windows-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The epub books here have to be DRM-free ones. For reading epub ebooks on Windows 8, [Metro Reader](https://www.microsoft.com/en-us/store/p/metro-reader/9nblggh08czx) is the first off-line ebook reader for it. Metro Reader supports epub and txt formats. There are two reading modes provided: the day mode & the night mode. You can choose it as you need. And the snap mode is of course indispensable. The Table of Contents is supported (only for epub books). Besides, CoverFlow and GridView are supported in it. The font size of the content is customizable, so you can change it as you like. When reading your epub books with it, you can set it as the one-page mode or the two-page mode. Very flexible, right? It sells $2.99 now and free trial is available.
 
 #### **2\. Adobe Reader to Read DRM-Free PDF on Windows 8** 
 
 ![read pdf on win 8](http://www.epubor.com/images/uppic/read-pdf-on-win-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 For reading pdf ebooks on Windows 8, a nice choice would be [Adobe Reader.](http://apps.microsoft.com/windows/en-US/app/adobe-reader/162a2931-8ee6-4a56-9570-53282525d7a3)It's free in Windows app store, so this can be an advantage of it. There is nothing better than freebies. This software works perfectly with Windows 8 operating system. It opens your pdf files quickly (including password-protected but non-DRM pdfs). This software offers many functions to help users get a better reading experience. For example, you can take notes when you are reading. 
 
@@ -149,12 +177,26 @@ Leave a comment
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/levating-the-end-scene-in-youtube-productions/"><u>[New] Elevating the End Scene in YouTube Productions</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-streamlining-gaming-experience-how-to-record-games-obs/"><u>[Updated] In 2024, Streamlining Gaming Experience How to Record Games OBS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-recording-skype-calls-with-ease-for-mac-and-pc-users/"><u>[Updated] Recording Skype Calls with Ease for Mac and PC Users</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726029625537-wmv/"><u>「最高品質のWmvファイルに安全な切り取り・編集ガイド」</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-vivo-t2x-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Vivo T2x 5G without App | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-oneplus-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on OnePlus 12 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/advanced-audio-editing-apps-ranked-by-users-for-2024/"><u>Advanced Audio Editing Apps Ranked by Users for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/complete-guide-to-enabling-and-performing-a-sound-inclusive-screen-capture-on-your-microsoft-surface-pc-or-tablet-updated-for-202/"><u>Complete Guide to Enabling and Performing a Sound-Inclusive Screen Capture on Your Microsoft Surface PC or Tablet (Updated for 202^)</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comprehensive-orion-kodi-overview-expert-tutorial-on-installation-and-features/"><u>Comprehensive Orion Kodi Overview: Expert Tutorial on Installation & Features</u></a></li>
+<li><a href="https://discover-able.techidaily.com/dirpy/"><u>Dirpyを完全にコントロールする方法・対応策：エラーや使いヘンシナリオにおける処理ガイド</u></a></li>
+<li><a href="https://discover-able.techidaily.com/expert-walkthrough-recording-cs-go-matches-on-a-windows-operating-system/"><u>Expert Walkthrough: Recording CS: GO Matches on a Windows Operating System</u></a></li>
+<li><a href="https://discover-able.techidaily.com/fixed-it-expert-techniques-for-easily-changing-bup-into-mp4-format/"><u>Fixed It! Expert Techniques for Easily Changing BUP Into MP4 Format</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-efficiently-change-your-audio-from-m4a-to-crisp-lossless-flac-a-step-by-step-guide/"><u>How to Efficiently Change Your Audio From M4A to Crisp, Lossless FLAC: A Step-by-Step Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-generate-an-m3u-file-using-windows-media-player/"><u>How to Generate an M3U File Using Windows Media Player</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-15-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 15 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-oppo-find-x7-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Oppo Find X7 online without jailbreak</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mpeg4-dashmp3/"><u>MPEG4-DASH形式からMP3ファイルへの直接変換：シンプルガイド</u></a></li>
+<li><a href="https://games-able.techidaily.com/troubleshooting-roblox-error-262-fixed/"><u>Troubleshooting Roblox: Error 262 Fixed</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-a2plus-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi A2+ Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 
