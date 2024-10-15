@@ -1,7 +1,7 @@
 ---
 title: "Comment Supprimer Les DRM De Vos eBooks Amazon Kindle en 2024 : Une Méthode Détaillée Par Trois Étapes"
-date: 2024-09-25T16:58:50.456Z
-updated: 2024-10-02T17:43:39.025Z
+date: 2024-10-08T19:29:42.653Z
+updated: 2024-10-15T00:00:21.749Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/3c560b5f84950935f235a17f57ab9b2b0c297df9b81f28e15578b876da96606b.jpg
@@ -51,6 +51,13 @@ Sélectionnez le fichier "DeDRM\_plugin.zip". Plus d'informations s'il vous pla�
 
 ![](https://epubor.com/images/uppic/des-drm-avec-calibre.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Étape 3: Importer des livres DRMed dans Calibre
 
 Si vos kindle books sont téléchargés via l'application de bureau Kindle, importez vos livres Kindle téléchargés dans Calibre, le DRM sera automatiquement supprimé. Mais si vous avez déjà ajouté des livres de calibre limités par DRM, vous feriez mieux de les importer à nouveau. Travail fait, vous pouvez cliquer sur "cliquez pour ouvrir" sur le côté droit pour obtenir un aperçu de la bibliothèque de calibre.
@@ -60,10 +67,10 @@ Si vos kindle books sont téléchargés via Kindle eReaders, vous devez personna
 ![des drm avec calibre](https://epubor.com/images/uppic/kindle-dedrm-ksn.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Nouvelles informations:** 
@@ -98,13 +105,26 @@ Téléchargez à nouveau les livres Kindle pour supprimer les DRM.
 
 ![Epubor Ultimate la revue](https://www.epubor.com/images/uppic/ultimate-review-trustpilot.png)
 
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Conseils:** Une fois l’ancienne version installée, vous devez accéder à “Outils”, puis désactiver la mise à jour automatique.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Méthode 3: Téléchargez des livres Kindle via le simulateur Android sur Windows/Mac (prend en charge les livres Kindle publiés en 2023)
@@ -117,13 +137,6 @@ Pour utiliser cette méthode, vous aurez besoin du logiciel Epubor nouvellement 
 
 ![convertir des livres kindle android sur mac](http://www.epubor.com/images/uppic/epubor-kindleconverter-2023.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Pour utiliser cette méthode, veuillez suivre les étapes ci-dessous:
 
 * Étape 1: Téléchargez et installez l'émulateur Android sur Windows/Mac.
@@ -132,13 +145,6 @@ Pour utiliser cette méthode, veuillez suivre les étapes ci-dessous:
 * Étape 4: Téléchargez et installez Epubor Kindle Converter et supprimez drm avec.
 
 ![author](http://www.epubor.com/images/uppic/jonny.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Jonny Greenwood](https://plus.google.com/u/0/+JonnyGreenwood999) joined Epubor since 2011, loves everything about eBooks and eReaders. He seeks the methods to read eBooks more freely and wants to share all he has got with you.
 
@@ -539,22 +545,17 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-ideal-camera-and-recording-apps-for-iphone-and-android-smartphones/"><u>[New] 2024 Approved Ideal Camera and Recording Apps for iPhone and Android Smartphones</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-ultimate-listing-best-no-ad-android-recording-apps-for-2024/"><u>[New] Ultimate Listing Best No-Ad Android Recording Apps for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-reaping-rewards-a-comprehensive-guide-to-7-14-stardew-mods/"><u>[Updated] Reaping Rewards A Comprehensive Guide to #7-14 Stardew Mods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-top-7-epic-strategy-battles-unveiling-ultimate-total-wars/"><u>[Updated] Top 7 Epic Strategy Battles Unveiling Ultimate Total Wars</u></a></li>
-<li><a href="https://discover-able.techidaily.com/m4a-to-webm-movavi/"><u>完全無料で簡単M4A to WEBMコンバート - Movaviの優れたサービス</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726222196392-asfmp4-movavi/"><u>網上無需金錢，讓ASF視頻轉化成MP4 - 使用Movavi即時轉檔</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mp4-to-aac-movavi/"><u>在線上免費改變音頻格式 MP4 to AAC - Movavi 電子化解答套件</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/can-you-improve-laptop-speed-by-adding-more-memory/"><u>Can You Improve Laptop Speed by Adding More Memory?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/convierte-tus-archivos-swf-a-imagenes-animadas-sin-costo-alguno-uso-libre-y-facil-del-convertidor-en-linea-para-archivos-gratis/"><u>Convierte Tus Archivos SWF a Imágenes Animadas Sin Costo Alguno: Uso Libre Y Fácil Del Convertidor en Línea Para Archivos Gratis</u></a></li>
-<li><a href="https://discover-able.techidaily.com/descargas-gratuitas-de-conversion-a-linea-para-archivos-aac/"><u>Descargas Gratuitas De Conversión a Línea Para Archivos AAC</u></a></li>
-<li><a href="https://driver-install.techidaily.com/enhance-windows-7-with-new-audio-drivers/"><u>Enhance Windows 7 with New Audio Drivers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-critical-review-enhanced-parrot-ar-drone-20/"><u>In 2024, Critical Review Enhanced Parrot AR Drone 2.0</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-motorola-moto-g14-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Motorola Moto G14 with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/los-top-10-mejor-softwares-de-conversion-de-documentos-a-pdf-libres-y-sin-limites-para-mac-ano-2024/"><u>Los Top 10 Mejor Softwares De Conversión De Documentos a PDF Libres Y Sin Limites Para MAC - Año 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mettiti-al-passo-con-la-tecnologia-convertire-i-file-flv-in-swf-utilizzando-lutilita-di-conversione-gratuitamente-on-line-di-movavi/"><u>Mettiti Al Passo Con La Tecnologia: Convertire I File FLV in SWF Utilizzando L'utilità Di Conversione Gratuitamente On-Line Di Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/movavi-htkh-mtsvvt-lrkht-vydy-hrmh-lkhvh-m-yth-fvl/"><u>Movavi - חטאָך מצובת לערכת וידבֿי: הרשׁמה לכוח עם שיטה פועל</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/visual-voyage-from-vimeo-footage-to-animated-artistry-for-2024/"><u>Visual Voyage From Vimeo Footage to Animated Artistry for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-uncover-the-past-advanced-methods-for-instagram-image-retrieval/"><u>[Updated] In 2024, Uncover the Past Advanced Methods for Instagram Image Retrieval</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oppo-reno-10-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Oppo Reno 10 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/integrate-newest-logitech-mouse-with-windows-11/"><u>Integrate Newest Logitech Mouse with Windows 11</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mpeg4-dashmp3/"><u>MPEG4-DASH形式からMP3ファイルへの直接変換：シンプルガイド</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/polaroid-xs-100i-action-camera-review-for-2024/"><u>Polaroid XS 100I Action Camera Review for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/quick-guide-how-to-save-whatsapp-audio-calls-across-your-smartphone-and-desktop/"><u>Quick Guide: How to Save WhatsApp Audio Calls Across Your Smartphone & Desktop</u></a></li>
+<li><a href="https://discover-able.techidaily.com/quick-guide-mastering-the-art-of-doodstream-video-downloads-with-three-effective-techniques/"><u>Quick Guide: Mastering the Art of DoodStream Video Downloads with Three Effective Techniques</u></a></li>
+<li><a href="https://discover-able.techidaily.com/seamless-fixes-for-troubleshooting-kodi-iso-file-replay-challenges/"><u>Seamless Fixes for Troubleshooting Kodi ISO File Replay Challenges</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-converting-avidv-files-to-mov-format-on-a-windows-computer/"><u>Step-by-Step Guide: Converting AVI/DV Files to MOV Format on a Windows Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-guide-resolving-issues-with-missing-youtube-comments/"><u>Troubleshooting Guide: Resolving Issues with Missing YouTube Comments</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updating-facebook-video-coverage-with-ease-for-2024/"><u>Updating Facebook Video Coverage with Ease for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/viber-out-evaluation-how-does-it-compare-to-other-international-messaging-apps/"><u>Viber Out Evaluation: How Does It Compare to Other International Messaging Apps?</u></a></li>
 </ul></div>
 

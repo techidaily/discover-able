@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Unlocking Your Kindle Paperwhite"
-date: 2024-09-26T04:52:04.802Z
-updated: 2024-10-02T16:49:04.873Z
+date: 2024-10-11T16:03:33.305Z
+updated: 2024-10-14T18:06:13.145Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/4f252061500e08e9c2f2521977c5b0253a500625454298afd84e9855ed4fbb6b.jpg
@@ -27,13 +27,6 @@ You may be confused of jailbreaking Kindle Paperwhite as it's only an e-ink eRea
 * [4\. Jailbreak Kindle with Firmware Version 5.8.9.0.1](https://tools.techidaily.com/epubor/products/)
 * [5\. Jailbreak Kindle PaperWhite 4 with Firmware Version 5.10.2-5.13.3](https://tools.techidaily.com/epubor/products/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Jailbreak Kindle with Firmware Version 5.3.0/ 5.3.1/ 5.3.4/ 5.3.5
 
 Due to the fact that Amazon has made much limitation on their devices, jailbreaking Kindle device is more difficult than others like the Android phones. In this section, the jialbreak method only applies to _**5.3.0**_, _**5.3.1**_, _**5.3.4**_ and _**5.3.5**_. Tap the setting icon at the home page to enter setting menu. Then tap the setting icon again and choose "Device Info" from the drop down menu. You'll see the Kindle Paperwhite's firmware version.
@@ -52,6 +45,19 @@ If your OS version is _**5.3.0**_, _**5.3.1**_, or _**5.3.5**_, you don't need t
 
 ![update-os](http://www.epubor.com/images/uppic/2-update-os.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Step 2\. Install jailbreak files
 
 At this step, we need to put the jailbreak files into Kindle Paperwhite. [Click here to download the jailbreak zip file](https://storage.gra.cloud.ovh.net/v1/AUTH%5F2ac4bfee353948ec8ea7fd1710574097/mr-public/Touch/kindle-jailbreak-1.16.N-r18981.tar.xz). Extract the zip file and you will see these files:
@@ -62,57 +68,50 @@ Connect Kindle Paperwhite to your computer. Now you need to put these files into
 
 ![put-files-at-root-directory](http://www.epubor.com/images/uppic/4-put-files-at-root-directory.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![put-files-in-documents-folder](http://www.epubor.com/images/uppic/5-put-files-in-documents-folder.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Eject the device and you'll find there is a new personal document at home page.
 
 ![new-document](http://www.epubor.com/images/uppic/6-new-document.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Open this file and click the "Jailbreak" link on the first page.
 
 ![open-jailbreak-document](http://www.epubor.com/images/uppic/7-open-jailbreak-document.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You'll see this page.
 
 ![click-to-jailbreak](http://www.epubor.com/images/uppic/8-click-to-jailbreak.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Follow these instructions and then your device will start the jailbreak process.
 
 ![jailbreak-start](http://www.epubor.com/images/uppic/9-jailbreak-start.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 After the process has been completed, the Kindle Paperwhite will turn back to normal. You will see the new document we mentioned above has changed into another one. This means the jailbreaking is successful.
 
 ### Jailbreak Kindle with Firmware Version 5.6.5
 
 Kindle 5.6.5 jailbreak was released, it is not complicated to complete. But, make sure your Kindle's firmware version is 5.6.5\. If the firmware version is lower than 5.6.5, please [maually update it to 5.6.5](https://tools.techidaily.com/epubor/products/). If it is upper than 5.6.5, such as 5.7.2, you need to downgrade to 5.6.5\. ![jailbreak-kindle-paperwhite](http://www.epubor.com/images/uppic/10-jaibreak-log.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Support Firmware version:** Only firmware version 5.6.5.
 
@@ -137,10 +136,16 @@ In the opened new page, Go to "Stage 1" first. And when it fails to load, return
 ![Jailbreak Kindle Paperwhite 5.6.5](http://www.epubor.com/images/uppic/jailbreak-kindle-paperwhite-5.6.5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 After it appears "run the ;fc-cache in the search bar", click "Search bar", type “**;fc-cache**” and click enter button.
@@ -212,6 +217,13 @@ As long as you have downgraded your Kindle device to the specific version, you c
 
 ![jailbreak kindle](http://www.epubor.com/images/uppic/jailbreak-kindle.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Suitable for Kindle Oasis, Kindle Voyage, Kindle Paperwhite 2/3, Kindle Touch 2/3**
 
 1\. [Download main-htmlviewer.tar.gz](https://www.mobileread.com/forums/attachment.php?attachmentid=150210&d=1468542166)
@@ -233,13 +245,6 @@ As long as you have downgraded your Kindle device to the specific version, you c
 9\. Come back to your Kindle device and enter into the homepage screen. Tap the setting option and choose the device option. Find the "Update your Kindle" option and choose it to reboot your Kindle.
 
 ![update your kindle](http://www.epubor.com/images/uppic/update-your-kindle.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 10\. After the rebooting procession, your Kindle has been jailbroken.
 
@@ -273,6 +278,13 @@ Download the current hotfix package:
 
 For the last updating your Kindle Paperwhite firmware version part in the previous section of the article, please refer to [how-to-downgrade-kindle-firmware-2017](https://tools.techidaily.com/epubor/products/), but take notice of the following modification:  
 For Paperwhite3 – 32GB, please don’t use the firmware link in that article, but use [this file](https://s3.amazonaws.com/firmwaredownloads/update%5Fkindle%5Fall%5Fnew%5Fpaperwhite%5F5.8.9.bin) or get a 5.8.9.2 or newer firmware from Amazon. (5.8.10 or 5.8.11 are also ok).
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Part 5\. Jailbreak Kindle PaperWhite 4 with Firmware Version 5.10.2-5.13.3
 
@@ -1374,22 +1386,21 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-best-practices-for-6-trendy-mc-houses/"><u>[Updated] Best Practices for 6 Trendy MC Houses</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unseen-features-in-depth-look-at-instagrams-ask-emoji/"><u>[Updated] In 2024, Unseen Features In-Depth Look at Instagram’s Ask Emoji</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-making-a-mark-creating-standout-slideshows-for-facebook-networks-for-2024/"><u>[Updated] Making a Mark Creating Standout Slideshows for Facebook Networks for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726029424615-7/"><u>「自由に利用できるビデオから音声を取り出すための方法とソフトウェア7選」</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-the-ultimate-guide-online-audio-recordings-from-youtube/"><u>2024 Approved The Ultimate Guide Online Audio Recordings From YouTube</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726028812276-movm4v/"><u>高速MOVからM4Vへの変換：快適で質の良いファイルコンバート手順</u></a></li>
-<li><a href="https://discover-able.techidaily.com/cant-change-mp4-format-to-wmv-using-wmp-easy-solutions-unveiled/"><u>Can't Change MP4 Format to WMV Using WMP? Easy Solutions Unveiled!</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/create-with-colors-youtube-banner-creation-guide-for-2024/"><u>Create with Colors YouTube Banner Creation Guide for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/eliminate-lag-in-davinci-resolve-essential-tips-and-tricks-for-perfect-playback-performance/"><u>Eliminate Lag in DaVinci Resolve - Essential Tips and Tricks for Perfect Playback Performance</u></a></li>
-<li><a href="https://discover-able.techidaily.com/essential-strategies-successfully-saving-firefox-videos-for-offline-viewing/"><u>Essential Strategies: Successfully Saving Firefox Videos for Offline Viewing</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-hot-30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 30 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-techniques-for-verbal-note-taking-expertise/"><u>Optimal Techniques for Verbal Note-Taking Expertise</u></a></li>
-<li><a href="https://program-issues.techidaily.com/pc-troubles-decoded-the-tale-of-consecutive-system-failures/"><u>PC Troubles Decoded: The Tale of Consecutive System Failures</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-ultimate-webcam-users-guide-for-quality-recordings-for-2024/"><u>The Ultimate WebCam User's Guide for Quality Recordings for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/windows-11dvd/"><u>Windows 11におけるDVD再生の問題：トラブルシューティングガイド</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726029771229-youtube/"><u>YouTube動画ダウンロード:ハードディスクへの記録手順</u></a></li>
-<li><a href="https://discover-able.techidaily.com/aviutlmp3/"><u>ぴったりフィットするAviUtl用MP3読み込めない問題を簡単に直す手引き</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-freeze-entire-browser-display/"><u>[New] 2024 Approved Freeze Entire Browser Display</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-fixed-frame-to-fluid-motion-live-photo-transformation/"><u>[New] From Fixed Frame to Fluid Motion Live Photo Transformation</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/arnessing-the-power-of-color-difference-keying-methods/"><u>[New] Harnessing the Power of Color Difference Keying Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/clean-slate-for-steam-game-accomplishments/"><u>Clean Slate for Steam Game Accomplishments</u></a></li>
+<li><a href="https://discover-able.techidaily.com/come-convertilo-tre-soluzioni-innovative-per-cambiare-adobe-digital-editions-in-pdf/"><u>Come Convertilo: Tre Soluzioni Innovative per Cambiare Adobe Digital Editions in PDF</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comment-supprimer-les-drm-de-vos-ebooks-amazon-kindle-en-2024-une-methode-detaillee-par-trois-etapes/"><u>Comment Supprimer Les DRM De Vos eBooks Amazon Kindle en 2024 : Une Méthode Détaillée Par Trois Étapes</u></a></li>
+<li><a href="https://discover-able.techidaily.com/como-compartir-tus-libros-electronicos-de-amazon-kindle-con-sus-mejores-amigos/"><u>Como Compartir Tus Libros Electrónicos De Amazon Kindle Con Sus Mejores Amigos</u></a></li>
+<li><a href="https://discover-able.techidaily.com/complete-tutorial-on-resetting-a-kindle-or-kindle-fire-tablet/"><u>Complete Tutorial on Resetting a Kindle or Kindle Fire Tablet</u></a></li>
+<li><a href="https://discover-able.techidaily.com/convert-your-audible-aa-books-quickly-with-the-fastest-mp3-transformer/"><u>Convert Your Audible AA Books Quickly with the Fastest MP3 Transformer</u></a></li>
+<li><a href="https://discover-able.techidaily.com/converting-crystallographic-structures-a-comprehensive-tutorial-on-pdb-to-pdf-conversion-for-scientists-and-researchers/"><u>Converting Crystallographic Structures: A Comprehensive Tutorial on PDB to PDF Conversion for Scientists and Researchers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dissecting-dialogues-unveiling-truth-about-ai-bot-capabilities/"><u>Dissecting Dialogues: Unveiling Truth About AI Bot Capabilities</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-tutorial-on-converting-ebooks-from-azw-format-to-portable-document-format-pdf/"><u>Easy Tutorial on Converting eBooks From .azw Format to Portable Document Format (.pdf)</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-f15-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-can-we-unlock-our-honor-80-pro-straight-screen-edition-phone-screen-by-drfone-android/"><u>In 2024, How Can We Unlock Our Honor 80 Pro Straight Screen Edition Phone Screen?</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-google-pixel-8-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Google Pixel 8 Pro on Windows</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-free-solutions-for-transferring-files-safely-onto-network-attached-storage-nas/"><u>Top Free Solutions for Transferring Files Safely Onto Network-Attached Storage (NAS)</u></a></li>
 </ul></div>
 

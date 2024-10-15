@@ -1,7 +1,7 @@
 ---
 title: "Understanding Digital Rights Management: An In-Depth Look at DRM Functionality"
-date: 2024-09-28T21:20:12.769Z
-updated: 2024-10-03T11:50:16.061Z
+date: 2024-10-13T16:23:19.770Z
+updated: 2024-10-14T18:04:14.566Z
 categories:
   - epubor
 thumbnail: https://thmb.techidaily.com/f7c7286cd43e0a0357c0677fcf7ef7e026ec5b0c5c8fee31ed3df2a195c8af00.jpg
@@ -19,6 +19,19 @@ Posted by [Iris Yan](https://www.facebook.com/iris.yan.16718) on 4/26/2023 10:02
 
 All the time, DRM contents have aroused people's attention with the vigorous development of digital products. Its existence also makes everyone argue endlessly. The adversarial relationship between digital content providers and consumers hasn't been remitted. More and more consumers who suffer much from DRM trend to use crack software such as Epubor Ultimate to control digital contents freely. Today let's talk about DRM around and find out why we must resist DRM.
 
+<!-- affiliate ads begin -->
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ###  What is DRM?
 
 From my point of view, also the view of most people, DRM represents Digital Restrictions Management. Even though some people think the abbreviation of DRM comes from Digital Rights Management which is a widely used approach to protecting copyright on Music, TV play, Movies, Games, Books etc. DRM goes beyond Copyright. From another angle, DRM on these daily used objects always can be a restriction for us. And the DRM products just like a good which intentionally damaged by those providers. 
@@ -26,10 +39,10 @@ From my point of view, also the view of most people, DRM represents Digital Rest
 Aren't these objects such as eBooks or music we bought from distributors belong to us? Why are there so many limitations after we paid so much? Think about these questions. We all be restricted when using the products we bought with each penny. And you will find the necessity of Digital Rights Management which attached to products from those sanctimonious distributors does not look so reasonable. Rather, the deep meaning of DRM represents Digital Restrictions Management.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How Does DRM Work?
@@ -106,13 +119,6 @@ The statutory and Common law interpretations of copyright law afford individuals
 
 There is a wrong understanding on DRM can decrease the quantity of piracy. On the contrary, DRM version only can be pirated more times than the DRM-free version. For example, after Witcher 3 was released, CD Projekt Red which is the makers of Witcher 3 discovered that the DRM-protected disk version was pirated more times than the DRM-free version sold by online download.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The Law of DRM
 
 The most famous law of DRM is the Digital Millennium Copyright Act (DMCA), which released a clause about the ban on "circumventing" digital rights management (DRM) and other "technological protection measures" that was signed in by President Bill Clinton on October 28, 1998\. This clause is criticized by Electronic Frontier Foundation (EFF) which is one of the famous anti-DRM organization. EFF thinks the merchants will take advantage of the DMCA to against consumers, scientists, and legitimate competitors rather than withstand copyright infringers.
@@ -120,6 +126,13 @@ The most famous law of DRM is the Digital Millennium Copyright Act (DMCA), which
 In January of 1999, Sony sued Connectix over PlayStation emulator which bring convenience to consumers to play legit games. In 2001, 321 Studio's DVD X Copy software which aimed to help consumers to back up their own DVD movies was involved in a legal battle with Hollywood studios. 321 Studio thought that the attempt to stifle this software is a violation of free speech under the first amendment, and thus is unconstitutional. Finally, 321 lose this battle and the California court deemed 321 Studio was banned from selling their DVD X Copy software. In August 2004, the 321 Studio was shut down.
 
 "The U.S. Library of Congress in 1999 conducted a rulemaking on the DMCA anti-circumvention rules that recognized the right of lawful users to circumvent broken access controls and assess software-filtering programs." ---------"Digital Rights Management {and, or, vs.} the Law" by Pamela Samuelson.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### DRM-Free Works
 
@@ -130,13 +143,6 @@ There are many sites provided DRM-free products and they get a good retribution.
 According to the July 2014 Author Earnings Report, the indie titles without DRM sell twice as many copies each, on average, as those with DRM. This result based on the research about the average daily earnings of DRM-free titles to DRM titles at each pricing cohort was totally trustworthy. From this report, all people can find out that the DRM-free eBook sales were higher than the DRM eBook sales.
 
 ![](http://www.epubor.com//www.epubor.com/images/uppic/daily-earnings_2017831165353.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 On February 6, 2007, Steve Jobs released an open letter to the public, which said, Apple Inc. has come up with a conclusion that DRM can't guarantee the songs bought from big record companies are not pirates. Therefore, Apple Inc. is willing to completely abolish DRM technology so that all MP3 player can play any music bought from any online music store. At the same time, using DRM technology can lead to leakage of privacy information. So Apple Inc. also called on the major record companies to stop using DRM technology. 
 
@@ -164,13 +170,6 @@ Two famous DRM critics are John Walker who wrote "The Digital Imprimatur: How Bi
 
 There are also many other notable critics of DRM, including Professor Ross Anderson of Cambridge University. He is a header of a British organization which opposes DRM.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Call for Anti-DRM
 
 Many people think that supporting removal DRM means supporting piracy. The truth is not the case. This idea is also an insult to the basic consumers' right of ownership and privacy. Actually, DRM is ineffective in stop piracy because it can often be cracked and missed its original goal. In another word, even a kid can decrypt an Amazon eBook with Epubor Ultimate software within 2 seconds. The vendors who use DRM in their products should remember that people buy a product do not mean they are going to distribute them. 
@@ -178,6 +177,13 @@ Many people think that supporting removal DRM means supporting piracy. The truth
 And we also believe that with the development of science and technology, more and more new electronic equipment are launched, DRM-free products can get more living space. One day a kind of technology which can both to protect the copyright and do not give consumers any using trouble will appear, but definitely not the present DRM technology. DRM doesn't be used to against copyright infringer, but instead against consumers, scientists and legitimate competitors. Consumers should not pay for the present defective DRM technology. The action of anti-DRM is carried out for the convenience of everyone's life.
 
 ![author](http://www.epubor.com/images/uppic/iris.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 [Iris Yan](https://www.facebook.com/iris.yan.16718) has been a passionate member of Epubor since 2017\. Her mission is to enhance your ebook reading experience by sharing insightful tips and tricks. Join her on a journey towards reading excellence today!
 
@@ -220,19 +226,17 @@ Leave a comment
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-bandicam-unveiled-the-complete-review/"><u>[New] 2024 Approved Bandicam Unveiled The Complete, Review</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/024-approved-digital-domination-worlds-top-10-video-content-kings-and-queens/"><u>[New] 2024 Approved Digital Domination World's Top 10 Video Content Kings & Queens</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-eye-catcher-gaming-creating-striking-template-designs-for-2024/"><u>[New] Eye Catcher Gaming Creating Striking Template Designs for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/our-first-steps-in-the-digital-world-course-recommendations/"><u>[New] Your First Steps in the Digital World Course Recommendations</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>2024 Approved Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
-<li><a href="https://discover-able.techidaily.com/4kwindows/"><u>4Kビデオファイルのエディティング手法：Windowsプラットフォームでのガイド</u></a></li>
-<li><a href="https://discover-able.techidaily.com/alternative-kodi-addons-to-arconai-tv-down-uninterrupted-live-tv-and-on-demand-viewing-options-explored/"><u>Alternative Kodi Addons to Arconai TV Down: Uninterrupted Live TV and On-Demand Viewing Options Explored</u></a></li>
-<li><a href="https://discover-able.techidaily.com/boost-your-recordings-sound-a-guide-to-enhancing-audio-clarity-without-cost/"><u>Boost Your Recording's Sound: A Guide to Enhancing Audio Clarity Without Cost</u></a></li>
-<li><a href="https://discover-able.techidaily.com/converting-mp4-files-to-mov-format-using-vlc-a-step-by-step-guide/"><u>Converting MP4 Files to MOV Format Using VLC: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-methods-for-converting-dvd-media-to-save-on-an-ssd/"><u>Easy Methods for Converting DVD Media to Save on an SSD</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-the-be600m1-from-apc-an-expert-look-at-its-battery-backup-capabilities-and-convenient-usb-charging-feature/"><u>In-Depth Analysis: The BE600M1 From APC - An Expert Look at Its Battery Backup Capabilities & Convenient USB Charging Feature</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mastering-quick-fixes-resolving-issues-with-windows-11-start-menu-accessibility/"><u>Mastering Quick Fixes: Resolving Issues with Windows 11 Start Menu Accessibility</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-soundless-shift-how-to-remove-audio-from-video-projects-today-for-2024/"><u>New The Soundless Shift How to Remove Audio From Video Projects Today for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-dive-into-the-art-of-asmr-recording-a-comprehensive-overview-for-2024/"><u>[Updated] Dive Into the Art of ASMR Recording – A Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-rage-quarters-and-swords-nintendo-switch-fighting-classics/"><u>[Updated] Rage Quarters & Swords Nintendo Switch Fighting Classics</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-15-innovative-cost-free-photo-manipulation-software/"><u>2024 Approved 15 Innovative, Cost-Free Photo Manipulation Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726226287147-20/"><u>20대 가장 효과적인 무료 비디오 편집 도구: 워터마크 없음에도 불구하고 최고의 품질</u></a></li>
+<li><a href="https://discover-able.techidaily.com/3gppmp4-movavi/"><u>網路上免費自動轉換3GPP到MP4 - 利用Movavi的轉頻器</u></a></li>
+<li><a href="https://discover-able.techidaily.com/free-online-conversion-transforming-wma-files-into-m4b-audiobooks-movavi/"><u>Free Online Conversion: Transforming WMA Files Into M4B Audiobooks - Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-xiaomi-redmi-k70-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Xiaomi Redmi K70 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-oppo-a58-4g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Oppo A58 4G to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/natures-edge-is-chatbot-support-crucial-for-survival/"><u>Nature's Edge: Is Chatbot Support Crucial for Survival?</u></a></li>
+<li><a href="https://discover-able.techidaily.com/scopri-i-termini-e-le-condizioni-essenziali-per-usare-i-codici-promozionali-di-movavi/"><u>Scopri I Termini E Le Condizioni Essenziali per Usare I Codici Promozionali Di Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/titre-seo-optimise-top-des-outils-gratuits-pour-enregistrer-les-ecran-dordinateur-avec-facile-installation-et-utilisation/"><u>Titre SEO Optimisé: Top Des Outils Gratuits Pour Enregistrer Les Écran D'ordinateur Avec Facile Installation Et Utilisation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/visual-storytelling-on-facebook-crafting-compelling-slideshows-for-2024/"><u>Visual Storytelling on Facebook Crafting Compelling Slideshows for 2024</u></a></li>
 </ul></div>
 
