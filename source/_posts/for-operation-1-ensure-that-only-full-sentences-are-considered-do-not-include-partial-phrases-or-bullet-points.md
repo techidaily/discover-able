@@ -1,7 +1,7 @@
 ---
 title: For Operation 1, Ensure that only Full Sentences Are Considered; Do Not Include Partial Phrases or Bullet Points.
-date: 2024-10-25T03:47:51.565Z
-updated: 2024-10-31T16:19:06.170Z
+date: 2024-11-04T17:38:30.373Z
+updated: 2024-11-06T23:58:48.755Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/eca414d17b25e8f8a64d96408c677f9d5871694def811f8f7c4b963f5242cb3d.jpg
@@ -61,9 +61,29 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -89,34 +109,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Étape 3.** Cliquez là où la flèche pointe et sélectionnez le disque externe préparé comme destination.
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -127,10 +126,17 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -154,10 +160,16 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Autres articles connexes
@@ -189,10 +201,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -212,20 +224,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-focus-on-you-not-the-surroundings-blur-techniques-for-google-meet-success/"><u>[New] In 2024, Focus on You, Not the Surroundings Blur Techniques for Google Meet Success</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-screen-protectors-that-enhance-vr-filming-for-2024/"><u>[New] Screen Protectors That Enhance VR Filming for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-aces-top-10-list-choosing-superior-capture-cards-for-2024/"><u>[Updated] Ace's Top 10 List Choosing Superior Capture Cards for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-the-ultimate-guide-to-posting-panoramas-a-step-by-step-approach/"><u>2024 Approved The Ultimate Guide to Posting Panoramas A Step-By Step Approach</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ius4goezuuwxiplusodjeocquocreodvoodquocqplusodkoodquodvoobruwpluociuajseobhdrku6pmm7jgr3jg6rjg6xjg7zjgrfjg6fjg7pjgollkkvjgodkvbjgytmlrnjg57jg4vjg6xjgqljg6si208/"><u>一発屋ネオキーリカバリーの取り扱い:代替ソリューションも含む使い方マニュアル</u></a></li>
-<li><a href="https://discover-able.techidaily.com/erzeugen-sie-ihr-eigenes-iphone-sicherungsarchiv-keine-hilfe-von-mac-oder-pc-notig/"><u>Erzeugen Sie Ihr Eigenes iPhone-Sicherungsarchiv - Keine Hilfe Von Mac Oder PC Nötig!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expertly-edited-entries-anywhere-at-the-tap-of-a-finger-in-2e23/"><u>Expertly Edited Entries, Anywhere at the Tap of a Finger in 2E23</u></a></li>
-<li><a href="https://discover-able.techidaily.com/fast-weg-verschwundene-verzeichnisse-in-windows-11-zu-rekonstruieren/"><u>Fast Weg, Verschwundene Verzeichnisse in Windows 11 Zu Rekonstruieren</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-infinix-hot-40i-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Infinix Hot 40i Face Lock?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-razr-40-ultra-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Razr 40 Ultra Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-step-into-the-future-of-video-creation-with-animated-subscribe-buttons-in-filmora/"><u>In 2024, Step Into the Future of Video Creation with Animated Subscribe Buttons in Filmora</u></a></li>
-<li><a href="https://discover-able.techidaily.com/passos-faceis-para-executar-backup-de-unidade-no-windows-11-10-8-ou/"><u>Passos Fáceis Para Executar Backup De Unidade No Windows 11, 10, 8 Ou #</u></a></li>
-<li><a href="https://discover-able.techidaily.com/sichere-daten-mit-passwortgeschutzten-verfahren-verschlusseln-in-windows-11-erkunde-diese-dreifachen-techniken/"><u>Sichere Daten Mit Passwortgeschützten Verfahren Verschlüsseln in Windows 11 - Erkunde Diese Dreifachen Techniken</u></a></li>
-<li><a href="https://discover-able.techidaily.com/top-strategien-gegen-schreibgeschutzter-datentrager-fehler-entschlusseln-sie-den-zugriff/"><u>Top-Strategien Gegen 'Schreibgeschützter Datenträger'-Fehler – Entschlüsseln Sie Den Zugriff</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-honor-x9a-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-explore-every-angle-of-vitas-video-editor-full-review-and-tutorial-2024/"><u>[New] Explore Every Angle of Vita’s Video Editor Full Review & Tutorial, 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-deep-dive-into-periscope-its-free-how-to-register/"><u>[New] In 2024, Deep Dive Into Periscope It's Free? How To Register</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024s-most-economical-cloud-stores-revealed/"><u>2024'S Most Economical Cloud Stores Revealed</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726028800100-movm4a/"><u>簡単ガイド：MOVファイルをM4A形式に変換するための手順</u></a></li>
+<li><a href="https://discover-able.techidaily.com/57ea77yi44op44kk44oz77yj44ks5l255so44gx44gf6kej5yop5bqm5lplusd5oyb44gn44kv44oq44ki5yuv55s75lyd6ygu/"><u>線（ライン）を使用した解像度保持でクリア動画伝達</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-methods-for-transforming-your-media-into-compatible-formats-for-iphone-ipad-and-ipod-use/"><u>Easy Methods for Transforming Your Media Into Compatible Formats for iPhone, iPad & iPod Use</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-steps-converting-mka-audio-files-into-mp3-format/"><u>Easy Steps: Converting MKA Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-effortlessly-integrate-cloud-9-extension-with-your-kodi-media-center-using-matrix-and-leia-firmwares/"><u>How To Effortlessly Integrate Cloud 9 Extension with Your Kodi Media Center (Using Matrix and Leia Firmwares)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme V30T? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-moto-g23-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Moto G23 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/er-tips-maximizing-youtube-edits-with-finalcut-pro-for-2024/"><u>Insider Tips Maximizing YouTube Edits with FinalCut Pro for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726028564812-mkvmp3wav/"><u>MKVファイルから明瞭な音声をMP3やWAVに最適化するガイド</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/smart-storage-solutions-with-stellar-file-eraser-5-tailored-window-centric-auto-erase-setups-for-easy-maintenebility/"><u>Smart Storage Solutions with Stellar File Eraser 5 - Tailored Window-Centric Auto Erase Setups for Easy Maintenebility</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-top-25-mobile-editors-for-dji-filmmaking-for-2024/"><u>The Top 25 Mobile Editors for DJi Filmmaking for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-nokia-c22-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Nokia C22 for Parents | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-tp-format-converter-simple-guide-on-changing-tp-files-to-popular-formats-like-mp4-wmv-and-more/"><u>Ultimate TP Format Converter: Simple Guide on Changing TP Files to Popular Formats Like MP4, WMV, and More!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/wonderfox-software-enhances-trustworthiness-via-officially-coded-certificate-integration-for-ultimate-protection/"><u>WonderFox Software Enhances Trustworthiness via Officially Coded Certificate Integration for Ultimate Protection</u></a></li>
 </ul></div>
 
