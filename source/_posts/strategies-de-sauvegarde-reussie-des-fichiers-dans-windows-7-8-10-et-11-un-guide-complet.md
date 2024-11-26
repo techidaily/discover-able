@@ -1,7 +1,7 @@
 ---
 title: "Stratégies De Sauvegarde Réussie Des Fichiers Dans Windows 7, 8, 10 Et 11: Un Guide Complet"
-date: 2024-11-12T17:12:33.779Z
-updated: 2024-11-17T00:57:17.988Z
+date: 2024-11-25T16:14:32.404Z
+updated: 2024-11-26T19:22:16.935Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa167590fe6f17711d0d491d279f0c.jpg
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/db2dfa016aad5526d4e3599a68e42c8f3cfa16759
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
@@ -34,6 +38,10 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -61,16 +69,13 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -92,13 +97,6 @@ Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
 [![share/nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ouvrir.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le nom d'affichage, l'adresse IP, le nom d'utilisateur et le mot de passe pour connecter votre espace de stockage NAS Buffalo. Double-cliquez ensuite dessus dans le volet de gauche et sélectionnez ce que vous souhaitez sauvegarder dans la liste de droite.
 
 [![ajouter périphérique share ou nas](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/emplacement-reseau.png)
@@ -107,16 +105,13 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
 
@@ -127,10 +122,7 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -173,6 +165,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -182,20 +178,10 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -212,20 +198,19 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-get-hd-quality-quickly-enable-av1-in-youtube-settings/"><u>[Updated] 2024 Approved Get HD Quality Quickly Enable AV1 in YouTube Settings</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-social-synergy-from-insta-to-the-world-of-tiktok/"><u>[Updated] 2024 Approved Social Synergy From Insta to the World of TikTok</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-achieving-professional-colors-with-central-luts/"><u>[Updated] Achieving Professional Colors with Central Luts</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-sharing-wisdom-the-art-of-insta-duplication/"><u>[Updated] Sharing Wisdom The Art of Insta Duplication</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-power-of-precision-in-slug-line-writing-techniques/"><u>2024 Approved The Power of Precision in Slug Line Writing Techniques</u></a></li>
-<li><a href="https://discover-able.techidaily.com/conversor-on-line-sem-custo-mude-arquivos-mkv-e-e-3gp-em-mp4-usando-a-ferramenta-versatil-do-movavi/"><u>Conversor On-Line Sem Custo: Mude Arquivos MKV E E 3GP Em MP4 Usando a Ferramenta Versátil Do Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/free-conversion-of-m4a-audio-files-to-adobe-flash-swf-format-online-tool-by-movavi/"><u>Free Conversion of M4A Audio Files to Adobe Flash SWF Format - Online Tool by Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/gebruik-het-voorheenste-opus-naar-mp3-konverteerder-online-de-zevende-kracht-voor-vrije-audioconversie/"><u>Gebruik Het Voorheenste OPUS Naar MP3 Konverteerder Online - De Zevende Kracht Voor Vrije Audioconversie</u></a></li>
-<li><a href="https://discover-able.techidaily.com/guide-complet-pour-le-suivi-de-deplacement-grace-a-lia/"><u>Guide Complet Pour Le Suivi De Déplacement Grâce À L'IA</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-pro-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone 12 Pro to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/metas-pursuit-the-race-for-global-ai-supremacy/"><u>Meta's Pursuit: The Race for Global AI Supremacy</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transforme-seus-arquivos-avi-com-facilidade-e-gratuitamente-no-movavi-o-melhor-conversor-on-line-disponivel/"><u>Transforme Seus Arquivos AVI Com Facilidade E Gratuitamente No Movavi - O Melhor Conversor On-Line Disponível</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/unlocking-new-windows-11-potentials-for-2024/"><u>Unlocking New Windows 11 Potentials for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/vcddvd/"><u>ゼロ費用でVCDを効率的にDVD形式に変換するテクニック</u></a></li>
-<li><a href="https://discover-able.techidaily.com/f4vmp4-movavi/"><u>ムーファイブビデオ(F4V)からMP4への完全無償変換 - MOVAVI</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamline-your-pc-screens-free-app/"><u>[New] In 2024, Streamline Your PC Screens, Free App</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-power-play-essential-10-motivational-films/"><u>[Updated] 2024 Approved Power Play Essential 10 Motivational Films</u></a></li>
+<li><a href="https://discover-able.techidaily.com/3gpmpg-movavi/"><u>在线无限制，轻松将3GP转换为MPG - 使用 Movavi 专业转换器</u></a></li>
+<li><a href="https://discover-able.techidaily.com/aperte-o-boteiro-mudanca-gratuita-de-formatos-on-line-usando-movavis-ape-utilidade/"><u>Aperte O Boteiro: Mudança Gratuita De Formatos On-Line Usando Movavi's APE Utilidade</u></a></li>
+<li><a href="https://discover-able.techidaily.com/bildbearbeitungsprogramm-von-movavi-perfekte-fotos-entwerfen-programma-voor-fotos-spiegelen/"><u>Bildbearbeitungsprogramm Von Movavi: Perfekte Fotos Entwerfen | Programma Voor Foto's Spiegelen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-realme-10t-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Realme 10T 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/coming-soon-the-google-pixel-timepiece-release-info-estimated-price-and-latest-speculations/"><u>Coming Soon: The Google Pixel Timepiece - Release Info, Estimated Price & Latest Speculations</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversion-de-fichiers-audio-wma-au-format-flac-gratuit-sur-lensemble-du-web-via-movavi/"><u>Conversion De Fichiers Audio WMA Au Format FLAC Gratuit Sur L'ensemble Du Web via Movavi</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/gratuito-converter-para-transformar-videos-flv-em-imagens-animadas-gif-site-online-de-movavi/"><u>Gratuito Converter Para Transformar Vídeos FLV Em Imagens Animadas GIF - Site Online De Movavi</u></a></li>
+<li><a href="https://solve-info.techidaily.com/launching-intelligent-transit-solutions-insights-from-the-abbyy-blog/"><u>Launching Intelligent Transit Solutions: Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210454392-9789814952811-motivation-journal-for-women/"><u>Motivation Journal For Women | Free Book</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-5-methods-for-transforming-videos-into-mp4-format-on-your-mac/"><u>Top 5 Methods for Transforming Videos Into MP4 Format on Your Mac</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-twitter-management-apps-the-ultimate-list-of-best-tools-and-software/"><u>Top Twitter Management Apps: The Ultimate List of Best Tools & Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726220729957-windowsmovavi/"><u>Windows版本：Movavi软件激活指南</u></a></li>
 </ul></div>
 
