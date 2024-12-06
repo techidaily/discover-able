@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Player Version 1.6.0.1 Now Updated: Free Download & Installation Guide"
-date: 2024-11-21T16:36:53.161Z
-updated: 2024-11-26T19:13:57.870Z
+date: 2024-11-28T19:40:06.923Z
+updated: 2024-12-06T04:32:32.523Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Version 1.6.0.1 of LYRX karaoke software is available for download.
@@ -33,7 +33,7 @@ Again, we appreciate all the assistance and feedback we’ve received from LYRX 
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a fully-functional free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.0.1
@@ -55,7 +55,7 @@ If you still can’t access any audio from the inputs follow these steps:
 _Have questions about the latest 1.6.0.1 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,22 +77,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-missing-video-functionality-in-sony-a6400/"><u>[New] Missing Video Functionality in Sony A6400</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1-effortless-file-copying-and-saving-techniques-using-command-prompt-on-windows-10/"><u>1. Effortless File Copying and Saving Techniques Using Command Prompt on Windows 10</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1728467177792-windows-11dvd/"><u>解決策：問題解消 - Windows 11におけるDVDドライブの不認識対策</u></a></li>
-<li><a href="https://discover-able.techidaily.com/best-free-utilities-for-system-backuprestoration-on-windows-versions-11-10-8-and-7/"><u>Best Free Utilities for System Backup/Restoration on Windows (Versions 11, 10, 8 & 7)</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1728493768162-clonezilla/"><u>Clonezilla 修復後仍無法複製故障硬盤片段或容量</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/y-classics-a-curated-15-channel-collection-for-humor/"><u>Comedy Classics A Curated 15-Channel Collection for Humor</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/essential-zombies-unleashed-a-curated-list/"><u>Essential Zombies Unleashed A Curated List</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-a05s-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Itel A05s Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/implementing-video-timelines-on-youtube-for-2024/"><u>Implementing Video Timelines on YouTube for 2024</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-xiaomi-redmi-k70-pro-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Xiaomi Redmi K70 Pro Phone that is Locked?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/is-it-possible-to-restore-deleted-data-following-a-windows-eportreset/"><u>Is It Possible to Restore Deleted Data Following a Windows eportReset?</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1720063291212-no-hassle-just-great-audio-quality/"><u>No Hassle, Just Great Audio Quality</u></a></li>
-<li><a href="https://games-able.techidaily.com/peaceful-pixel-play-idling-worlds/"><u>Peaceful Pixel Play: Idling Worlds</u></a></li>
-<li><a href="https://discover-able.techidaily.com/reason-behind-missing-windows-easy-transfer-option-in-windows-11/"><u>Reason Behind Missing 'Windows Easy Transfer' Option in Windows 11</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-moving-select-texts-from-one-iphone-to-another/"><u>Step-by-Step Guide: Moving Select Texts From One iPhone to Another</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-smoothing-out-shaky-videos-across-pc-mac-android-and-ios-devices/"><u>Step-by-Step Guide: Smoothing Out Shaky Videos Across PC, Mac, Android & iOS Devices</u></a></li>
-<li><a href="https://discover-able.techidaily.com/top-6-risoluzioni-rapide-quando-la-riparazione-di-windows-11-fallisce/"><u>Top 6 Risoluzioni Rapide: Quando La Riparazione Di Windows 11 Fallisce</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>[Updated] The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
+<li><a href="https://discover-able.techidaily.com/become-a-member-of-the-exclusive-pcdj-community-on-facebook-join-now/"><u>Become a Member of the Exclusive PCDJ Community on Facebook – Join Now!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-guide-to-managing-applications-via-windows-control-panel-tips-from-yl-computing/"><u>Easy Guide to Managing Applications via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-headphone-input-malfunctions-on-your-personal-computer/"><u>Expert Advice: Resolving Headphone Input Malfunctions on Your Personal Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-steady-deal-how-the-apple-watch-se-second-gen-continues-to-shine-with-an-80-bargain-post-prime-day/"><u>Exploring the Steady Deal: How the Apple Watch SE, Second Gen Continues to Shine with an $80 Bargain Post-Prime Day</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/hassle-free-methods-to-transform-youtube-content-into-mpeg-files-compatible-with-iphone-ipad-and-android/"><u>Hassle-Free Methods to Transform YouTube Content Into MPEG Files Compatible with iPhone, iPad & Android</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-elevate-your-tiktok-game-essential-analytics-tools-countdown/"><u>In 2024, Elevate Your TikTok Game - Essential Analytics Tools Countdown</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s18e-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S18e Phone Now with These Tips</u></a></li>
+<li><a href="https://discover-able.techidaily.com/preventing-malware-and-speed-issues-expert-advice-for-keeping-your-computer-fast-yl-software-solutions/"><u>Preventing Malware and Speed Issues: Expert Advice for Keeping Your Computer Fast - YL Software Solutions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/recover-lost-or-erased-files-on-windows-with-simple-techniques-by-yl-software-professionals/"><u>Recover Lost or Erased Files on Windows with Simple Techniques by YL Software Professionals</u></a></li>
+<li><a href="https://win-info.techidaily.com/ripristina-i-tuoi-dati-in-modo-semplice-utilizzando-le-tue-copie-di-backup/"><u>Ripristina I Tuoi Dati in Modo Semplice: Utilizzando Le Tue Copie Di Backup</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-eliminating-duplicate-windows-registry-keys-expert-advice-by-yl-computing/"><u>Step-by-Step Guide: Eliminating Duplicate Windows Registry Keys - Expert Advice by YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-modifying-text-documents-in-windows-os-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying Text Documents in Windows OS - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/the-ultimate-collection-of-blue-vintage-folder-graphics-from-yl-software-solutions/"><u>The Ultimate Collection of Blue Vintage Folder Graphics From YL Software Solutions</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-oneplus-nord-ce-3-lite-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from OnePlus Nord CE 3 Lite 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

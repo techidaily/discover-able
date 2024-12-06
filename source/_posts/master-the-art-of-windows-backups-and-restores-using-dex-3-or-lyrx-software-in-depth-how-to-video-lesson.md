@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Windows Backups and Restores Using DEX 3 or LYRX Software: In-Depth How-To Video Lesson"
-date: 2024-11-25T16:46:09.825Z
-updated: 2024-11-26T17:20:46.241Z
+date: 2024-12-05T06:52:54.926Z
+updated: 2024-12-06T09:54:34.343Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ App Data is a hidden folder in Windows by default, so locating it isn’t as eas
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,24 +42,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-how-to-curate-a-facebook-playlist-via-phonetablet/"><u>[New] 2024 Approved How to Curate a Facebook Playlist via Phone/Tablet</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-from-hidden-gems-to-hit-videos-strategies-for-success/"><u>[Updated] From Hidden Gems to Hit Videos Strategies for Success</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-in-depth-examination-of-videoshow-24/"><u>2024 Approved In-Depth Examination of VideoShow '24</u></a></li>
-<li><a href="https://win-best.techidaily.com/57ch5zau5lij5oub77ya54cp6ka95zmo6zat54sh5pcn5pkk6zmk5lim5lplusd5a2y5qqu5qgi5pa55rov/"><u>簡單三招：瀏覽器間無損撤除並保存檔案方法</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726222196392-asfmp4-movavi/"><u>網上無需金錢，讓ASF視頻轉化成MP4 - 使用Movavi即時轉檔</u></a></li>
-<li><a href="https://discover-able.techidaily.com/3gpmpg-movavi/"><u>在线无限制，轻松将3GP转换为MPG - 使用 Movavi 专业转换器</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mp4-to-aac-movavi/"><u>在線上免費改變音頻格式 MP4 to AAC - Movavi 電子化解答套件</u></a></li>
-<li><a href="https://discover-able.techidaily.com/aperte-o-boteiro-mudanca-gratuita-de-formatos-on-line-usando-movavis-ape-utilidade/"><u>Aperte O Boteiro: Mudança Gratuita De Formatos On-Line Usando Movavi's APE Utilidade</u></a></li>
-<li><a href="https://discover-able.techidaily.com/bildbearbeitungsprogramm-von-movavi-perfekte-fotos-entwerfen-programma-voor-fotos-spiegelen/"><u>Bildbearbeitungsprogramm Von Movavi: Perfekte Fotos Entwerfen | Programma Voor Foto's Spiegelen</u></a></li>
-<li><a href="https://discover-able.techidaily.com/conversion-de-fichiers-audio-wma-au-format-flac-gratuit-sur-lensemble-du-web-via-movavi/"><u>Conversion De Fichiers Audio WMA Au Format FLAC Gratuit Sur L'ensemble Du Web via Movavi</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-audio-delay-2024-guide/"><u>How to Fix Audio Delay – 2024 Guide</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oppo-find-n3-flip-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Oppo Find N3 Flip?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-pixelstreamer-os-native-screen-recording/"><u>In 2024, PixelStreamer OS-Native Screen Recording</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-itel-p40plus-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Itel P40+</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oppo-reno-10-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Oppo Reno 10 5G FRP Bypass</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/simplified-steps-for-posting-tweets-on-facebook-for-2024/"><u>Simplified Steps for Posting Tweets on Facebook for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/top-5-methods-for-transforming-videos-into-mp4-format-on-your-mac/"><u>Top 5 Methods for Transforming Videos Into MP4 Format on Your Mac</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transcodificador-en-linea-gratuito-para-convertir-archivos-flac-a-mp3-rapidamente-y-sin-complicaciones-movavi/"><u>Transcodificador en Línea Gratuito Para Convertir Archivos FLAC a MP3 Rápidamente Y Sin Complicaciones - Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726220729957-windowsmovavi/"><u>Windows版本：Movavi软件激活指南</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-from-snapshot-to-success-an-in-depth-video-guide-for-youtube-photos/"><u>[Updated] In 2024, From Snapshot to Success An In-Depth Video Guide for YouTube Photos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-insights-cutting-edge-chroma-techniques-for-kinemaster/"><u>2024 Approved Expert Insights Cutting-Edge Chroma Techniques for KineMaster</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-seeking-consistent-income-through-youtube/"><u>2024 Approved Seeking Consistent Income Through YouTube</u></a></li>
+<li><a href="https://discover-able.techidaily.com/can-boosting-pc-performance-benefit-from-a-registry-cleaner-exploring-options-with-yl-computings-solutions/"><u>Can Boosting PC Performance Benefit From a Registry Cleaner? Exploring Options with YL Computing's Solutions</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-wd-blue-sn5000-4tb-ssd-assessment-the-new-go-to-storage-solution-from-western-digital/"><u>Comprehensive WD Blue SN5000 4TB SSD Assessment: The New Go-To Storage Solution From Western Digital</u></a></li>
+<li><a href="https://discover-able.techidaily.com/diagnosing-pc-memory-faults-on-windows-expert-tips-by-yl-software/"><u>Diagnosing PC Memory Faults on Windows: Expert Tips by YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/exquisite-coffee-moments-full-hd-cappuccino-imagery-for-inspired-backgrounds-with-yl-software-solutions/"><u>Exquisite Coffee Moments: Full HD Cappuccino Imagery for Inspired Backgrounds with YL Software Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-ai-duo-chatgpt-meets-siri-in-ios-world/"><u>Integrating AI Duo: ChatGPT Meets Siri in iOS World</u></a></li>
+<li><a href="https://discover-able.techidaily.com/resolving-connection-issues-a-step-by-step-guide-to-repair-your-scanners-link-with-the-pc-expert-tips-from-yl-computing/"><u>Resolving Connection Issues: A Step-by-Step Guide to Repair Your Scanner's Link with the PC - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-2-methods-for-creating-a-local-backup-of-your-gmail-account/"><u>Top 2 Methods for Creating a Local Backup of Your Gmail Account</u></a></li>
 </ul></div>
 

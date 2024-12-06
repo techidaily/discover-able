@@ -1,7 +1,7 @@
 ---
 title: Get Your Copy of the Latest PCDJ DEX 3.8 Update - Free Download Now!
-date: 2024-11-24T18:25:20.132Z
-updated: 2024-11-26T18:12:57.964Z
+date: 2024-11-29T16:34:06.265Z
+updated: 2024-12-06T06:18:15.797Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,24 +106,21 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-masterclass-in-adding-srt-overlay-on-mp4-file-playback/"><u>[New] Masterclass in Adding SRT Overlay on MP4 File Playback</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-rx-heritage-bundle-for-2024/"><u>[New] RX Heritage Bundle for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-mac-hd-screen-and-sound-mastery-for-2024/"><u>[Updated] Cutting-Edge Mac HD Screen and Sound Mastery for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/6-alternative-apps-to-periscope-for-iphoneandroid-users-for-2024/"><u>6 Alternative Apps to Periscope for iPhone/Android Users for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/win11win87/"><u>最新Win11～Win8/7で行うディスクリポジショニングテクニック</u></a></li>
-<li><a href="https://discover-able.techidaily.com/commission-another-organization-in-this-context-also-labeled-as-b-org/"><u>Commission - Another Organization in This Context, Also Labeled as B-ORG</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-meizu-21-pro-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Meizu 21 Pro online without jailbreak</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-lava-yuva-3-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Lava Yuva 3 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1726220385364-jpeg-movavi/"><u>JPEG 티비프 이미지를 무료로 바꾸기: 온라인 변환기 - Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/maximize-business-efficiency-with-clone-di-sistemas-innovative-tech-services/"><u>Maximize Business Efficiency with Clone Di Sistema's Innovative Tech Services</u></a></li>
-<li><a href="https://discover-able.techidaily.com/meet-the-team-behind-aomei-backup-about-us/"><u>Meet the Team Behind AOMEI Backup: About Us</u></a></li>
-<li><a href="https://discover-able.techidaily.com/navigating-advanced-file-restoration-techniques-for-retrieving-sizeable-)4gb-documents/"><u>Navigating Advanced File Restoration: Techniques for Retrieving Sizeable >4GB Documents</u></a></li>
-<li><a href="https://fox-http.techidaily.com/nikon-j5-unleashed-embracing-4k-camera-technology-for-2024/"><u>Nikon J5 Unleashed Embracing 4K Camera Technology for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/resurrecting-data-the-ultimate-method-for-recovering-a-disk-using-aomei-backupper/"><u>Resurrecting Data: The Ultimate Method for Recovering a Disk Using AOMEI Backupper</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-restoring-lost-data-from-an-external-hard-drive-on-windows-10-and-macos/"><u>Step-by-Step Guide: Restoring Lost Data From an External Hard Drive on Windows 10 and macOS</u></a></li>
-<li><a href="https://discover-able.techidaily.com/trio-de-solutions-pour-recuperer-les-drivers-perdus-sous-windows-10/"><u>Trio De Solutions Pour Récupérer Les Drivers Perdus Sous Windows 10</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Ultimate guide to get the meltan box pokemon go For Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-the-power-of-claude-3/"><u>Unleashing the Power of Claude 3</u></a></li>
-<li><a href="https://discover-able.techidaily.com/wat-doen-als-onedrive-lokale-bestanden-van-je-weghaalt-steunpunt-herstelprocess/"><u>Wat Doen Als OneDrive Lokale Bestanden Van Je Weghaalt - Steunpunt Herstelprocess</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-how-to-blur-background-in-zoom-with-ease-an-ultimate-guide-for-2024/"><u>[New] How to Blur Background in Zoom with Ease An Ultimate Guide for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-pioneering-path-for-instantaneous-srt-to-text-conversions/"><u>[New] In 2024, Pioneering Path for Instantaneous SRT to Text Conversions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-crossfades-a-premiere-pro-guide/"><u>[Updated] Mastering Crossfades A Premiere Pro Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-venturing-virtuality-a-review-of-lgs-360-headset/"><u>2024 Approved Venturing Virtuality A Review of LG's 360 Headset</u></a></li>
+<li><a href="https://blog-min.techidaily.com/202n4cd/"><u>必看202n4年度自由複製程式：簡易操作下，完成無比CD或重點電影的即時克隆</u></a></li>
+<li><a href="https://discover-able.techidaily.com/experiencing-intermittent-sounds-discover-why-and-how-to-fix-it-with-expert-advice-from-yl-software-solutions/"><u>Experiencing Intermittent Sounds? Discover Why & How to Fix It with Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/fixing-gpu-issues-step-by-step-with-insights-from-yl-software-specialists/"><u>Fixing GPU Issues Step-by-Step with Insights From YL Software Specialists</u></a></li>
+<li><a href="https://discover-able.techidaily.com/high-quality-harley-davidson-hd-wallpaper-collection-photo-and-image-database-by-yl-computing/"><u>High-Quality Harley Davidson HD Wallpaper Collection - Photo & Image Database by YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/is-regular-comprehensive-scanning-needed-for-windows-defender-protection-insights-from-yl-computing/"><u>Is Regular Comprehensive Scanning Needed for Windows Defender Protection - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mastering-driver-troubleshooting-top-tips-from-yl-computings-expert-solutions/"><u>Mastering Driver Troubleshooting: Top Tips From YL Computing's Expert Solutions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/prevent-data-extraction-by-online-bots/"><u>Prevent Data Extraction by Online Bots</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/top-10-easiest-languages-to-learn/"><u>Top 10 Easiest Languages to Learn</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-accelerating-utility-apps-boost-your-pcs-performance-recommendations-by-yl-software/"><u>Top Accelerating Utility Apps: Boost Your PC's Performance - Recommendations by YL Software</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-mystery-what-causes-your-car-audio-system-to-fail/"><u>Unraveling the Mystery: What Causes Your Car Audio System to Fail</u></a></li>
+<li><a href="https://discover-able.techidaily.com/yl-software-expertise-easily-adding-new-languages-to-your-pcs-settings-window/"><u>YL Software Expertise: Easily Adding New Languages to Your PC's Settings Window</u></a></li>
 </ul></div>
 

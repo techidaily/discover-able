@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Latest Update: Pioneer Deckadance SB2 Evolves to DEX 3 & Red Mobile 3 Compatibility!"
-date: 2024-11-19T17:51:18.036Z
-updated: 2024-11-26T19:01:47.796Z
+date: 2024-11-29T22:52:18.584Z
+updated: 2024-12-05T20:00:29.268Z
 tags:
   - product
 categories:
@@ -31,13 +31,13 @@ What we find notably impressive is **the robust feature-set included with the DD
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pioneer DDJ-SB2 Key Features
@@ -62,7 +62,7 @@ The DDJ is USB powered, so you can simply connect the controller to your compute
 **(mapping guide coming soon!)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### MAIN TECHNICAL SPECIFICATIONS
@@ -78,7 +78,7 @@ The DDJ is USB powered, so you can simply connect the controller to your compute
 | Unit weight                     | 2.1 kg                                                                                        |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -100,22 +100,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2016/01/pioneerDDJ-SB2-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-most-innovative-voice-altering-mobile-apps/"><u>[New] 2024 Approved Most Innovative Voice-Altering Mobile Apps</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-capture-clarity-our-top-picks-of-18-webcam-recording-software/"><u>[New] Capture Clarity Our Top Picks of #18 Webcam Recording Software</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevate-your-content-in-depth-guide-to-youtube-video-edits/"><u>[New] In 2024, Elevate Your Content In-Depth Guide to YouTube Video Edits</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/advanced-insights-into-computing-devices-by-toms-digital-tools-resource/"><u>Advanced Insights Into Computing Devices by Tom's Digital Tools Resource</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1728501412523-aomei/"><u>AOMEI シェアリングバックアップによる定期的な圧縮イメージ複製</u></a></li>
-<li><a href="https://win-hot.techidaily.com/1728494138449-asuspc/"><u>AsusモバイルPCでのデータ回復・緊急修復法：詳しく解説する</u></a></li>
-<li><a href="https://discover-able.techidaily.com/automatico-cancellazione-dei-file-pre-caricati-in-windows-11/"><u>Automatico Cancellazione Dei File Pre-Caricati in Windows 11</u></a></li>
-<li><a href="https://discover-able.techidaily.com/decoding-the-enigma-why-you-might-need-a-fresh-start-with-windows-explorer/"><u>Decoding the Enigma: Why You Might Need a Fresh Start with Windows Explorer</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/enabling-seamless-facebook-video-playbacks-for-2024/"><u>Enabling Seamless Facebook Video Playbacks for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/for-operation-1-ensure-that-only-full-sentences-are-considered-do-not-include-partial-phrases-or-bullet-points/"><u>For Operation 1, Ensure that only Full Sentences Are Considered; Do Not Include Partial Phrases or Bullet Points.</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-access-and-use-the-reset-this-pc-option-in-windows-11-for-easy-solutions/"><u>How to Access and Use the 'Reset This PC' Option in Windows 11 for Easy Solutions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/seamless-operating-system-migration-with-premier-disk-copy-apps/"><u>Seamless Operating System Migration with Premier Disk Copy Apps</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-recovering-data-from-your-usb-flash-drive/"><u>Step-by-Step Guide: Recovering Data From Your USB Flash Drive</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls-for-2024/"><u>The Elite Selection of Top 12 Tycoons - Perfect for Strategic Souls for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/the-essentials-of-xbox-live-recording/"><u>The Essentials of Xbox Live Recording</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transferencia-de-datos-samsung-migran-hacia-una-unidad-ssd-compacta-desde-hdd-mas-grande/"><u>Transferencia De Datos Samsung: Migran Hacia Una Unidad SSD Compacta Desde HDD Más Grande</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/understanding-frame-rate-drops-and-stutters-in-call-of-dutys-modern-warfare-3-for-a-smoother-gameplay/"><u>Understanding Frame Rate Drops & Stutters in Call of Duty's Modern Warfare 3 for a Smoother Gameplay</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ace-your-iphones-advanced-tactics-for-downloading-podcasts-for-2024/"><u>[New] Ace Your iPhones Advanced Tactics for Downloading Podcasts for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-modern-and-future-terrain-with-drones/"><u>2024 Approved Navigating Modern and Future Terrain with Drones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essentials-navigating-whatsapp-call-functionality/"><u>2024 Approved The Essentials Navigating WhatsApp Call Functionality</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/budgeted-skyvault-storing-mountains-of-data/"><u>Budgeted SkyVault Storing Mountains of Data</u></a></li>
+<li><a href="https://discover-able.techidaily.com/can-you-detect-and-troubleshoot-motherboard-issues-with-ease-expert-insights-by-yl-computing/"><u>Can You Detect and Troubleshoot Motherboard Issues with Ease? - Expert Insights by YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/decoding-the-duality-of-system-settings-in-windows-control-panel-understanding-local-and-global-preferences-with-yl-software/"><u>Decoding the Duality of System Settings in Windows Control Panel – Understanding Local and Global Preferences with YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/fixing-gpu-issues-step-by-step-with-insights-from-yl-software-specialists/"><u>Fixing GPU Issues Step-by-Step with Insights From YL Software Specialists</u></a></li>
+<li><a href="https://discover-able.techidaily.com/high-quality-harley-davidson-hd-wallpaper-collection-photo-and-image-database-by-yl-computing/"><u>High-Quality Harley Davidson HD Wallpaper Collection - Photo & Image Database by YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-boost-your-pcs-efficiency-tips-and-tricks-yl-technologies/"><u>How to Boost Your PC's Efficiency: Tips & Tricks - YL Technologies</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-pro-tips-to-create-impactful-and-stunning-gopro-time-lapses/"><u>In 2024, Pro Tips to Create Impactful and Stunning GoPro Time-Lapses</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/mac-dvd-apple/"><u>Mac用 DVD/ビデオファイル Apple製品への変換ガイド</u></a></li>
+<li><a href="https://discover-able.techidaily.com/solving-your-pcs-booting-problems-a-guide-by-yl-computing-and-yl-software/"><u>Solving Your PC's Booting Problems: A Guide by YL Computing & YL Software</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/synchronized-screenshots-pc-or-cloud-perfection/"><u>Synchronized Screenshots PC or Cloud Perfection</u></a></li>
+<li><a href="https://windows11.techidaily.com/why-are-ai-computers-distinct-an-exploration/"><u>Why Are AI Computers Distinct? An Exploration</u></a></li>
 </ul></div>
 

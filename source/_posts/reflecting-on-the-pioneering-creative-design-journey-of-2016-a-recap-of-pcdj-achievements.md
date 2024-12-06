@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on the Pioneering Creative Design Journey of 2016: A Recap of PCDJ Achievements"
-date: 2024-11-22T17:53:25.231Z
-updated: 2024-11-26T19:04:08.831Z
+date: 2024-12-05T10:11:34.145Z
+updated: 2024-12-06T07:25:42.210Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ Highlights From 2016
@@ -39,6 +39,11 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * The new [text, image and video overlay](https://tools.techidaily.com/pcdj/products/) feature allows DJs and VJs to create stunning, multilayered overlays to display on the mixed video output. Use this feature to show your logo, or truly anything you can dream up.  
 [LEARN MORE ABOUT DEX 3 ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/11/dex3-onlaptop-controller.jpg?fit=300%2C187&ssl=1 "dex3-onlaptop-controller")](https://tools.techidaily.com/pcdj/products/)
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
 * New key detection for harmonic/key mixing. Not only sync music on beat but match key for pitch-perfect blending and mashups.
 * Released the totally and entirely FREE DJ software – DEX 3 LE. A feature-rich freebie anyone can mix music with. Use with your own library, iTunes media or subscribe to Pulselocker for a massive in-app catalog of music you can both stream and/or download for offline use.
@@ -52,7 +57,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * New [“Search Results” view](https://tools.techidaily.com/pcdj/products/) that expands the rotation list the entire right-hand side of the Karaoki browser with search results displaying in the large middle library pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added [‘Search History’ and large search pop-up](https://tools.techidaily.com/pcdj/products/) – KJs can view all their past song searches and double-click in the smaller search box to display a much larger version.
@@ -70,10 +75,6 @@ When you’re surrounded by a great group of teammates with the same vision and 
 
 [MORE ABOUT JAMMTEXT ![jammtext logo](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-logo-black.png?fit=300%2C61&ssl=1 "jammtext logo")](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As always, we strive to be accessible to our DJ and karaoke software users. We want to ensure that when you have a question it’s answered thoroughly and professionally in a very timely fashion. We updated the PCDJ website to include a new web chat, robust support ticketing tracking system and created new [PCDJ user forums](https://tools.techidaily.com/pcdj/products/).
 
 We found new partners at MixCity Inc, the creators of [JammText](https://tools.techidaily.com/pcdj/products/) – a truly unique, social and interactive text-and-image-to-screen platform that works brilliantly alongside DEX 3 or Karaoki. We plan to bring you even more goodies and better support for JammText throughout 2017.
@@ -81,13 +82,13 @@ We found new partners at MixCity Inc, the creators of [JammText](https://tools.t
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Happy New Year, Friends!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -109,20 +110,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-audiophiles-guide-techniques-to-elevate-sound-recording/"><u>[Updated] 2024 Approved Audiophile's Guide Techniques to Elevate Sound Recording</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-no-distractions-just-high-quality-webcam-recording/"><u>[Updated] 2024 Approved No Distractions, Just High-Quality Webcam Recording</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-to-15-alternative-gopro-like-cameras/"><u>2024 Approved The Ultimate Guide to 15 Alternative GoPro-Like Cameras</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtubes-link-trimming-winners-select-the-top-5-apps/"><u>2024 Approved Youtube's Link-Trimming Winners Select the Top 5 Apps</u></a></li>
-<li><a href="https://discover-able.techidaily.com/windows-10outlook-pst/"><u>重建Windows 10中消失的Outlook PST文件：两种有效方法详解</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comparando-av1-y-hevc-esta-el-formato-de-compresion-avanzado-para-reemplazar-a-h265hevc-en-la-era-digital/"><u>Comparando Av1 Y Hevc: ¿Está El Formato De Compresión Avanzado Para Reemplazar a H.265/HEVC en La Era Digital?</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/essential-list-of-top-10-costless-apps-for-srt-files-for-2024/"><u>Essential List of Top 10 Costless Apps for Srt Files for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/iconic-writings-distinguishing-film-types-for-2024/"><u>Iconic Writings Distinguishing Film Types for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/installing-windows-cd-rom-windows-10/"><u>Installing Windows 지금 새 디스크에서 직접 및 CD-ROM 없이 Windows 10 설치 방법 두 - 구현</u></a></li>
-<li><a href="https://discover-able.techidaily.com/passaggi-per-integrare-il-tuo-cloud-network-library-con-google-drive/"><u>Passaggi per Integrare Il Tuo Cloud Network Library Con Google Drive</u></a></li>
-<li><a href="https://discover-able.techidaily.com/recupera-i-tuoi-file-persi-con-la-migliore-applicazione-gratuita-per-il-recupero-del-drive-usb-su-windows-versioni-1087/"><u>Recupera I Tuoi File Persi Con La Migliore Applicazione Gratuita per Il Recupero Del Drive USB Su Windows (Versioni 10/8/7)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/simple-tale-creation-guide/"><u>Simple Tale Creation Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/top-rated-free-photo-restoration-tools-compatible-with-all-windows-versions/"><u>Top Rated Free Photo Restoration Tools Compatible with All Windows Versions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/transferieren-sie-ihre-iphone-daten-mithilfe-von-drei-techniken-unter-verwendung-einer-alternativen-apples-id/"><u>Transferieren Sie Ihre iPhone-Daten Mithilfe Von Drei Techniken Unter Verwendung Einer Alternativen Apples ID</u></a></li>
-<li><a href="https://discover-able.techidaily.com/two-effective-methods-for-creating-a-backup-of-your-windows-11-system-on-a-qnap-network-attached-storage/"><u>Two Effective Methods for Creating a Backup of Your Windows 11 System on a QNAP Network Attached Storage</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-moons-magic-dos-and-donts-of-immersive-night-photography-for-2024/"><u>[New] Moon's Magic Do's & Don'ts of Immersive Night Photography for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-transform-your-videography-effortless-recording-and-editing-via-adobe-connect/"><u>[Updated] In 2024, Transform Your Videography Effortless Recording and Editing via Adobe Connect</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/boosting-audio-fidelity-on-the-road/"><u>Boosting Audio Fidelity on the Road</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effective-anti-virus-shield-can-microsofts-windows-defender-prevent-malware-threats/"><u>Effective Anti-Virus Shield: Can Microsoft's Windows Defender Prevent Malware Threats?</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/get-your-copy-of-the-latest-pcdj-dex-38-update-free-download-now/"><u>Get Your Copy of the Latest PCDJ DEX 3.8 Update - Free Download Now!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/guarding-your-wealth-against-inflation-can-blockchain-assets-help-insights-from-the-tech-world-of-yl-computing-software/"><u>Guarding Your Wealth Against Inflation: Can Blockchain Assets Help? Insights From the Tech World of YL Computing Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a15-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A15 5G FRP?</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-poco-c55-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Poco C55 FRP Locks</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y100i-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y100i to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/protect-your-system-from-hackers-how-to-find-and-delete-spyware-malware-using-yl-computings-anti-malicious-tools/"><u>Protect Your System From Hackers: How to Find and Delete Spyware, Malware Using YL Computing's Anti-Malicious Tools</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723004257375-red-dead-redemption-2-fixed-no-more-pc-game-crashes/"><u>Red Dead Redemption 2 Fixed: No More PC Game Crashes!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/spotting-bad-ram-modules-quickly-with-yls-expert-advice-on-computer-maintenance/"><u>Spotting Bad RAM Modules Quickly with YL's Expert Advice on Computer Maintenance</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-access-and-open-files-on-your-pc-with-windows-yl-computing/"><u>Step-by-Step Guide: Access and Open Files on Your PC with Windows - YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-strategies-for-boosting-windows-performance-expert-advice-by-yl-tech-experts/"><u>Top Strategies for Boosting Windows Performance: Expert Advice by YL Tech Experts</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/turning-your-on-screen-keyboard-onoff-on-windows-10-a-simple-guide/"><u>Turning Your On-Screen Keyboard On/Off on Windows 10: A Simple Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/understanding-the-reasons-behind-your-printers-offline-signal-expert-advice-from-yl-software/"><u>Understanding the Reasons Behind Your Printer's Offline Signal - Expert Advice From YL Software</u></a></li>
 </ul></div>
 

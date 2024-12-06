@@ -1,7 +1,7 @@
 ---
 title: "一発屋ネオキーリカバリーの取り扱い:代替ソリューションも含む使い方マニュアル"
-date: 2024-11-19T16:27:09.733Z
-updated: 2024-11-26T17:29:32.540Z
+date: 2024-12-01T20:12:44.221Z
+updated: 2024-12-06T10:15:37.903Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/6b363964fc2e56f73bd871dd934c71ef94eb37eb3e4be61bfc1959bf2c673820.jpg
@@ -51,7 +51,7 @@ Nicht zu vergessen sind die kürzlich gelöschten Dateien im Papierkorb. Sie wer
 [![Papierkorb leeren](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/data-recovery-disk/windows-recovery/empty-recycle-bin.png "Papierkorb leeren")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Um Speicherplatz freizugeben, leeren viele Benutzer ihren Papierkorb. Aber ist es sicher, den Papierkorb zu löschen? Um spätere Bedauern zu vermeiden, öffnen Sie diesen temporären Speicherplatz, um zu prüfen, ob sich darin Dateien befinden, die Sie wiederherstellen möchten.
@@ -70,6 +70,10 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 
 [![Designs](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/themes.png "Designs")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt 3**. Wählen Sie „**Desktopsymbol-Einstellungen**“ und suchen Sie das Symbol „**Papierkorb**“.
 
 [![Desktopsymbol-Einstellungen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/desktop-icon-settings.png "Desktopsymbol-Einstellungen")
@@ -77,10 +81,6 @@ Vor der dauerhaften Löschung des Papierkorbs sollten Sie sicherstellen, dass ke
 **Schritt 4**. Suchen Sie das „**Papierkorb**“-Symbol, entfernen Sie das Häkchen und bestätigen Sie mit „**Übernehmen**“ und „**OK**“.
 
 [![Papierkorb](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/check-recycle-bin-click-ok.png "Papierkorb")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Teil 2\. Wie kann man den Papierkorb vom Desktop entfernen?
 
@@ -95,7 +95,11 @@ Wenn Sie den Papierkorb mittels erhöhter Eingabeaufforderung zurücksetzen möc
 [![cmd Papierkorb zurücksetzen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/other/windows/command-prompt/cmd-reset-recycle-bin.png "cmd Papierkorb zurücksetzen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Teil 3\. Wie kann man gelöschte Dateien aus dem Papierkorb nach dem Leeren wiederherstellen?
@@ -118,10 +122,6 @@ Sicherer Download
 
 [![Scan starten](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-c-to-scan.png "Scan starten")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 2**. Suchen Sie nach Ihren gewünschten Dateien oder warten Sie, um Ihre gelöschten und anderen fehlenden Dateien nach der Schnell- und Tiefenscan anzuzeigen.
 
 [![Laufwerk scannen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/scanning-drive.png "Laufwerk scannen")
@@ -131,11 +131,7 @@ Sicherer Download
 [![x Dateien wiederherstellen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/data-recovery/screenshot/de/data-recovery-disk/windows-recovery/select-deleted-excel-files-click-recover.png "x Dateien wiederherstellen")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus-Tipps: Wie verhindert man Datenverlust auf Computern?**
@@ -161,19 +157,27 @@ Sicherer Download
 
 [![dateisicherung](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/file-backup.png "dateisicherung")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Schritt** **2**. Sie können ihn im Feld „**Aufgabename**“ benennen, um ihn von anderen Backups zu unterscheiden.
 
 [![aufgabename eingeben](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/task-name.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Schritt** **3**. Klicken Sie auf „**\+ Datei**“ oder „**\+ Ordner**“, damit Sie die Dateien/Ordner auswählen können, die Sie sichern möchten. (Sie können mehrere Ordner und Dateien als Quelle hinzufügen; Sie können auch Ordner und Dateien direkt als Quelle auf den Backupper ziehen).
 
 [![Ordner hinzufügen](https://www.ubackup.com/de/data-recovery-disk/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/de/std/backup/file-backup/add-folder.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Schritt 4**. Nach Abschluss des Sicherungsvorgangs klicken Sie auf „Fertig“, um das Fenster zu schließen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Zusammenfassung
 
@@ -186,7 +190,7 @@ Wenn Sie den Papierkorb vom Desktop aus leeren möchten, können Sie die im zwei
 Für [dauerhaft gelöschte Dateien können Sie Ihre Dateien](https://tools.techidaily.com/ubackup/products/) aus den von AOMEI Backupper erstellten Sicherungen wiederherstellen oder Datenrettungstools verwenden, um sie wiederherzustellen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Häufig gestellte Fragen
@@ -247,10 +251,6 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Sauber & Sicher
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ub-mr-theme/ub-article-mr-img-dibu.png)
 
 <ins class="adsbygoogle"
@@ -268,21 +268,18 @@ Wiederherstellen von gelöschten und verlorenen Daten aus allen Katastrophen in 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-mastery-of-image-warping-made-simple/"><u>[Updated] 2024 Approved Mastery of Image Warping Made Simple</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-amplify-your-audio-visual-experience-with-these-6-android-apps/"><u>[Updated] Amplify Your Audio-Visual Experience with These 6 Android Apps</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-shorts-tutorial-crafting-compact-engaging-videos/"><u>[Updated] In 2024, YouTube Shorts Tutorial Crafting Compact, Engaging Videos</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-step-by-step-guide-countdown-timer-setup-for-broadcasts/"><u>[Updated] Step-by-Step Guide Countdown Timer Setup for Broadcasts</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-ranking-android-6-premier-podcast-platforms/"><u>2024 Approved Ranking Android 6 Premier Podcast Platforms</u></a></li>
-<li><a href="https://discover-able.techidaily.com/aomei-trova-backup-softwares-con-manuali-e-offerte-speciali/"><u>AOMEI: Trova Backup Softwares Con Manuali E Offerte Speciali</u></a></li>
-<li><a href="https://discover-able.techidaily.com/come-scaricare-e-utilizzare-aomei-fonebackup-per-creare-un-backup-tutto-copia-del-tuo-iphone/"><u>Come Scaricare E Utilizzare AOMEI FoneBackup per Creare Un Backup Tutto-Copia Del Tuo iPhone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-a-non-responsive-proximity-sensor-on-an-iphone-a-step-by-step-guide/"><u>Fixing a Non-Responsive Proximity Sensor on an iPhone: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-android-options-10-gb-emulation-tools/"><u>In 2024, Best Android Options 10 GB Emulation Tools</u></a></li>
-<li><a href="https://discover-able.techidaily.com/itunes-backup-verwelzen-naar-windows-hoe-probeert-ji-js-fortschrijft/"><u>ITUNES BACKUP VERWELZEN NAAR WINDOWS - HOE PROBEERT JI JS FORTSCHRIJFT</u></a></li>
-<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/restoring-unintentionally-removed-files-by-mcafee-security-a-step-by-step-guide/"><u>Restoring Unintentionally Removed Files by McAfee Security: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/restoring-your-missing-calls-a-guide-to-retrieving-iphone-1314-call-logs/"><u>Restoring Your Missing Calls: A Guide to Retrieving iPhone 13/14 Call Logs</u></a></li>
-<li><a href="https://discover-able.techidaily.com/schritt-fur-schritt-anleitung-zum-kopieren-ihres-hdd-datenverkehrs-auf-eine-crucial-ssd-ersteigern-sie-die-leistung/"><u>Schritt-Für-Schritt Anleitung Zum Kopieren Ihres HDD Datenverkehrs Auf Eine Crucial SSD - Ersteigern Sie Die Leistung!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-installing-an-iso-image-on-a-vmware-vsphere-host/"><u>Step-by-Step Guide: Installing an ISO Image on a VMware vSphere Host</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-exploring-the-high-fidelity-world-of-samsungs-4k-s8/"><u>[Updated] 2024 Approved Exploring the High-Fidelity World of Samsung's 4K S8</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-elevating-your-online-presence-a-complete-handbook-for-tiktok-name-change/"><u>[Updated] In 2024, Elevating Your Online Presence A Complete Handbook for TikTok Name Change</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-master-your-images-top-10-pixlr-hacks-revealed-for-2024/"><u>[Updated] Master Your Images Top 10 Pixlr Hacks Revealed for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-behind-the-scenes-with-slow-motion-in-reels/"><u>2024 Approved Behind the Scenes with Slow Motion in Reels</u></a></li>
+<li><a href="https://discover-able.techidaily.com/avoiding-graphics-card-issues-essential-tips-and-strategies-guided-by-yl-computing/"><u>Avoiding Graphics Card Issues: Essential Tips and Strategies - Guided by YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/create-professional-quality-dvds-without-cost-winx-dvd-author-exclusively-for-windows-11/"><u>Create Professional-Quality DVDs Without Cost: WinX DVD Author Exclusively for Windows 11</u></a></li>
+<li><a href="https://discover-able.techidaily.com/diy-guide-how-to-safely-upgrade-or-fix-bad-ram-sticks-by-yourself/"><u>DIY Guide: How to Safely Upgrade or Fix Bad RAM Sticks by Yourself</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effective-methods-for-clearing-storage-space-on-your-computer-with-yls-guide/"><u>Effective Methods for Clearing Storage Space on Your Computer with YL's Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ensuring-cyber-safety-can-windows-defender-offer-continuous-protection-from-viruses-and-hackers-inquiry-by-yl-computing/"><u>Ensuring Cyber Safety: Can Windows Defender Offer Continuous Protection From Viruses and Hackers? – Inquiry by YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/explore-helstrom-image-designs-and-decorative-wallpapers-from-yl-computing-your-ultimate-digital-art-source/"><u>Explore Helstrom Image Designs & Decorative Wallpapers From YL Computing: Your Ultimate Digital Art Source</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-100-pro-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor 100 Pro Phone</u></a></li>
+<li><a href="https://win-studio.techidaily.com/revitalize-your-aging-pc-with-5-key-methods-most-at-zero-cost-discover-how-on-the-latest-windows-11-update/"><u>Revitalize Your Aging PC with 5 Key Methods - Most at Zero Cost! Discover How on the Latest Windows 11 Update</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-easter-basket-of-deals-wondershare-filmora-promo-code-inside/"><u>Updated In 2024, The Easter Basket of Deals Wondershare Filmora Promo Code Inside</u></a></li>
 </ul></div>
 
