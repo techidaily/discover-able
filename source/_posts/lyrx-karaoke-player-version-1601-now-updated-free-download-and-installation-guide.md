@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Player Version 1.6.0.1 Now Updated: Free Download & Installation Guide"
-date: 2024-11-28T19:40:06.923Z
-updated: 2024-12-06T04:32:32.523Z
+date: 2024-12-08T07:25:50.249Z
+updated: 2024-12-11T19:15:12.594Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Version 1.6.0.1 of LYRX karaoke software is available for download.
@@ -33,7 +33,7 @@ Again, we appreciate all the assistance and feedback we’ve received from LYRX 
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a fully-functional free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.0.1
@@ -55,7 +55,7 @@ If you still can’t access any audio from the inputs follow these steps:
 _Have questions about the latest 1.6.0.1 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,20 +77,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-fundamentals-of-creating-dynamic-podcast-feeds/"><u>[Updated] The Fundamentals of Creating Dynamic Podcast Feeds</u></a></li>
-<li><a href="https://discover-able.techidaily.com/become-a-member-of-the-exclusive-pcdj-community-on-facebook-join-now/"><u>Become a Member of the Exclusive PCDJ Community on Facebook – Join Now!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/easy-guide-to-managing-applications-via-windows-control-panel-tips-from-yl-computing/"><u>Easy Guide to Managing Applications via Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-advice-resolving-headphone-input-malfunctions-on-your-personal-computer/"><u>Expert Advice: Resolving Headphone Input Malfunctions on Your Personal Computer</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-steady-deal-how-the-apple-watch-se-second-gen-continues-to-shine-with-an-80-bargain-post-prime-day/"><u>Exploring the Steady Deal: How the Apple Watch SE, Second Gen Continues to Shine with an $80 Bargain Post-Prime Day</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/hassle-free-methods-to-transform-youtube-content-into-mpeg-files-compatible-with-iphone-ipad-and-android/"><u>Hassle-Free Methods to Transform YouTube Content Into MPEG Files Compatible with iPhone, iPad & Android</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-elevate-your-tiktok-game-essential-analytics-tools-countdown/"><u>In 2024, Elevate Your TikTok Game - Essential Analytics Tools Countdown</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-s18e-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo S18e Phone Now with These Tips</u></a></li>
-<li><a href="https://discover-able.techidaily.com/preventing-malware-and-speed-issues-expert-advice-for-keeping-your-computer-fast-yl-software-solutions/"><u>Preventing Malware and Speed Issues: Expert Advice for Keeping Your Computer Fast - YL Software Solutions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/recover-lost-or-erased-files-on-windows-with-simple-techniques-by-yl-software-professionals/"><u>Recover Lost or Erased Files on Windows with Simple Techniques by YL Software Professionals</u></a></li>
-<li><a href="https://win-info.techidaily.com/ripristina-i-tuoi-dati-in-modo-semplice-utilizzando-le-tue-copie-di-backup/"><u>Ripristina I Tuoi Dati in Modo Semplice: Utilizzando Le Tue Copie Di Backup</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-eliminating-duplicate-windows-registry-keys-expert-advice-by-yl-computing/"><u>Step-by-Step Guide: Eliminating Duplicate Windows Registry Keys - Expert Advice by YL Computing</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-modifying-text-documents-in-windows-os-tips-from-yl-computing/"><u>Step-by-Step Guide: Modifying Text Documents in Windows OS - Tips From YL Computing</u></a></li>
-<li><a href="https://discover-able.techidaily.com/the-ultimate-collection-of-blue-vintage-folder-graphics-from-yl-software-solutions/"><u>The Ultimate Collection of Blue Vintage Folder Graphics From YL Software Solutions</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-oneplus-nord-ce-3-lite-5g-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from OnePlus Nord CE 3 Lite 5G to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/por-que-mcafee-borro-tus-archivos-y-como-puedes-solucionarlo/"><u>¿Por Qué McAfee Borró Tus Archivos? Y Cómo Puedes Solucionarlo</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-effective-techniques-for-printhead-maintenance-and-cleaning-insights-from-yl-computing/"><u>1. Effective Techniques for Printhead Maintenance and Cleaning - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/guide-modifying-audio-preferences-via-windows-control-panel-yl-computing-tutorials/"><u>Guide: Modifying Audio Preferences via Windows Control Panel - YL Computing Tutorials</u></a></li>
+<li><a href="https://discover-able.techidaily.com/hd-dodge-automobile-desktop-wallpapers-and-phone-screensaver-graphics-high-resolution-vehicle-imagery-by-yl-computing/"><u>HD Dodge Automobile Desktop Wallpapers & Phone Screensaver Graphics - High-Resolution Vehicle Imagery by YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-specific-hardware-failures-trigger-excessive-heat-in-your-computer-systems-a-guide-by-yl-innovations/"><u>How Specific Hardware Failures Trigger Excessive Heat in Your Computer Systems: A Guide by YL Innovations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-get-your-data-on-site-quickly-5-best-techniques-for-computer-transfer/"><u>In 2024, Get Your Data On-Site Quickly 5 Best Techniques for Computer Transfer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-oneplus-12-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change OnePlus 12 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweeting-visual-content-from-video-to-gif-transformation/"><u>In 2024, Tweeting Visual Content From Video to GIF Transformation</u></a></li>
+<li><a href="https://discover-able.techidaily.com/master-your-graphics-performance-fresh-install-of-graphics-drivers-for-windows-explained-by-yl-experts/"><u>Master Your Graphics Performance: Fresh Install of Graphics Drivers for Windows Explained by YL Experts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/navigating-gpu-troubles-when-to-consider-replacement-expert-advice-by-yl-computing-and-yl-software/"><u>Navigating GPU Troubles: When to Consider Replacement - Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-connecting-a-deep-dive-into-instagram-live/"><u>The Art of Connecting A Deep Dive Into Instagram Live</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-easy-to-learn-art-of-earning-wealth-reddits-ultimate-guide/"><u>The Easy-to-Learn Art of Earning Wealth Reddit's Ultimate Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unrivaled-windows-video-calls-top-8-apps/"><u>Unrivaled Windows Video Calls Top 8 Apps</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-webm-to-mp3-top-10-webm-to-mp3-converters-for-2024/"><u>Updated WebM to MP3 Top 10 WebM to MP3 Converters for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/where-everywhere-is-nearby-discovering-the-sx740-hs-camera/"><u>Where Everywhere Is Nearby: Discovering the SX740 HS Camera</u></a></li>
 </ul></div>
 

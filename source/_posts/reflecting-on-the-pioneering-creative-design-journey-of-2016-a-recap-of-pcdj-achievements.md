@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on the Pioneering Creative Design Journey of 2016: A Recap of PCDJ Achievements"
-date: 2024-12-05T10:11:34.145Z
-updated: 2024-12-06T07:25:42.210Z
+date: 2024-12-11T04:01:55.790Z
+updated: 2024-12-12T08:08:28.736Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ Highlights From 2016
@@ -41,7 +41,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
@@ -57,7 +57,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * New [“Search Results” view](https://tools.techidaily.com/pcdj/products/) that expands the rotation list the entire right-hand side of the Karaoki browser with search results displaying in the large middle library pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added [‘Search History’ and large search pop-up](https://tools.techidaily.com/pcdj/products/) – KJs can view all their past song searches and double-click in the smaller search box to display a much larger version.
@@ -82,13 +82,13 @@ We found new partners at MixCity Inc, the creators of [JammText](https://tools.t
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Happy New Year, Friends!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,22 +110,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-moons-magic-dos-and-donts-of-immersive-night-photography-for-2024/"><u>[New] Moon's Magic Do's & Don'ts of Immersive Night Photography for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-transform-your-videography-effortless-recording-and-editing-via-adobe-connect/"><u>[Updated] In 2024, Transform Your Videography Effortless Recording and Editing via Adobe Connect</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/boosting-audio-fidelity-on-the-road/"><u>Boosting Audio Fidelity on the Road</u></a></li>
-<li><a href="https://discover-able.techidaily.com/effective-anti-virus-shield-can-microsofts-windows-defender-prevent-malware-threats/"><u>Effective Anti-Virus Shield: Can Microsoft's Windows Defender Prevent Malware Threats?</u></a></li>
-<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-lava-agni-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/get-your-copy-of-the-latest-pcdj-dex-38-update-free-download-now/"><u>Get Your Copy of the Latest PCDJ DEX 3.8 Update - Free Download Now!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/guarding-your-wealth-against-inflation-can-blockchain-assets-help-insights-from-the-tech-world-of-yl-computing-software/"><u>Guarding Your Wealth Against Inflation: Can Blockchain Assets Help? Insights From the Tech World of YL Computing Software</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-samsung-galaxy-a15-5g-frp-by-drfone-android/"><u>How Can We Bypass Samsung Galaxy A15 5G FRP?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-poco-c55-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Poco C55 FRP Locks</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-vivo-y100i-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Vivo Y100i to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/protect-your-system-from-hackers-how-to-find-and-delete-spyware-malware-using-yl-computings-anti-malicious-tools/"><u>Protect Your System From Hackers: How to Find and Delete Spyware, Malware Using YL Computing's Anti-Malicious Tools</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1723004257375-red-dead-redemption-2-fixed-no-more-pc-game-crashes/"><u>Red Dead Redemption 2 Fixed: No More PC Game Crashes!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/spotting-bad-ram-modules-quickly-with-yls-expert-advice-on-computer-maintenance/"><u>Spotting Bad RAM Modules Quickly with YL's Expert Advice on Computer Maintenance</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-access-and-open-files-on-your-pc-with-windows-yl-computing/"><u>Step-by-Step Guide: Access and Open Files on Your PC with Windows - YL Computing</u></a></li>
-<li><a href="https://discover-able.techidaily.com/top-strategies-for-boosting-windows-performance-expert-advice-by-yl-tech-experts/"><u>Top Strategies for Boosting Windows Performance: Expert Advice by YL Tech Experts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/turning-your-on-screen-keyboard-onoff-on-windows-10-a-simple-guide/"><u>Turning Your On-Screen Keyboard On/Off on Windows 10: A Simple Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/understanding-the-reasons-behind-your-printers-offline-signal-expert-advice-from-yl-software/"><u>Understanding the Reasons Behind Your Printer's Offline Signal - Expert Advice From YL Software</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-onestream-integration-tips-for-seamless-livestreaming-for-2024/"><u>[Updated] OneStream Integration Tips for Seamless Livestreaming for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-identifying-root-causes-how-faulty-memory-triggers-the-notorious-bsod-insights-by-yl-computing/"><u>1. Identifying Root Causes: How Faulty Memory Triggers the Notorious BSOD - Insights by YL Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-pro-video-practice-screen-record-on-various-devices/"><u>2024 Approved Pro Video Practice Screen Record on Various Devices</u></a></li>
+<li><a href="https://discover-able.techidaily.com/yl-computing-and-yl-software/"><u>明朝时期令人瞩目的成就与创新 - YL Computing & YL Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/youtube-mp3-downloader-compilation-top-10-for-2024/"><u>Best YouTube Mp3 Downloader Compilation (Top 10) for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/diagnosing-startup-issues-insights-into-non-responsive-computers-by-yl-systems-experts/"><u>Diagnosing Startup Issues: Insights Into Non-Responsive Computers by YL Systems Experts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/download-the-latest-dj-deckadrive-v3907-updated-features-and-enhancements/"><u>Download the Latest DJ Deckadrive v3.9.0.7 - Updated Features and Enhancements</u></a></li>
+<li><a href="https://discover-able.techidaily.com/elevate-your-visuals-with-yl-softwares-exclusive-shield-knight-series-background-images/"><u>Elevate Your Visuals with YL Software's Exclusive Shield Knight Series Background Images!</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/guide-to-choosing-among-the-best-9-video-conferencing-tools-android-iphone-for-2024/"><u>Guide to Choosing Among The Best 9 Video Conferencing Tools (Android, iPhone) for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-why-does-itools-virtual-location-not-work-for-apple-iphone-15-pro-maxipad-solved-drfone-by-drfone-virtual-ios/"><u>In 2024, Why Does iTools Virtual Location Not Work For Apple iPhone 15 Pro Max/iPad? Solved | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/personalizing-your-mouse-preferences-a-step-by-step-guide-using-windows-control-panel-tips-from-yl-software/"><u>Personalizing Your Mouse Preferences: A Step-by-Step Guide Using Windows Control Panel - Tips From YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/the-aftermath-unveiled-examining-the-lasting-impact-of-the-opium-conflicts-with-yl-software/"><u>The Aftermath Unveiled: Examining the Lasting Impact of the Opium Conflicts with YL Software</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-step-by-step-guide-for-vintage-photo-conversion-and-storage-for-2024/"><u>The Step-by-Step Guide for Vintage Photo Conversion & Storage for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transforming-communication-effective-use-of-chatgpt-worldwide/"><u>Transforming Communication: Effective Use of ChatGPT Worldwide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/unveiling-secrets-of-cryptocurrency-investigation-with-yl-software-expertise/"><u>Unveiling Secrets of Cryptocurrency Investigation with YL Software Expertise</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/video-quality-excellence-leading-smartphones-equipped-with-optimal-stabilization/"><u>Video Quality Excellence Leading Smartphones Equipped With Optimal Stabilization</u></a></li>
+<li><a href="https://discover-able.techidaily.com/yl-software-explained-a-beginners-tutorial-on-creating-a-new-cryptocurrency-account/"><u>YL Software Explained: A Beginner’s Tutorial on Creating a New Cryptocurrency Account</u></a></li>
 </ul></div>
 
