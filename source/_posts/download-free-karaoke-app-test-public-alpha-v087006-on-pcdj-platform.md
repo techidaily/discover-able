@@ -1,7 +1,7 @@
 ---
 title: Download Free Karaoke App - Test Public Alpha v0.8.7006 on PCDJ Platform
-date: 2024-12-17T19:35:29.320Z
-updated: 2024-12-18T20:09:46.023Z
+date: 2024-12-24T22:27:59.700Z
+updated: 2024-12-27T05:00:17.215Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ While considered a public beta, we strongly suggest Karaoki customers update to 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.7006
@@ -48,7 +48,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about version 0.8.7006 of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,15 +70,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/karaoki-cover.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-innovations-in-office-layout-for-enhanced-productivity/"><u>2024 Approved Innovations in Office Layout for Enhanced Productivity</u></a></li>
-<li><a href="https://discover-able.techidaily.com/can-you-detect-and-troubleshoot-motherboard-issues-with-ease-expert-insights-by-yl-computing/"><u>Can You Detect and Troubleshoot Motherboard Issues with Ease? - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/free-macx-youtube-downloader-pro-no-costs-unlimited-conversions/"><u>Free MacX YouTube Downloader Pro - No Costs, Unlimited Conversions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-boost-your-pcs-efficiency-tips-and-tricks-yl-technologies/"><u>How to Boost Your PC's Efficiency: Tips & Tricks - YL Technologies</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-successfully-power-off-your-pc-running-windows-11-solutions-explored/"><u>How to Successfully Power Off Your PC Running Windows 11: Solutions Explored</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mastering-your-karaoke-event-a-guide-to-building-the-perfect-song-lineup/"><u>Mastering Your Karaoke Event: A Guide to Building the Perfect Song Lineup</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-politeness-with-ai-personalities-like-chatgpt-amazons-alexa-and-apples-siri-do-we-need-etiquette/"><u>Navigating Politeness with AI Personalities Like ChatGPT, Amazon's Alexa and Apple’s Siri - Do We Need Etiquette?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-to-adjusting-system-fonts-via-the-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide to Adjusting System Fonts via the Windows Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/transform-your-interaction-with-technology-using-openais-latest-ai-marvel-the-gpt-4-model/"><u>Transform Your Interaction With Technology Using OpenAI's Latest AI Marvel: The GPT-4 Model</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-adept-at-editing-and-disc-making-the-ultimate-mac-guide/"><u>[Updated] Adept at Editing and Disc Making The Ultimate Mac Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-charting-the-course-for-profitable-youtube-videos/"><u>2024 Approved Charting the Course for Profitable Youtube Videos</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-guide-adding-new-hardware-drivers-via-windows-taskbar-tech-tips-by-yl/"><u>Easy Guide: Adding New Hardware Drivers via Windows Taskbar - Tech Tips by YL</u></a></li>
+<li><a href="https://discover-able.techidaily.com/electrifying-muscle-cars-collection-ford-gt-xy-series-premium-desktop-backgrounds-powered-by-yl-creative-software-suite/"><u>Electrifying Muscle Cars Collection: Ford GT XY Series, Premium Desktop Backgrounds – Powered by YL Creative Software Suite</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-intel-nuc-updates-simplifying-driver-enhancements-for-performance-boost/"><u>Fast-Track Intel NUC Updates: Simplifying Driver Enhancements for Performance Boost</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719269092202-fixed-windows-shift-key-unreachable/"><u>Fixed: Windows Shift Key Unreachable</u></a></li>
+<li><a href="https://discover-able.techidaily.com/guide-setting-up-your-network-preferences-via-windows-control-panel-tips-from-yl-computing/"><u>Guide: Setting Up Your Network Preferences via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/high-quality-ford-rs200-background-images-download-now-with-yl-computings-digital-assets/"><u>High-Quality Ford RS200 Background Images - Download Now with YL Computing's Digital Assets</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-check-if-your-printer-is-properly-linked-to-your-pc-expert-advice-from-yl-computing/"><u>How to Check if Your Printer Is Properly Linked to Your PC - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlink-your-apple-iphone-7-plus-from-your-apple-id-by-drfone-ios/"><u>How To Unlink Your Apple iPhone 7 Plus From Your Apple ID</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-watch-videos-on-windows-media-player-insights-from-yl-computings-expert-guides/"><u>How to Watch Videos on Windows Media Player - Insights From YL Computing's Expert Guides</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-how-to-restore-accidentally-deleted-files-on-your-pc-tips-from-yl-computing/"><u>Step-by-Step Guide: How to Restore Accidentally Deleted Files on Your PC - Tips From YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-motorola-moto-g73-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Motorola Moto G73 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/swift-playback-on-instagram-videos-mobiledesktop-for-2024/"><u>Swift Playback on Instagram Videos (Mobile/Desktop) for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-36-unbeatable-prime-day-discounts-on-apples-exclusive-offers-you-cant-miss/"><u>Top 36 Unbeatable Prime Day Discounts on Apples - Exclusive Offers You Can't Miss!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-strategies-for-accelerating-boot-time-in-your-projects-expert-tips-by-yl-computing/"><u>Top Strategies for Accelerating Boot Time in Your Projects - Expert Tips by YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-strategies-for-enhancing-your-pcs-security-insights-from-yl-computing/"><u>Top Strategies for Enhancing Your PC's Security - Insights From YL Computing</u></a></li>
 </ul></div>
 

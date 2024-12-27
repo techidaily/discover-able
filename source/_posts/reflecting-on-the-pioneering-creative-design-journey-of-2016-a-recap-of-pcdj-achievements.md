@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on the Pioneering Creative Design Journey of 2016: A Recap of PCDJ Achievements"
-date: 2024-12-16T20:12:52.617Z
-updated: 2024-12-18T16:07:33.622Z
+date: 2024-12-19T21:58:07.574Z
+updated: 2024-12-26T22:40:58.551Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### PCDJ Highlights From 2016
@@ -41,7 +41,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
@@ -55,6 +55,10 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Introduced improved audio and video playback engine for higher-quality, accurate playback of standard karaoke files  
 [LEARN MORE ABOUT KARAOKI ![Karaoke Software](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/karaoki-new-searchresultspane.png?fit=300%2C190&ssl=1 "Karaoke Software")](https://tools.techidaily.com/pcdj/products/)
 * New [“Search Results” view](https://tools.techidaily.com/pcdj/products/) that expands the rotation list the entire right-hand side of the Karaoki browser with search results displaying in the large middle library pane.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Added [‘Search History’ and large search pop-up](https://tools.techidaily.com/pcdj/products/) – KJs can view all their past song searches and double-click in the smaller search box to display a much larger version.
 * Karaoki can now use several new graphics formats (jpeg, png) as CDG backdrops, when loaded it can copy-convert the images to BMP’s that it can then load.
@@ -71,10 +75,6 @@ When you’re surrounded by a great group of teammates with the same vision and 
 
 [MORE ABOUT JAMMTEXT ![jammtext logo](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-logo-black.png?fit=300%2C61&ssl=1 "jammtext logo")](https://tools.techidaily.com/pcdj/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 As always, we strive to be accessible to our DJ and karaoke software users. We want to ensure that when you have a question it’s answered thoroughly and professionally in a very timely fashion. We updated the PCDJ website to include a new web chat, robust support ticketing tracking system and created new [PCDJ user forums](https://tools.techidaily.com/pcdj/products/).
 
 We found new partners at MixCity Inc, the creators of [JammText](https://tools.techidaily.com/pcdj/products/) – a truly unique, social and interactive text-and-image-to-screen platform that works brilliantly alongside DEX 3 or Karaoki. We plan to bring you even more goodies and better support for JammText throughout 2017.
@@ -82,13 +82,13 @@ We found new partners at MixCity Inc, the creators of [JammText](https://tools.t
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Happy New Year, Friends!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,15 +110,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-aviations-top-10-hexa-flight-titans/"><u>[Updated] 2024 Approved Aviation's Top 10 Hexa-Flight Titans</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-examining-vidma-as-a-video-recorder-for-screens/"><u>[Updated] 2024 Approved Examining Vidma as a Video Recorder for Screens</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-precision-editing-for-professionalism-adding-chapter-breakpoints-on-youtube/"><u>[Updated] Precision Editing for Professionalism Adding Chapter Breakpoints on YouTube</u></a></li>
-<li><a href="https://discover-able.techidaily.com/fast-track-to-a-quicker-boot-essential-tips-and-tricks-for-optimizing-pc-performance-with-yl-software-solutions/"><u>Fast Track to a Quicker Boot: Essential Tips & Tricks for Optimizing PC Performance with YL Software Solutions</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-on-iphone-se-by-drfone-ios/"><u>How To Remove the Two Factor Authentication On iPhone SE</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-free-art-pages-for-easy-no-cost-illustrations/"><u>In 2024, Leading Free Art Pages for Easy, No-Cost Illustrations</u></a></li>
-<li><a href="https://discover-able.techidaily.com/select-the-right-program-a-guide-to-diagnosing-windows-pc-hardware-woes-with-yl-software-solutions/"><u>Select the Right Program: A Guide to Diagnosing Windows PC Hardware Woes with YL Software Solutions</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-cut-trim-and-edit-vlc-videos-on-mac-with-zero-quality-loss/"><u>Updated In 2024, Cut, Trim, and Edit VLC Videos on Mac with Zero Quality Loss</u></a></li>
-<li><a href="https://discover-able.techidaily.com/us-china-trade-talks-culminate-in-breakthrough-formation-of-new-business-affairs-working-group-and-export-info-exchange/"><u>US-China Trade Talks Culminate in Breakthrough: Formation of New Business Affairs Working Group & Export Info Exchange</u></a></li>
-<li><a href="https://discover-able.techidaily.com/windows-guide-verifying-your-rams-performance-expert-tips-from-yl-computing/"><u>Windows Guide: Verifying Your RAM's Performance - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-yuneecs-game-changer-typhoon-q500/"><u>[New] 2024 Approved Yuneec's Game-Changer Typhoon Q500</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-efficiently-expanding-on-stardews-ginger-isle/"><u>[New] In 2024, Efficiently Expanding on Stardew's Ginger Isle</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-supreme-selection-acclaimed-8k-camera-models/"><u>[New] Supreme Selection Acclaimed 8K Camera Models</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-podcast-livestream-guide/"><u>Effortless Podcast Livestream Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/experiencing-intermittent-sounds-discover-why-and-how-to-fix-it-with-expert-advice-from-yl-software-solutions/"><u>Experiencing Intermittent Sounds? Discover Why & How to Fix It with Expert Advice From YL Software Solutions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/exploring-causes-behind-excessive-noise-from-your-pcs-cooling-fan-insights-by-yl-software/"><u>Exploring Causes Behind Excessive Noise From Your PC's Cooling Fan - Insights by YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/folder-creation-essentials-for-windows-users-with-yl-software-expertise/"><u>Folder Creation Essentials for Windows Users with YL Software Expertise</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/free-electronic-signatures-for-word-2021-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signatures for Word 2021</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-erase-an-apple-iphone-13-pro-without-apple-id-password-by-drfone-ios/"><u>In 2024, How To Erase an Apple iPhone 13 Pro Without Apple ID Password?</u></a></li>
+<li><a href="https://discover-able.techidaily.com/solving-graphics-card-driver-problems-a-step-by-step-guide-by-yl-computing/"><u>Solving Graphics Card Driver Problems: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-xiaomi-redmi-note-13-proplus-5g-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Xiaomi Redmi Note 13 Pro+ 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-accelerating-utility-apps-boost-your-pcs-performance-recommendations-by-yl-software/"><u>Top Accelerating Utility Apps: Boost Your PC's Performance - Recommendations by YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-for-non-responsive-farming-simulator-22-game/"><u>Troubleshooting Steps for Non-Responsive Farming Simulator 22 Game</u></a></li>
+<li><a href="https://discover-able.techidaily.com/troubleshooting-your-windows-pcs-video-card-expert-tips-by-yl-software/"><u>Troubleshooting Your Windows PC's Video Card: Expert Tips by YL Software</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like-for-2024/"><u>Updated Top 6 Celebrity Text to Speech AI Voice Generators You May Like for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/whats-that-buzz-investigating-unexpected-computer-noises-with-expert-advice-from-yl-software/"><u>What's That Buzz? Investigating Unexpected Computer Noises with Expert Advice From YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/yl-software-expertise-easily-adding-new-languages-to-your-pcs-settings-window/"><u>YL Software Expertise: Easily Adding New Languages to Your PC's Settings Window</u></a></li>
 </ul></div>
 

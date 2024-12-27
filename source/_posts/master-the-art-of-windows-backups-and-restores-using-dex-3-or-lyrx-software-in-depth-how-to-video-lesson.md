@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Windows Backups and Restores Using DEX 3 or LYRX Software: In-Depth How-To Video Lesson"
-date: 2024-12-14T18:14:09.231Z
-updated: 2024-12-18T19:51:31.896Z
+date: 2024-12-21T03:21:43.148Z
+updated: 2024-12-26T20:23:44.829Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ App Data is a hidden folder in Windows by default, so locating it isn’t as eas
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,15 +42,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-loves-epic-tales-the-finest-9-weddings-on-youtube-and-vimeo/"><u>[New] In 2024, Love's Epic Tales The Finest 9 Weddings on YouTube & Vimeo</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-masterclass-guide-top-free-apps-for-iphone-and-ipad-edits/"><u>2024 Approved Masterclass Guide Top Free Apps for iPhone & iPad Edits</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/creator-revenue-streams-amidst-the-world-of-youtube-shorts-for-2024/"><u>Creator Revenue Streams Amidst the World of YouTube Shorts for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/discover-how-to-see-image-thumbnails-within-windows-ultimate-tutorial-by-yl-tech-experts/"><u>Discover How to See Image Thumbnails Within Windows - Ultimate Tutorial by YL Tech Experts</u></a></li>
-<li><a href="https://discover-able.techidaily.com/essential-guide-verifying-your-audio-hardware-a-step-by-step-process/"><u>Essential Guide: Verifying Your Audio Hardware - A Step-by-Step Process</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-standout-14-animation-techniques-for-texts/"><u>In 2024, Standout 14 Animation Techniques for Texts</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-tecno-spark-20-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Tecno Spark 20</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-mystery-of-a-lagging-wi-fi-a-step-by-step-guide/"><u>Solving the Mystery of a Lagging Wi-Fi: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/unlocking-secret-pages-a-step-by-step-guide-to-revealing-concealed-folders-and-files-on-your-windows-pc-expert-tips-from-yl-software/"><u>Unlocking Secret Pages: A Step-by-Step Guide to Revealing Concealed Folders & Files on Your Windows PC - Expert Tips From YL Software</u></a></li>
-<li><a href="https://discover-able.techidaily.com/yl-computing-tips-how-to-ensure-your-graphics-card-has-the-latest-driver-version/"><u>YL Computing Tips: How to Ensure Your Graphics Card Has the Latest Driver Version</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-proficient-use-of-obs-studio-on-your-android-phone/"><u>[Updated] In 2024, Proficient Use of OBS Studio on Your Android Phone</u></a></li>
+<li><a href="https://win-bits.techidaily.com/windows-1187discord/"><u>两种方法：怎样在Windows 11、8或7系统中找回删除的Discord图片</u></a></li>
+<li><a href="https://discover-able.techidaily.com/create-your-own-virus-scanning-timetable-on-windows-defender-easily-learn-how-here-tips-and-tricks-from-yl-software/"><u>Create Your Own Virus Scanning Timetable on Windows Defender Easily, Learn How Here! - Tips & Tricks From YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/enhancing-your-systems-speed-is-a-graphics-card-upgrade-the-answer-expert-advice-from-yl-computing/"><u>Enhancing Your System's Speed: Is a Graphics Card Upgrade the Answer? - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/how-to-safely-confirm-crypto-holdings-is-a-private-key-necessary-for-balance-trackers-by-yl-software/"><u>How to Safely Confirm Crypto Holdings: Is a Private Key Necessary for Balance Trackers by YL Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-vivo-y36-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Vivo Y36?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-hacks-for-improved-tiktok-visuals/"><u>In 2024, Expert Hacks for Improved TikTok Visuals</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/massive-hp-savings-during-cyber-week-monitors-and-laptops-at-a-steep-71-reduction-zdnet/"><u>Massive HP Savings During Cyber Week: Monitors and Laptops at a Steep 71% Reduction | ZDNet</u></a></li>
+<li><a href="https://some-skills.techidaily.com/master-iphone-cams-with-these-hacks-for-2024/"><u>Master iPhone Cams with These Hacks for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavis-free-image-converter-transform-arw-files-into-jpg-images-online-easily/"><u>Movavi's Free Image Converter: Transform ARW Files Into JPG Images Online Easily!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/quickening-window-operations-enhance-system-speed-with-yl-software-solutions/"><u>Quickening Window Operations: Enhance System Speed with YL Software Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-note-13-proplus-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi Note 13 Pro+ 5G with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/summer-sing-alongs-enjoy-your-favorite-tunes-with-karaoke-cloud-pro-on-friday-june-26th/"><u>Summer Sing-Alongs: Enjoy Your Favorite Tunes with Karaoke Cloud Pro on Friday, June 26Th!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-easy-peasy-animation-8-best-tools-for-animated-photos/"><u>Updated 2024 Approved Easy Peasy Animation 8 Best Tools for Animated Photos</u></a></li>
+<li><a href="https://discover-able.techidaily.com/which-sovereign-endorsed-the-great-wall-for-its-security-purposes-analysis-by-yl-systems/"><u>Which Sovereign Endorsed The Great Wall For Its Security Purposes? - Analysis by YL Systems</u></a></li>
 </ul></div>
 

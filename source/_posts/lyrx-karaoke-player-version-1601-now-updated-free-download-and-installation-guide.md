@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Player Version 1.6.0.1 Now Updated: Free Download & Installation Guide"
-date: 2024-12-15T17:01:03.012Z
-updated: 2024-12-18T17:56:01.905Z
+date: 2024-12-21T04:44:44.867Z
+updated: 2024-12-27T06:41:17.050Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Version 1.6.0.1 of LYRX karaoke software is available for download.
@@ -33,7 +33,7 @@ Again, we appreciate all the assistance and feedback we’ve received from LYRX 
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a fully-functional free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.0.1
@@ -55,7 +55,7 @@ If you still can’t access any audio from the inputs follow these steps:
 _Have questions about the latest 1.6.0.1 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,16 +77,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-breaking-down-sync-a-thorough-review-of-lgs-uhd68-display/"><u>[New] In 2024, Breaking Down Sync A Thorough Review of LG's UHD68 Display</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-simplified-guide-for-ios-users-transforming-images-to-pdfs/"><u>[New] Simplified Guide for iOS Users Transforming Images to PDFs</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/apex-communicator-the-business-linguistic-blueprint/"><u>Apex Communicator: The Business Linguistic Blueprint</u></a></li>
-<li><a href="https://discover-able.techidaily.com/diy-guide-how-to-safely-upgrade-or-fix-bad-ram-sticks-by-yourself/"><u>DIY Guide: How to Safely Upgrade or Fix Bad RAM Sticks by Yourself</u></a></li>
-<li><a href="https://discover-able.techidaily.com/effective-methods-for-clearing-storage-space-on-your-computer-with-yls-guide/"><u>Effective Methods for Clearing Storage Space on Your Computer with YL's Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/explore-helstrom-image-designs-and-decorative-wallpapers-from-yl-computing-your-ultimate-digital-art-source/"><u>Explore Helstrom Image Designs & Decorative Wallpapers From YL Computing: Your Ultimate Digital Art Source</u></a></li>
-<li><a href="https://win-updates.techidaily.com/guia-paso-a-paso-para-restaurar-la-configuracion-de-tu-cuenta-de-correo-en-microsoft-outlook-2010/"><u>Guía Paso a Paso Para Restaurar La Configuración De Tu Cuenta De Correo en Microsoft Outlook 2010</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-samsung-galaxy-s23-tactical-edition-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Samsung Galaxy S23 Tactical Edition to Mac? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-through-samsungs-digital-picture-editing-app/"><u>In 2024, Navigating Through Samsung's Digital Picture Editing App</u></a></li>
-<li><a href="https://discover-able.techidaily.com/simple-guide-to-removing-unnecessary-applications-on-your-pc-yl-computing-tips/"><u>Simple Guide to Removing Unnecessary Applications on Your PC - YL Computing Tips</u></a></li>
-<li><a href="https://win-unique.techidaily.com/troubleshooting-guide-identifying-the-reasons-behind-your-computers-frequent-crashes-expert-insights-from-yl-computing/"><u>Troubleshooting Guide: Identifying the Reasons Behind Your Computer's Frequent Crashes - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-compre-cookie-cutter-webinar-logging-a-windows-and-macos-manual/"><u>[New] In 2024, Compre Cookie Cutter Webinar Logging A Windows & macOS Manual</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-seamless-transition-to-professional-screen-captures-via-aiseesoft/"><u>[Updated] 2024 Approved Seamless Transition to Professional Screen Captures via Aiseesoft</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-superior-mac-hd-recorders-with-in-built-sound-capture/"><u>[Updated] Superior Mac HD Recorders with In-Built Sound Capture</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-for-novices-a-primer-on-av1-technology/"><u>2024 Approved For Novices A Primer on AV1 Technology</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-snapedit-101-simple-steps-to-stunning-photos/"><u>2024 Approved Snapedit 101 Simple Steps to Stunning Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-ultimate-picks-for-top-rated-free-srt-translation-tools/"><u>2024 Approved Ultimate Picks for Top-Rated Free SRT Translation Tools</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-iphone-7ipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock from iPhone 7/iPad/iPod</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211108859-9781837830725-breathe/"><u>Breathe | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/capturing-creativity-android-photography-guide/"><u>Capturing Creativity Android Photography Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/create-your-own-virus-scanning-timetable-on-windows-defender-easily-learn-how-here-tips-and-tricks-from-yl-software/"><u>Create Your Own Virus Scanning Timetable on Windows Defender Easily, Learn How Here! - Tips & Tricks From YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/quickening-window-operations-enhance-system-speed-with-yl-software-solutions/"><u>Quickening Window Operations: Enhance System Speed with YL Software Solutions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/resolving-launch-issues-a-guide-to-fixing-non-startup-software-applications-insights-from-yl-computing/"><u>Resolving Launch Issues: A Guide to Fixing Non-Startup Software Applications - Insights From YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/stunning-ford-mustang-2018-desktop-backgrounds-high-res-graphics-by-yl-computing/"><u>Stunning Ford Mustang 2018 Desktop Backgrounds - High-Res Graphics by YL Computing</u></a></li>
+<li><a href="https://discover-able.techidaily.com/summer-sing-alongs-enjoy-your-favorite-tunes-with-karaoke-cloud-pro-on-friday-june-26th/"><u>Summer Sing-Alongs: Enjoy Your Favorite Tunes with Karaoke Cloud Pro on Friday, June 26Th!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/uncovering-the-main-reasons-behind-hardware-failures-insights-from-yl-computing-and-yl-software/"><u>Uncovering the Main Reasons Behind Hardware Failures: Insights From YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/which-sovereign-endorsed-the-great-wall-for-its-security-purposes-analysis-by-yl-systems/"><u>Which Sovereign Endorsed The Great Wall For Its Security Purposes? - Analysis by YL Systems</u></a></li>
 </ul></div>
 
