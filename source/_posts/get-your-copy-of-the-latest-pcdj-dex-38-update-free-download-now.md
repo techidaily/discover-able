@@ -1,7 +1,7 @@
 ---
 title: Get Your Copy of the Latest PCDJ DEX 3.8 Update - Free Download Now!
-date: 2024-12-16T16:27:02.368Z
-updated: 2024-12-18T17:09:44.359Z
+date: 2024-12-31T17:09:11.917Z
+updated: 2025-01-05T16:42:34.430Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,24 +106,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-master-the-art-of-sound-alteration-on-sony-games/"><u>[New] In 2024, Master the Art of Sound Alteration on Sony Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-the-editors-approach-to-declining-audio-tracks-gradually/"><u>[Updated] In 2024, The Editor's Approach to Declining Audio Tracks Gradually</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-olympic-spirits-2022s-short-track-feat/"><u>[Updated] Olympic Spirits 2022'S Short-Track Feat</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-how-to-create-and-schedule-a-google-meet/"><u>2024 Approved How to Create and Schedule A Google Meet?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/ace-set-of-rotational-recording-devices-for-2024/"><u>Ace Set of Rotational Recording Devices for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/can-you-detect-and-troubleshoot-motherboard-issues-with-ease-expert-insights-by-yl-computing/"><u>Can You Detect and Troubleshoot Motherboard Issues with Ease? - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://discover-able.techidaily.com/decoding-the-duality-of-system-settings-in-windows-control-panel-understanding-local-and-global-preferences-with-yl-software/"><u>Decoding the Duality of System Settings in Windows Control Panel – Understanding Local and Global Preferences with YL Software</u></a></li>
-<li><a href="https://discover-able.techidaily.com/fixing-gpu-issues-step-by-step-with-insights-from-yl-software-specialists/"><u>Fixing GPU Issues Step-by-Step with Insights From YL Software Specialists</u></a></li>
-<li><a href="https://discover-able.techidaily.com/high-quality-harley-davidson-hd-wallpaper-collection-photo-and-image-database-by-yl-computing/"><u>High-Quality Harley Davidson HD Wallpaper Collection - Photo & Image Database by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-a25-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy A25 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-boost-your-pcs-efficiency-tips-and-tricks-yl-technologies/"><u>How to Boost Your PC's Efficiency: Tips & Tricks - YL Technologies</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco Through Google Earth?</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-visualize-your-browser-trails-our-selection-of-premier-recording-apps/"><u>In 2024, Visualize Your Browser Trails Our Selection of Premier Recording Apps</u></a></li>
-<li><a href="https://discover-able.techidaily.com/is-regular-comprehensive-scanning-needed-for-windows-defender-protection-insights-from-yl-computing/"><u>Is Regular Comprehensive Scanning Needed for Windows Defender Protection - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mastering-driver-troubleshooting-top-tips-from-yl-computings-expert-solutions/"><u>Mastering Driver Troubleshooting: Top Tips From YL Computing's Expert Solutions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mastering-your-karaoke-event-a-guide-to-building-the-perfect-song-lineup/"><u>Mastering Your Karaoke Event: A Guide to Building the Perfect Song Lineup</u></a></li>
-<li><a href="https://discover-able.techidaily.com/solving-your-pcs-booting-problems-a-guide-by-yl-computing-and-yl-software/"><u>Solving Your PC's Booting Problems: A Guide by YL Computing & YL Software</u></a></li>
-<li><a href="https://common-error.techidaily.com/third-monitor-not-detected-heres-the-real-fix/"><u>Third Monitor Not Detected? Here's the Real Fix</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/top-5-best-terraria-map-for-viewers-to-find-treasure-for-2024/"><u>Top 5 Best Terraria Map for Viewers to Find Treasure for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-shorts-earnings-guide-must-knows-and-future-potential/"><u>[New] In 2024, Youtube Shorts Earnings Guide Must-Knows & Future Potential</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-streaming-platforms-battle-evaluating-streamlabs-and-obs-features/"><u>[Updated] 2024 Approved Streaming Platforms Battle Evaluating Streamlabs & OBS Features</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-fine-tune-video-playback-pace-in-instagram-stories/"><u>[Updated] In 2024, Fine-Tune Video Playback Pace in Instagram Stories</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-effective-techniques-for-printhead-maintenance-and-cleaning-insights-from-yl-computing/"><u>1. Effective Techniques for Printhead Maintenance and Cleaning - Insights From YL Computing</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/facebook-mastery-pioneering-techniques-for-any-marketing-stage/"><u>Facebook Mastery Pioneering Techniques for Any Marketing Stage</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fix-your-chatgpt-access-issues-explore-the-4-main-reasons-for-blocking-and-how-to-resolve-them/"><u>Fix Your ChatGPT Access Issues! Explore the 4 Main Reasons for Blocking & How to Resolve Them</u></a></li>
+<li><a href="https://discover-able.techidaily.com/guide-modifying-audio-preferences-via-windows-control-panel-yl-computing-tutorials/"><u>Guide: Modifying Audio Preferences via Windows Control Panel - YL Computing Tutorials</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-optimize-your-images-on-pc-with-these-top-5-sniping-solutions/"><u>In 2024, Optimize Your Images on PC with These Top 5 Sniping Solutions</u></a></li>
+<li><a href="https://discover-able.techidaily.com/master-your-graphics-performance-fresh-install-of-graphics-drivers-for-windows-explained-by-yl-experts/"><u>Master Your Graphics Performance: Fresh Install of Graphics Drivers for Windows Explained by YL Experts</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-winerror-fixes-for-oculus-app-installation/"><u>Mastering WinError Fixes for Oculus App Installation</u></a></li>
+<li><a href="https://discover-able.techidaily.com/navigating-gpu-troubles-when-to-consider-replacement-expert-advice-by-yl-computing-and-yl-software/"><u>Navigating GPU Troubles: When to Consider Replacement - Expert Advice by YL Computing & YL Software</u></a></li>
+<li><a href="https://discover-able.techidaily.com/section-2b-five-facts-to-remember/"><u>Section 2B: Five Facts to Remember</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-solution-for-fixing-the-last-line-no-longer-available-problem-on-iphones/"><u>Step-by-Step Solution for Fixing the ‘Last Line No Longer Available’ Problem on iPhones</u></a></li>
+<li><a href="https://discover-able.techidaily.com/unlock-your-singing-potential-all-inclusive-subscription-to-new-karaoke-cloud-pro-featuring-no-spice-just-sweet-melodies/"><u>Unlock Your Singing Potential: All-Inclusive Subscription to New Karaoke Cloud Pro Featuring 'No Spice, Just Sweet Melodies'</u></a></li>
 </ul></div>
 
