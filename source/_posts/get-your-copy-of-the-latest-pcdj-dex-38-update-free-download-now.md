@@ -1,7 +1,7 @@
 ---
 title: Get Your Copy of the Latest PCDJ DEX 3.8 Update - Free Download Now!
-date: 2025-01-16T19:13:37.916Z
-updated: 2025-01-17T20:55:31.736Z
+date: 2025-01-20T05:53:36.331Z
+updated: 2025-01-24T08:36:01.384Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,16 +106,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-techniques-for-educators-lecture-capture-on-mac-for-2024/"><u>[Updated] Advanced Techniques for Educator's Lecture Capture on Mac for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-livestream-on-facebook-from-android-and-ios-for-2024/"><u>[Updated] How to Livestream on Facebook From Android and iOS for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/clearing-obstructions-in-your-scanner-essential-solutions-by-yl-software-experts/"><u>Clearing Obstructions in Your Scanner: Essential Solutions by YL Software Experts</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-lava-yuva-3-pro-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Lava Yuva 3 Pro to iPad | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-the-art-of-repair-overcoming-opengl-hurdles-in-minecraft-gaming/"><u>Mastering the Art of Repair: Overcoming OpenGL Hurdles in Minecraft Gaming</u></a></li>
-<li><a href="https://discover-able.techidaily.com/maximizing-system-speed-and-responsiveness-through-custom-settings-tips-from-yl-software-experts/"><u>Maximizing System Speed and Responsiveness Through Custom Settings - Tips From YL Software Experts</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/pro-motherboard-drivers-easy-downloads-for-gamers/"><u>PRO Motherboard Drivers - Easy Downloads for Gamers</u></a></li>
-<li><a href="https://discover-able.techidaily.com/speeding-up-your-pc-is-removing-temp-files-essential-according-to-yl-software-experts/"><u>Speeding Up Your PC: Is Removing Temp Files Essential According to YL Software Experts?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-guide-solving-ram-problems-in-your-pc-insights-from-yl-computing/"><u>Ultimate Guide: Solving RAM Problems in Your PC - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-able.techidaily.com/unraveling-the-mystery-what-triggers-visual-glitches-in-your-windows-pc-insights-from-yl-software-experts/"><u>Unraveling the Mystery: What Triggers Visual Glitches in Your Windows PC? Insights From YL Software Experts</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/worried-about-your-data-with-chatgpt-learn-the-steps-to-securely-disable-it/"><u>Worried About Your Data with ChatGPT? Learn the Steps to Securely Disable It</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display/"><u>[Updated] Choosing the Right Horizon Smart Strategies for Buying an Impressive 4K Display</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726028397695-gif/"><u>「GIFアニメーション速度調整テクニック」</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726028204144-youtube/"><u>「YouTube動画からロゴやウォーターマークを取り除く手順」</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1-top-rated-pc-and-web-based-avi-to-iphone-video-conversion-software/"><u>1. Top Rated PC and Web-Based AVI to iPhone Video Conversion Software</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138594843-9781449731236-a-womans-worth/"><u>A Woman's Worth | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/apple-iphone-12/"><u>Apple iPhone 12お披露目用:信じられないほど多くの無料音楽アプリを発表</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/beyond-just-talking-anticipating-advances-and-applications-of-generative-ai-post-chatgpt-era/"><u>Beyond Just Talking: Anticipating Advances and Applications of Generative AI Post-ChatGPT Era</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-speaking-through-slides-total-ppt-tutorial/"><u>In 2024, Speaking Through Slides Total PPT Tutorial</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726029314177-pcinstagram/"><u>PCやスマホでInstagram リール動画を記録・確保する手段</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/predicting-changes-in-developer-practices-due-to-emerging-ai-technologies/"><u>Predicting Changes in Developer Practices Due to Emerging AI Technologies</u></a></li>
+<li><a href="https://games-able.techidaily.com/quiet-curiosities-delve-into-idling-titles/"><u>Quiet Curiosities: Delve Into Idling Titles</u></a></li>
+<li><a href="https://techidaily.com/save-on-budget-friendly-boost-mobiles-latest-5g-offers/"><u>Save on Budget-Friendly Boost Mobile's Latest 5G Offers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/step-by-step-guide-successfully-adding-and-setting-up-the-apex-sports-extension-with-matrix-support-in-kodi/"><u>Step-by-Step Guide: Successfully Adding and Setting Up the Apex Sports Extension with Matrix Support in Kodi</u></a></li>
 </ul></div>
 

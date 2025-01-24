@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Windows Backups and Restores Using DEX 3 or LYRX Software: In-Depth How-To Video Lesson"
-date: 2025-01-14T03:03:16.191Z
-updated: 2025-01-18T01:55:29.746Z
+date: 2025-01-21T18:53:29.284Z
+updated: 2025-01-24T00:54:00.793Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ App Data is a hidden folder in Windows by default, so locating it isn’t as eas
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,22 +42,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-cut-and-paste-chronicles-qanda-archive-for-2024/"><u>[New] Cut & Paste Chronicles Q&A Archive for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-navigating-gameplay-preservation-in-windows-10/"><u>[New] Navigating Gameplay Preservation in Windows 10</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-clarity-chronicles-for-beginners-unraveling-resolution-factors/"><u>[Updated] Clarity Chronicles for Beginners Unraveling Resolution Factors</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-yuneec-typhoon-h-insights-drone-review-highlights/"><u>[Updated] In 2024, Yuneec Typhoon H Insights Drone Review Highlights</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-the-ultimate-guide-to-slicing-and-dicing-vimeo-videos-online/"><u>[Updated] The Ultimate Guide to Slicing and Dicing Vimeo Videos Online</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-charting-youtubes-course-for-video-short-growth-with-funding/"><u>2024 Approved Charting YouTube's Course for Video Short Growth with Funding</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/evaluating-usability-is-yl-computings-tool-intuitive-and-user-friendly/"><u>Evaluating Usability: Is YL Computing's Tool Intuitive & User-Friendly?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-and-why-are-some-sites-unreachable-learn-from-leading-yl-software-solutions/"><u>How and Why Are Some Sites Unreachable? Learn From Leading YL Software Solutions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/lost-scanner-application-in-windows-solutions-and-tips-from-yl-software-experts/"><u>Lost Scanner Application in Windows: Solutions & Tips From YL Software Experts</u></a></li>
-<li><a href="https://discover-able.techidaily.com/optimizing-your-pc-key-configuration-tweaks-for-enhanced-efficiency-with-yl-software/"><u>Optimizing Your PC: Key Configuration Tweaks for Enhanced Efficiency with YL Software</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-start-download-your-samsung-m2020-driver-today/"><u>Quick Start: Download Your Samsung M2020 Driver Today!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/resolving-launch-issues-a-guide-to-fixing-non-startup-software-applications-insights-from-yl-computing/"><u>Resolving Launch Issues: A Guide to Fixing Non-Startup Software Applications - Insights From YL Computing</u></a></li>
-<li><a href="https://discover-able.techidaily.com/stunning-ford-mustang-2018-desktop-backgrounds-high-res-graphics-by-yl-computing/"><u>Stunning Ford Mustang 2018 Desktop Backgrounds - High-Res Graphics by YL Computing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-exclusive-evga-classified-amd-board-emerges-rare-x670e-prototype-goes-for-over-1k/"><u>The Exclusive EVGA Classified AMD Board Emerges - Rare X670E Prototype Goes for Over 1K</u></a></li>
-<li><a href="https://discover-able.techidaily.com/uncovering-the-main-reasons-behind-hardware-failures-insights-from-yl-computing-and-yl-software/"><u>Uncovering the Main Reasons Behind Hardware Failures: Insights From YL Computing & YL Software</u></a></li>
-<li><a href="https://discover-able.techidaily.com/unlimited-music-streaming-and-songs-upgrade-your-experience-with-the-latest-karaoke-cloud-pro-release-version-81018/"><u>Unlimited Music Streaming & Songs: Upgrade Your Experience with the Latest Karaoke Cloud Pro Release - Version 8.10.18</u></a></li>
-<li><a href="https://discover-able.techidaily.com/which-sovereign-endorsed-the-great-wall-for-its-security-purposes-analysis-by-yl-systems/"><u>Which Sovereign Endorsed The Great Wall For Its Security Purposes? - Analysis by YL Systems</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premium-app-list-androids-best-video-and-image-capture/"><u>[New] In 2024, Premium App List Android's Best Video & Image Capture</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-8-linux-platforms-for-video-mastery/"><u>2024 Approved Best 8 Linux Platforms for Video Mastery</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-first-choice-webcams-ready-for-zoom-mastery/"><u>2024 Approved First Choice Webcams, Ready for Zoom Mastery</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>2024 Approved The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-how-to-get-your-epson-xp-410-drivers-on-a-windows-machine/"><u>Comprehensive Tutorial: How to Get Your Epson XP-410 Drivers on a Windows Machine</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-the-power-windows-11-and-high-dynamic-range-explained/"><u>Harnessing the Power: Windows 11 and High Dynamic Range Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-multitasking-ideas-with-podcasts/"><u>In 2024, Mastering Multitasking Ideas with Podcasts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/strategies-for-maximizing-your-video-footprint-in-instagram/"><u>Strategies for Maximizing Your Video Footprint in Instagram</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/transforming-my-note-taking-game-a-two-week-journey-on-the-vibrant-colored-inks-of-remarkable-tablets-zdnet-insights/"><u>Transforming My Note-Taking Game: A Two-Week Journey on the Vibrant Colored Inks of Remarkable Tablets | ZDNet Insights</u></a></li>
+<li><a href="https://discover-able.techidaily.com/troubleshooting-difficulties-when-altering-your-email-address/"><u>Troubleshooting Difficulties When Altering Your Email Address</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-collection-where-to-find-and-download-your-favorite-free-audiobooks-online/"><u>Ultimate Collection: Where to Find and Download Your Favorite Free Audiobooks Online</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ultimate-guide-breaking-kindles-digital-lock-how-to-liberate-ebooks-and-enjoy-them-everywhere/"><u>Ultimate Guide: Breaking Kindle's Digital Lock - How to Liberate Ebooks & Enjoy Them Everywhere</u></a></li>
+<li><a href="https://discover-able.techidaily.com/understanding-digital-rights-management-an-in-depth-look-at-drm-functionality/"><u>Understanding Digital Rights Management: An In-Depth Look at DRM Functionality</u></a></li>
+<li><a href="https://discover-able.techidaily.com/universal-book-reader-tool-swiftly-convert-pdfs-azws-and-various-formats-to-your-preferred-epub-or-mobi-ebooks/"><u>Universal Book Reader Tool: Swiftly Convert PDFs, AZWs, and Various Formats to Your Preferred EPUB or MOBI eBooks!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/unshackle-yourebooks-master-the-art-of-drm-removal-for-epub-pdf-and-azw-files/"><u>Unshackle YoureBooks: Master the Art of DRM Removal for ePUB, PDF & AZW Files</u></a></li>
 </ul></div>
 

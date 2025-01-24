@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on the Pioneering Creative Design Journey of 2016: A Recap of PCDJ Achievements"
-date: 2025-01-12T02:51:08.987Z
-updated: 2025-01-17T21:05:30.004Z
+date: 2025-01-18T10:10:11.769Z
+updated: 2025-01-24T03:42:53.151Z
 tags:
   - product
 categories:
@@ -26,10 +26,6 @@ When you’re surrounded by a great group of teammates with the same vision and 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### PCDJ Highlights From 2016
 
 **DJ Software and Video Mixing Software Improvements**
@@ -39,6 +35,10 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * The new [text, image and video overlay](https://tools.techidaily.com/pcdj/products/) feature allows DJs and VJs to create stunning, multilayered overlays to display on the mixed video output. Use this feature to show your logo, or truly anything you can dream up.  
 [LEARN MORE ABOUT DEX 3 ![](https://i2.wp.com/pcdj.com/wp-content/uploads/2016/11/dex3-onlaptop-controller.jpg?fit=300%2C187&ssl=1 "dex3-onlaptop-controller")](https://tools.techidaily.com/pcdj/products/)
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
 * New key detection for harmonic/key mixing. Not only sync music on beat but match key for pitch-perfect blending and mashups.
@@ -53,7 +53,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * New [“Search Results” view](https://tools.techidaily.com/pcdj/products/) that expands the rotation list the entire right-hand side of the Karaoki browser with search results displaying in the large middle library pane.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added [‘Search History’ and large search pop-up](https://tools.techidaily.com/pcdj/products/) – KJs can view all their past song searches and double-click in the smaller search box to display a much larger version.
@@ -72,7 +72,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 [MORE ABOUT JAMMTEXT ![jammtext logo](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-logo-black.png?fit=300%2C61&ssl=1 "jammtext logo")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As always, we strive to be accessible to our DJ and karaoke software users. We want to ensure that when you have a question it’s answered thoroughly and professionally in a very timely fashion. We updated the PCDJ website to include a new web chat, robust support ticketing tracking system and created new [PCDJ user forums](https://tools.techidaily.com/pcdj/products/).
@@ -82,13 +82,13 @@ We found new partners at MixCity Inc, the creators of [JammText](https://tools.t
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Happy New Year, Friends!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,21 +110,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-leveraging-virtual-collaboration-with-zoom-and-win11-tools/"><u>[New] Leveraging Virtual Collaboration with Zoom & Win11 Tools</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-unmarked-image-accumulation-essentials/"><u>[New] Unmarked Image Accumulation Essentials</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-optimize-your-media-output-with-our-top-10-online-subtitles-tools/"><u>2024 Approved Optimize Your Media Output With Our Top 10 Online Subtitles Tools</u></a></li>
-<li><a href="https://discover-able.techidaily.com/change-your-browsing-experience-setting-a-new-default-browser-in-windows-10-with-yl-software-solutions/"><u>Change Your Browsing Experience: Setting a New Default Browser in Windows 10 with YL Software Solutions</u></a></li>
-<li><a href="https://article-posts.techidaily.com/dive-into-photo-perfection-your-snapseed-guide/"><u>Dive Into Photo Perfection Your Snapseed Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/exploring-the-roots-the-historical-formation-of-china-insights-by-yl-computing/"><u>Exploring the Roots: The Historical Formation of China - Insights by YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-11-proplus-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme 11 Pro+ Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-explore-premium-free-online-tools-for-professional-video-tweaks/"><u>In 2024, Explore Premium Free Online Tools for Professional Video Tweaks</u></a></li>
-<li><a href="https://discover-able.techidaily.com/optimal-frequency-how-many-times-should-you-run-windows-defender-scans-per-week/"><u>Optimal Frequency: How Many Times Should You Run Windows Defender Scans Per Week?</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-inserting-new-elements-in-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Inserting New Elements in Control Panel - Tips From YL Computing</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/streamlining-youtube-sharing-with-google-account-accessibility/"><u>Streamlining YouTube Sharing with Google Account Accessibility</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-external-hard-drives-for-rapid-data-storage/"><u>Top-Rated External Hard Drives for Rapid Data Storage</u></a></li>
-<li><a href="https://discover-able.techidaily.com/troubleshooting-steps-resolving-unrecognized-hardware-issues-in-windows-expert-guide-by-yl-computing/"><u>Troubleshooting Steps: Resolving Unrecognized Hardware Issues in Windows - Expert Guide by YL Computing</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwanted-virtual-goods-refunding-your-fortnite-costs/"><u>Unwanted Virtual Goods? Refunding Your Fortnite Costs</u></a></li>
-<li><a href="https://discover-able.techidaily.com/yl-software-presents-premium-ford-kaplus-desktop-decors-and-artwork-enhance-your-digital-space/"><u>YL Software Presents Premium Ford Ka+ Desktop Decors & Artwork - Enhance Your Digital Space</u></a></li>
-<li><a href="https://discover-able.techidaily.com/yl-softwares-simple-tutorial-on-adding-your-virtual-coins-into-an-exchange-account/"><u>YL Software's Simple Tutorial on Adding Your Virtual Coins Into an Exchange Account</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-seamless-speed-control-the-editors-essential-handbook-for-2024/"><u>[New] Seamless Speed Control The Editor's Essential Handbook for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevate-your-instagram-imagery-with-striking-borders/"><u>[Updated] 2024 Approved Elevate Your Instagram Imagery with Striking Borders</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-joke-makers-haven-get-it-today/"><u>[Updated] Joke Makers' Haven - Get It Today</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-transform-spaceships-into-trees-youtubes-green-secrets-revealed/"><u>2024 Approved Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed!</u></a></li>
+<li><a href="https://discover-able.techidaily.com/a-comprehensive-guide-to-applying-stunning-overlay-effects-in-web-design/"><u>A Comprehensive Guide to Applying Stunning Overlay Effects in Web Design</u></a></li>
+<li><a href="https://discover-able.techidaily.com/complete-movavi-suite-comprehensive-access-with-unlimited-tools/"><u>Complete Movavi Suite: Comprehensive Access with Unlimited Tools</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversion-de-wmv-a-3gp-sans-frais-utiliser-le-service-en-ligne-de-movavi/"><u>Conversion De WMV À 3GP Sans Frais - Utiliser Le Service en Ligne De Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversion-wma-vers-m4v-facile-et-gratuite-utilisez-movavi-pour-convertir-sans-effort/"><u>Conversion WMA Vers M4V Facile Et Gratuite : Utilisez Movavi Pour Convertir Sans Effort !</u></a></li>
+<li><a href="https://discover-able.techidaily.com/crear-un-fondo-de-reemplazo-gris-para-videoconferencias-con-movie-magic-movavi/"><u>Crear Un Fondo De Reemplazo Gris Para Videoconferencias Con Movie Magic - Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/discover-the-ultimate-list-of-no-cost-anime-download-sites-rankings-top-8-picks/"><u>Discover the Ultimate List of No-Cost Anime Download Sites: Ranking's Top 8 Picks!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/easy-steps-to-activate-and-personalize-your-oculus-quest-or-quest-2-headset/"><u>Easy Steps to Activate and Personalize Your Oculus Quest or Quest 2 Headset</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-x50-by-drfone-android/"><u>Full Guide to Unlock Your Honor X50</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Phone Hassle-Free</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-and-compatible-download-windows-drivers-for-focusrite-scarlett-2i4-audio-interface/"><u>Latest & Compatible: Download Windows Drivers for Focusrite Scarlett 2I4 Audio Interface</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-print-quality-downloading-the-newest-epson-wf-7720-driver-on-windows/"><u>Maximizing Print Quality: Downloading the Newest Epson WF-7720 Driver on Windows</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mejores-tacticas-para-iniciar-tu-canal-de-twitch-con-juegos-como-fortnite-en-pc-una-guia-completa-por-movavi/"><u>Mejores Tácticas Para Iniciar Tu Canal De Twitch Con Juegos Como Fortnite en PC – Una Guía Completa Por Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/mkv-to-swf-format-transformation-for-free-online-services-by-movavi/"><u>MKV to SWF Format Transformation for Free Online Services by Movavi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210390309-9781510770522-the-afterlife-book/"><u>The Afterlife Book | Free Book</u></a></li>
+<li><a href="https://discover-able.techidaily.com/trasforma-avi-in-webm-online-senza-costi-utilizzando-il-servizio-di-movavi/"><u>Trasforma AVI in WEBM Online Senza Costi Utilizzando Il Servizio Di Movavi</u></a></li>
 </ul></div>
 
