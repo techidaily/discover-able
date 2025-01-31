@@ -1,7 +1,7 @@
 ---
 title: "LYRX Karaoke Player Version 1.6.0.1 Now Updated: Free Download & Installation Guide"
-date: 2025-01-23T00:31:17.530Z
-updated: 2025-01-23T19:08:44.060Z
+date: 2025-01-28T17:08:15.323Z
+updated: 2025-01-31T18:00:07.413Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/c67c5cabd77bd497290dc569fa7f62d814f0daa9a
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Version 1.6.0.1 of LYRX karaoke software is available for download.
@@ -33,7 +33,7 @@ Again, we appreciate all the assistance and feedback we’ve received from LYRX 
 If you’re new to [LYRX](http://www.lyrxkaraoke.com), you can also download from the link below and run as a fully-functional free trial.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.0.1
@@ -55,7 +55,7 @@ If you still can’t access any audio from the inputs follow these steps:
 _Have questions about the latest 1.6.0.1 version of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -77,20 +77,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/05/lyrxforwin-cover.jpg?fit=1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-revolutionize-your-photos-pro-level-pixlr-techniques/"><u>[New] In 2024, Revolutionize Your Photos Pro-Level Pixlr Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-a-beginners-guide-to-mastering-windows-11-movie-maker-effortlessly/"><u>2024 Approved A Beginner’s Guide to Mastering Windows 11 Movie Maker Effortlessly</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-how-much-video-can-64gb128gb-holds/"><u>2024 Approved How Much Video Can 64GB/128GB Holds?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premier-live-chat-platforms-for-virtual-gatherings/"><u>2024 Approved Premier Live-Chat Platforms for Virtual Gatherings</u></a></li>
-<li><a href="https://discover-able.techidaily.com/create-your-own-virus-scanning-timetable-on-windows-defender-easily-learn-how-here-tips-and-tricks-from-yl-software/"><u>Create Your Own Virus Scanning Timetable on Windows Defender Easily, Learn How Here! - Tips & Tricks From YL Software</u></a></li>
-<li><a href="https://discover-able.techidaily.com/enhancing-your-systems-speed-is-a-graphics-card-upgrade-the-answer-expert-advice-from-yl-computing/"><u>Enhancing Your System's Speed: Is a Graphics Card Upgrade the Answer? - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/from-lockout-to-logon-tips-for-resolving-inaccessible-boot-issues-after-a-system-reset/"><u>From Lockout to Logon: Tips for Resolving Inaccessible Boot Issues After a System Reset</u></a></li>
-<li><a href="https://discover-able.techidaily.com/how-to-safely-confirm-crypto-holdings-is-a-private-key-necessary-for-balance-trackers-by-yl-software/"><u>How to Safely Confirm Crypto Holdings: Is a Private Key Necessary for Balance Trackers by YL Software</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/premier-sound-pivot-for-podcast-masters-for-2024/"><u>Premier Sound Pivot for Podcast Masters for 2024</u></a></li>
-<li><a href="https://discover-able.techidaily.com/quickening-window-operations-enhance-system-speed-with-yl-software-solutions/"><u>Quickening Window Operations: Enhance System Speed with YL Software Solutions</u></a></li>
-<li><a href="https://discover-able.techidaily.com/solving-audio-issues-on-your-windows-machine-expert-insights-and-fixes-from-yl-computing/"><u>Solving Audio Issues on Your Windows Machine: Expert Insights and Fixes From YL Computing</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/step-by-step-solutions-for-correcting-minecrafts-crossbow-glitches/"><u>Step-by-Step Solutions for Correcting Minecraft's Crossbow Glitches</u></a></li>
-<li><a href="https://discover-able.techidaily.com/summer-sing-alongs-enjoy-your-favorite-tunes-with-karaoke-cloud-pro-on-friday-june-26th/"><u>Summer Sing-Alongs: Enjoy Your Favorite Tunes with Karaoke Cloud Pro on Friday, June 26Th!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000625799-troubleshooting-the-fifa-21-startup-difficulties-all-cleared-up/"><u>Troubleshooting the FIFA 21 Startup Difficulties – All Cleared Up!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/which-sovereign-endorsed-the-great-wall-for-its-security-purposes-analysis-by-yl-systems/"><u>Which Sovereign Endorsed The Great Wall For Its Security Purposes? - Analysis by YL Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-androids-photography-hub-is-pickup-at-the-top-of-its-class/"><u>[New] Android's Photography Hub Is PickUp at the Top of Its Class?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-perfect-your-yt-profile-expert-tips-for-channel-descriptors/"><u>2024 Approved Perfect Your YT Profile Expert Tips for Channel Descriptors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-code-crafters-battle-assessing-chatgpt-versus-gemini-for-programming-excellence/"><u>AI Code Crafters Battle: Assessing ChatGPT Versus Gemini for Programming Excellence</u></a></li>
+<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/converting-crystallographic-structures-a-comprehensive-tutorial-on-pdb-to-pdf-conversion-for-scientists-and-researchers/"><u>Converting Crystallographic Structures: A Comprehensive Tutorial on PDB to PDF Conversion for Scientists and Researchers</u></a></li>
+<li><a href="https://discover-able.techidaily.com/easy-tutorial-on-converting-ebooks-from-azw-format-to-portable-document-format-pdf/"><u>Easy Tutorial on Converting eBooks From .azw Format to Portable Document Format (.pdf)</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effizientes-acsm-zu-pdf-umwandeln-mit-unserer-spezialisierten-softwarelosung-fur-eine-nahtlose-konvertierung/"><u>Effizientes ACSM Zu PDF-Umwandeln Mit Unserer Spezialisierten Softwarelösung Für Eine Nahtlose Konvertierung</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effortless-browsing-on-amazons-kindle-step-by-step-instructions-for-viewing-web-content/"><u>Effortless Browsing on Amazon's Kindle: Step-by-Step Instructions for Viewing Web Content</u></a></li>
+<li><a href="https://discover-able.techidaily.com/effortless-conversion-techniques-for-changing-epub-to-mobi-on-macos-devices/"><u>Effortless Conversion Techniques for Changing EPUB to MOBI on macOS Devices</u></a></li>
+<li><a href="https://discover-able.techidaily.com/essential-kindle-compatible-file-types-what-every-reader-must-understand/"><u>Essential Kindle-Compatible File Types: What Every Reader Must Understand</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/maximizing-battery-longevity-essential-tips-for-enhancing-your-pcs-power-reserves-techadvice/"><u>Maximizing Battery Longevity: Essential Tips for Enhancing Your PC's Power Reserves | TechAdvice</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-new-m2-macbook-air-tears-of-joy-or-disappointment/"><u>Unboxing the New M2 MacBook Air: Tears of Joy or Disappointment?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-viral-potential-creating-captivating-instagram-puzzles-for-2024/"><u>Unlocking Viral Potential Creating Captivating Instagram Puzzles for 2024</u></a></li>
 </ul></div>
 

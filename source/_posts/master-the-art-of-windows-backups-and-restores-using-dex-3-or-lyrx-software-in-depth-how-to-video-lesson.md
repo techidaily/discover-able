@@ -1,7 +1,7 @@
 ---
 title: "Master the Art of Windows Backups and Restores Using DEX 3 or LYRX Software: In-Depth How-To Video Lesson"
-date: 2025-01-21T18:53:29.284Z
-updated: 2025-01-24T00:54:00.793Z
+date: 2025-01-28T18:20:47.126Z
+updated: 2025-01-31T18:57:39.777Z
 tags:
   - product
 categories:
@@ -20,7 +20,7 @@ App Data is a hidden folder in Windows by default, so locating it isn’t as eas
 Please watch the video tutorial above. If you still have questions about how to backup and restore [DEX 3](https://tools.techidaily.com/pcdj/products/) or [LYRX](https://www.lyrxkaraoke.com) data, please feel free to leave them in the comments section below!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -42,20 +42,20 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/08/dex3video.jpg?fit=1275%2C7
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-premium-app-list-androids-best-video-and-image-capture/"><u>[New] In 2024, Premium App List Android's Best Video & Image Capture</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-best-8-linux-platforms-for-video-mastery/"><u>2024 Approved Best 8 Linux Platforms for Video Mastery</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-first-choice-webcams-ready-for-zoom-mastery/"><u>2024 Approved First Choice Webcams, Ready for Zoom Mastery</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>2024 Approved The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-tutorial-how-to-get-your-epson-xp-410-drivers-on-a-windows-machine/"><u>Comprehensive Tutorial: How to Get Your Epson XP-410 Drivers on a Windows Machine</u></a></li>
-<li><a href="https://windows11.techidaily.com/harnessing-the-power-windows-11-and-high-dynamic-range-explained/"><u>Harnessing the Power: Windows 11 and High Dynamic Range Explained</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-multitasking-ideas-with-podcasts/"><u>In 2024, Mastering Multitasking Ideas with Podcasts</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/strategies-for-maximizing-your-video-footprint-in-instagram/"><u>Strategies for Maximizing Your Video Footprint in Instagram</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/transforming-my-note-taking-game-a-two-week-journey-on-the-vibrant-colored-inks-of-remarkable-tablets-zdnet-insights/"><u>Transforming My Note-Taking Game: A Two-Week Journey on the Vibrant Colored Inks of Remarkable Tablets | ZDNet Insights</u></a></li>
-<li><a href="https://discover-able.techidaily.com/troubleshooting-difficulties-when-altering-your-email-address/"><u>Troubleshooting Difficulties When Altering Your Email Address</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-collection-where-to-find-and-download-your-favorite-free-audiobooks-online/"><u>Ultimate Collection: Where to Find and Download Your Favorite Free Audiobooks Online</u></a></li>
-<li><a href="https://discover-able.techidaily.com/ultimate-guide-breaking-kindles-digital-lock-how-to-liberate-ebooks-and-enjoy-them-everywhere/"><u>Ultimate Guide: Breaking Kindle's Digital Lock - How to Liberate Ebooks & Enjoy Them Everywhere</u></a></li>
-<li><a href="https://discover-able.techidaily.com/understanding-digital-rights-management-an-in-depth-look-at-drm-functionality/"><u>Understanding Digital Rights Management: An In-Depth Look at DRM Functionality</u></a></li>
-<li><a href="https://discover-able.techidaily.com/universal-book-reader-tool-swiftly-convert-pdfs-azws-and-various-formats-to-your-preferred-epub-or-mobi-ebooks/"><u>Universal Book Reader Tool: Swiftly Convert PDFs, AZWs, and Various Formats to Your Preferred EPUB or MOBI eBooks!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/unshackle-yourebooks-master-the-art-of-drm-removal-for-epub-pdf-and-azw-files/"><u>Unshackle YoureBooks: Master the Art of DRM Removal for ePUB, PDF & AZW Files</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-list-makeup-tutorials-who-to-watch/"><u>[New] 2024 Approved A-List Makeup Tutorials Who to Watch ?</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-fix-fixed-no-more-obs-camera-issues/"><u>[New] In 2024, Fix Fixed No More OBS Camera Issues</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-innovating-visual-identity-with-ae-titles/"><u>[Updated] Innovating Visual Identity with AE Titles</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/beat-the-crowd-score-apples-m2-macbook-air-at-unbelievable-prices-under-800-on-amazon-ahead-of-prime-day-season/"><u>Beat The Crowd - Score Apple's M2 MacBook Air at Unbelievable Prices Under $800 on Amazon, Ahead of Prime Day Season!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/behind-the-scenes-with-bots-understanding-censorship-practices/"><u>Behind the Scenes with Bots: Understanding Censorship Practices</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/buying-a-new-phone-iphone-vs-samsung-which-brand-wins-the-battle/"><u>Buying a New Phone : IPhone Vs. Samsung - Which Brand Wins the Battle?</u></a></li>
+<li><a href="https://discover-able.techidaily.com/comment-convertir-un-fichier-nef-en-format-jpeg-guide-dutilisation-du-convertisseur-de-demovavi/"><u>Comment Convertir Un Fichier NEF en Format JPEG : Guide D'utilisation Du Convertisseur De DeMovavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/conversione-file-quicktime-qt-a-formato-movie-mov-soluzione-online-e-gratuita-da-movavi/"><u>Conversione File QuickTime (QT) a Formato Movie (MOV): Soluzione Online E Gratuita Da Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/online-free-ogg-to-m4a-converter-by-movavi/"><u>Online Free OGG to M4A Converter by Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/online-vrije-m4a-convertisseur-voor-wav-filelen-movavi/"><u>Online Vrije M4A-Convertisseur Voor WAV-Filelen: Movavi</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/rediscover-precious-moments-with-aura-waldens-immersive-memory-frames/"><u>Rediscover Precious Moments with Aura Walden's Immersive Memory Frames</u></a></li>
+<li><a href="https://discover-able.techidaily.com/top-20-metadata-management-tools-of-2024-find-your-perfect-match-with-movavi-video-converter/"><u>Top 20 Metadata Management Tools of 2024: Find Your Perfect Match with Movavi Video Converter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-rated-mp3-audio-devices-expert-reviews-by-zdnet/"><u>Top Rated MP3 Audio Devices - Expert Reviews by ZDNet</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transformez-vos-fichiers-mkv-en-audio-aac-gratuitement-sur-internet-avec-movavi/"><u>Transformez Vos Fichiers MKV en Audio AAC Gratuitement Sur Internet - Avec Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/upload-videos-to-instagram-via-desktop-a-detailed-tutorial-for-windows-and-mac-users/"><u>Upload Videos to Instagram via Desktop: A Detailed Tutorial for Windows and Mac Users</u></a></li>
 </ul></div>
 

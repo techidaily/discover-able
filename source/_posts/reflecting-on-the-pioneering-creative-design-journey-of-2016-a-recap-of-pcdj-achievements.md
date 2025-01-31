@@ -1,7 +1,7 @@
 ---
 title: "Reflecting on the Pioneering Creative Design Journey of 2016: A Recap of PCDJ Achievements"
-date: 2025-01-18T10:10:11.769Z
-updated: 2025-01-24T03:42:53.151Z
+date: 2025-01-24T16:33:51.619Z
+updated: 2025-01-31T17:28:23.574Z
 tags:
   - product
 categories:
@@ -26,6 +26,10 @@ When you’re surrounded by a great group of teammates with the same vision and 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### PCDJ Highlights From 2016
 
 **DJ Software and Video Mixing Software Improvements**
@@ -37,7 +41,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Released a revamped DJ controller detection protocol that allows for real-time detection of DJ controllers, even while mixing. DJs can also use up to 8 DJ controller simultaneously, with zero-configure support.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Added support for 10 [DJ controllers](https://tools.techidaily.com/pcdj/products/) from some of the biggest DJ equipment providers in the business, including support for the [Pioneer DDJ-SB2](https://tools.techidaily.com/pcdj/products/), [DDJ-RR and DDJ-RB](https://tools.techidaily.com/pcdj/products/). The [Hercules DJControl JogVision](https://tools.techidaily.com/pcdj/products/) and [Hercules P32](https://tools.techidaily.com/pcdj/products/) controllers. [Reloop RMP-4](https://tools.techidaily.com/pcdj/products/) and [Mixon 4](https://tools.techidaily.com/pcdj/products/) are also now plug-and-play with both [DEX 3](https://tools.techidaily.com/pcdj/products/) and [DEX 3 RE](https://tools.techidaily.com/pcdj/products/) DJ programs.
@@ -51,10 +55,6 @@ When you’re surrounded by a great group of teammates with the same vision and 
 * Introduced improved audio and video playback engine for higher-quality, accurate playback of standard karaoke files  
 [LEARN MORE ABOUT KARAOKI ![Karaoke Software](https://i2.wp.com/pcdj.com/wp-content/uploads/2014/06/karaoki-new-searchresultspane.png?fit=300%2C190&ssl=1 "Karaoke Software")](https://tools.techidaily.com/pcdj/products/)
 * New [“Search Results” view](https://tools.techidaily.com/pcdj/products/) that expands the rotation list the entire right-hand side of the Karaoki browser with search results displaying in the large middle library pane.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * Added [‘Search History’ and large search pop-up](https://tools.techidaily.com/pcdj/products/) – KJs can view all their past song searches and double-click in the smaller search box to display a much larger version.
 * Karaoki can now use several new graphics formats (jpeg, png) as CDG backdrops, when loaded it can copy-convert the images to BMP’s that it can then load.
@@ -72,7 +72,7 @@ When you’re surrounded by a great group of teammates with the same vision and 
 [MORE ABOUT JAMMTEXT ![jammtext logo](https://i1.wp.com/pcdj.com/wp-content/uploads/2016/09/jammtext-logo-black.png?fit=300%2C61&ssl=1 "jammtext logo")](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 As always, we strive to be accessible to our DJ and karaoke software users. We want to ensure that when you have a question it’s answered thoroughly and professionally in a very timely fashion. We updated the PCDJ website to include a new web chat, robust support ticketing tracking system and created new [PCDJ user forums](https://tools.techidaily.com/pcdj/products/).
@@ -82,13 +82,13 @@ We found new partners at MixCity Inc, the creators of [JammText](https://tools.t
 _**That’s a good look at 2016’s highlights for PCDJ. Please check back next week for a look ahead at what our goals are for 2017!**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Happy New Year, Friends!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -110,24 +110,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2016/12/pcdj2016yearinreview-cover
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-seamless-speed-control-the-editors-essential-handbook-for-2024/"><u>[New] Seamless Speed Control The Editor's Essential Handbook for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevate-your-instagram-imagery-with-striking-borders/"><u>[Updated] 2024 Approved Elevate Your Instagram Imagery with Striking Borders</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-joke-makers-haven-get-it-today/"><u>[Updated] Joke Makers' Haven - Get It Today</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-transform-spaceships-into-trees-youtubes-green-secrets-revealed/"><u>2024 Approved Transform Spaceships Into Trees – Youtube’s Green Secrets Revealed!</u></a></li>
-<li><a href="https://discover-able.techidaily.com/a-comprehensive-guide-to-applying-stunning-overlay-effects-in-web-design/"><u>A Comprehensive Guide to Applying Stunning Overlay Effects in Web Design</u></a></li>
-<li><a href="https://discover-able.techidaily.com/complete-movavi-suite-comprehensive-access-with-unlimited-tools/"><u>Complete Movavi Suite: Comprehensive Access with Unlimited Tools</u></a></li>
-<li><a href="https://discover-able.techidaily.com/conversion-de-wmv-a-3gp-sans-frais-utiliser-le-service-en-ligne-de-movavi/"><u>Conversion De WMV À 3GP Sans Frais - Utiliser Le Service en Ligne De Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/conversion-wma-vers-m4v-facile-et-gratuite-utilisez-movavi-pour-convertir-sans-effort/"><u>Conversion WMA Vers M4V Facile Et Gratuite : Utilisez Movavi Pour Convertir Sans Effort !</u></a></li>
-<li><a href="https://discover-able.techidaily.com/crear-un-fondo-de-reemplazo-gris-para-videoconferencias-con-movie-magic-movavi/"><u>Crear Un Fondo De Reemplazo Gris Para Videoconferencias Con Movie Magic - Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/discover-the-ultimate-list-of-no-cost-anime-download-sites-rankings-top-8-picks/"><u>Discover the Ultimate List of No-Cost Anime Download Sites: Ranking's Top 8 Picks!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-steps-to-activate-and-personalize-your-oculus-quest-or-quest-2-headset/"><u>Easy Steps to Activate and Personalize Your Oculus Quest or Quest 2 Headset</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/full-guide-to-unlock-your-honor-x50-by-drfone-android/"><u>Full Guide to Unlock Your Honor X50</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-motorola-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Motorola Phone Hassle-Free</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-and-compatible-download-windows-drivers-for-focusrite-scarlett-2i4-audio-interface/"><u>Latest & Compatible: Download Windows Drivers for Focusrite Scarlett 2I4 Audio Interface</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/maximizing-print-quality-downloading-the-newest-epson-wf-7720-driver-on-windows/"><u>Maximizing Print Quality: Downloading the Newest Epson WF-7720 Driver on Windows</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mejores-tacticas-para-iniciar-tu-canal-de-twitch-con-juegos-como-fortnite-en-pc-una-guia-completa-por-movavi/"><u>Mejores Tácticas Para Iniciar Tu Canal De Twitch Con Juegos Como Fortnite en PC – Una Guía Completa Por Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/mkv-to-swf-format-transformation-for-free-online-services-by-movavi/"><u>MKV to SWF Format Transformation for Free Online Services by Movavi</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210390309-9781510770522-the-afterlife-book/"><u>The Afterlife Book | Free Book</u></a></li>
-<li><a href="https://discover-able.techidaily.com/trasforma-avi-in-webm-online-senza-costi-utilizzando-il-servizio-di-movavi/"><u>Trasforma AVI in WEBM Online Senza Costi Utilizzando Il Servizio Di Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-innovative-recording-solutions-for-igadgets/"><u>[New] 2024 Approved Innovative Recording Solutions for iGadgets</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ngaging-local-audiences-with-social-media-videos/"><u>[New] Engaging Local Audiences with Social Media Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-audio-amplification-adding-tracks-to-premiere-projects-with-ease/"><u>[New] In 2024, Audio Amplification Adding Tracks to Premiere Projects with Ease</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-leveraging-influencers-in-your-twitter-marketing-plan/"><u>[Updated] 2024 Approved Leveraging Influencers in Your Twitter Marketing Plan</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-xr-vision-fix-beats-expensive-apple-equivalent-a-revolutionary-solution-showcased-on-zdnet/"><u>Affordable XR Vision Fix Beats Expensive Apple Equivalent – A Revolutionary Solution Showcased on ZDNet</u></a></li>
+<li><a href="https://discover-able.techidaily.com/building-an-asus-rescue-media-with-windows-10-a-two-step-guide/"><u>Building an ASUS Rescue Media with Windows 10: A Two-Step Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/burst-to-blast-android-apps-transform-slow-motion/"><u>Burst to Blast Android Apps Transform Slow Motion</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/effortless-steps-to-shift-your-itunes-acquisitions-smoothly/"><u>Effortless Steps to Shift Your iTunes Acquisitions Smoothly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-ready-or-not-game-crashes-on-windows-tips-and-tricks/"><u>How to Fix 'Ready Or Not' Game Crashes on Windows: Tips and Tricks</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-beyond-boundaries-channel-youtube-for-exciting-green-screens/"><u>In 2024, Beyond Boundaries Channel Youtube for Exciting Green Screens</u></a></li>
+<li><a href="https://discover-able.techidaily.com/problembehandlung-auf-d-kann-nicht-zugegriffen-werden-fehlercodes-erklart-und-behebt/"><u>Problembehandlung: 'Auf D Kann Nicht Zugegriffen Werden' - Fehlercodes Erklärt Und Behebt</u></a></li>
+<li><a href="https://discover-able.techidaily.com/tecnicas-de-backup-e-restauracao-do-windows-server-201-guia-detalhado-para-redefinicao-a-nivel-da-placa-mae/"><u>Técnicas De Backup E Restauração Do Windows Server 201#: Guia Detalhado Para Redefinição a Nível Da Placa Mãe</u></a></li>
+<li><a href="https://discover-able.techidaily.com/wie-kann-man-eine-beschadigte-oder-verlorene-bilddatei-in-adobe-illustrator-wiederherstellen/"><u>Wie Kann Man Eine Beschädigte Oder Verlorene Bilddatei in Adobe Illustrator Wiederherstellen?</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1728499743322-windows-11-10-8-7/"><u>Windows 11, 10, 8, 7 のドライブをクローニング後に起動できない問題解決方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Get Your Copy of the Latest PCDJ DEX 3.8 Update - Free Download Now!
-date: 2025-01-20T05:53:36.331Z
-updated: 2025-01-24T08:36:01.384Z
+date: 2025-01-29T21:50:35.845Z
+updated: 2025-01-31T19:23:58.225Z
 tags:
   - product
 categories:
@@ -37,7 +37,7 @@ We’re committed to bringing our users the best, and most flexible, live perfor
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What’s New And Updated In DEX 3.8
@@ -76,7 +76,7 @@ For controller scripts (mappings) we have added the following:
 _Updating from a previous release? Install DEX 3.8 from [this page](https://tools.techidaily.com/pcdj/products/) with your existing version closed for a seamless upgrade_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DEX 3.8 | NEW FEATURES OVERVIEW
@@ -84,7 +84,7 @@ _Updating from a previous release? Install DEX 3.8 from [this page](https://tool
 _Have questions about our DEX 3.8 **DJ software** or **video mixing**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -106,18 +106,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2017/05/dex38-update-cover.jpg?fit
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display/"><u>[Updated] Choosing the Right Horizon Smart Strategies for Buying an Impressive 4K Display</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726028397695-gif/"><u>「GIFアニメーション速度調整テクニック」</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726028204144-youtube/"><u>「YouTube動画からロゴやウォーターマークを取り除く手順」</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1-top-rated-pc-and-web-based-avi-to-iphone-video-conversion-software/"><u>1. Top Rated PC and Web-Based AVI to iPhone Video Conversion Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138594843-9781449731236-a-womans-worth/"><u>A Woman's Worth | Free Book</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/apple-iphone-12/"><u>Apple iPhone 12お披露目用:信じられないほど多くの無料音楽アプリを発表</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-just-talking-anticipating-advances-and-applications-of-generative-ai-post-chatgpt-era/"><u>Beyond Just Talking: Anticipating Advances and Applications of Generative AI Post-ChatGPT Era</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-speaking-through-slides-total-ppt-tutorial/"><u>In 2024, Speaking Through Slides Total PPT Tutorial</u></a></li>
-<li><a href="https://discover-able.techidaily.com/1726029314177-pcinstagram/"><u>PCやスマホでInstagram リール動画を記録・確保する手段</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/predicting-changes-in-developer-practices-due-to-emerging-ai-technologies/"><u>Predicting Changes in Developer Practices Due to Emerging AI Technologies</u></a></li>
-<li><a href="https://games-able.techidaily.com/quiet-curiosities-delve-into-idling-titles/"><u>Quiet Curiosities: Delve Into Idling Titles</u></a></li>
-<li><a href="https://techidaily.com/save-on-budget-friendly-boost-mobiles-latest-5g-offers/"><u>Save on Budget-Friendly Boost Mobile's Latest 5G Offers</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-successfully-adding-and-setting-up-the-apex-sports-extension-with-matrix-support-in-kodi/"><u>Step-by-Step Guide: Successfully Adding and Setting Up the Apex Sports Extension with Matrix Support in Kodi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-maximize-engagement-with-these-instagram-story-tips/"><u>[New] 2024 Approved Maximize Engagement with These Instagram Story Tips</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-becoming-an-srt-creation-virtuoso-a-complete-manual/"><u>[New] In 2024, Becoming an SRT Creation Virtuoso A Complete Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easy-steps-how-to-master-the-best-of-9-free-youtube-logomakers/"><u>[New] In 2024, Easy Steps How to Master the Best of 9 Free YouTube Logomakers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-seamless-techniques-for-swift-removal-of-your-youtube-comments/"><u>[New] In 2024, Seamless Techniques for Swift Removal of Your Youtube Comments</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-precision-in-capturing-an-expert-obs-skype-guide/"><u>[Updated] Precision in Capturing An Expert OBS Skype Guide</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1726223680242-avivob-movavi/"><u>免費網路上自動AVI與VOB格式轉換 - 利用Movavi轉換工具</u></a></li>
+<li><a href="https://discover-able.techidaily.com/desvendando-a-dinamica-das-aulas-invertidas-um-guia-abrangente-as-disciplinas-modernas/"><u>Desvendando a Dinâmica Das Aulas Invertidas – Um Guia Abrangente Às Disciplinas Modernas</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-poco-f5-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Poco F5 5G</u></a></li>
+<li><a href="https://extra-support.techidaily.com/introduce-audible-elements-seamlessly-to-premiere-pro-for-2024/"><u>Introduce Audible Elements Seamlessly to Premiere Pro for 2024</u></a></li>
+<li><a href="https://discover-able.techidaily.com/moveavi-online-gratis-konvertierung-von-movie-files-in-high-quality-mp3-audio/"><u>Moveavi Online - Gratis Konvertierung Von Movie Files in High-Quality MP3 Audio</u></a></li>
+<li><a href="https://discover-able.techidaily.com/online-aac-ogg-movavi/"><u>Online AAC OGG 파일 무료 변환 - Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/securing-your-devices-with-longer-pins-in-win11/"><u>Securing Your Devices with Longer PINs in Win11</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transforme-un-fichier-gif-en-format-jpeg-sans-frais-guide-sur-lordinateur-de-movivid/"><u>Transforme Un FICHIER GIF en Format JPEG Sans Frais - Guide Sur L'ordinateur De MoviVid</u></a></li>
 </ul></div>
 

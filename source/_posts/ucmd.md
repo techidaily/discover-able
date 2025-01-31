@@ -1,7 +1,7 @@
 ---
 title: 從U盤中恢復丟失文件：詳盡CMD指令介面使用方法
-date: 2025-01-19T05:16:41.522Z
-updated: 2025-01-23T18:42:45.356Z
+date: 2025-01-25T16:25:27.304Z
+updated: 2025-01-31T20:35:57.126Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91b571c6dca277d98979ab8b4.jpg
@@ -18,23 +18,19 @@ thumbnail: https://thmb.techidaily.com/f762a62cb8a1104c2694e715bcccff8df3eff7e91
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Solved: Winload. efi Missing in Windows 11 | 2024
 
 Encounter the "winload.efi is missing or contains errors" error during computer boot? Discover potential reasons and find solutions to fix the winload.efi problem in Windows 11, 10, 8, 7 here.
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 By[Maggie](https://tools.techidaily.com/ubackup/products/)Updated on December 28, 2023
 
 Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Table of Contents** 
 
@@ -50,21 +46,17 @@ Share this: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-arti
 4. [Suggestion: backup your crucial loading files in advance](https://tools.techidaily.com/ubackup/products/)
 5. [Conclusion](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## User case: Windows 11 winload.efi missing, F8 button not working
 
 My HP is not starting up. I’ve received the ‘winload efi is missing or corrupt’. All the troubleshooting steps require me to go into startup settings but in order for me to do that, I have to press F8 however when I do press it my screen flashes and it doesn’t take me there (this is on the blue ‘recovery’ screen with the error message). Can anyone help me please. I need to get back into my laptop. I can’t afford to reinstall the OS. Too much important files and data that I didn’t back up unfortunately.
 
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## About winload.efi file
 
@@ -83,7 +75,7 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Fix winload.efi missing
@@ -110,10 +102,6 @@ Step 2\. Select a type of bootable media you want to create and click **Next** t
 
 [![Winpe](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/winpe.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 3\. Select the CD, DVD, USB drive or ISO file as bootable media. Then click **Next** to create system repair disc in Windows 11.
 
 [![Choose Bootable Media](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/create-bootable-media/choose-bootable-media.png)
@@ -123,11 +111,11 @@ After creating bootable media (just a few minutes), boot your computer from this
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2\. Disable Secure Boot
@@ -148,6 +136,10 @@ Step 4\. Save the changes and exit the UEFI settings.
 
 Step 5\. Restart the system and check if it boots normally. If the issue persists, proceed to the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 3\. Run CHKDSK to Check for Drive Errors
 
 To utilize the CHKDSK utility to address potential disk errors, follow these steps:
@@ -167,6 +159,10 @@ Step 4\. Type or paste the following command and press **Enter**:
 Step 5\. Once the process is complete, unplug the USB and restart the computer.
 
 Check if the system boots normally after performing these steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 4\. Run SFC to Check System File Integrity
 
@@ -191,6 +187,10 @@ If the "sfc /scannow" command fails to repair the Winload.efi missing file, proc
 [![SFC Scannow](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/sfc-scannow.png "SFC Scannow")
 
 Exercise caution to avoid potential system errors when using this command.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 5\. Repair EFI Boot Loader
 
@@ -256,13 +256,13 @@ Was the provided information useful? Your vote is important to us!
 
 ![Maggie](https://www.ubackup.com/assets/images/author/maggie.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Maggie](https://tools.techidaily.com/ubackup/products/) · Editor
 
 Maggie is a technical editor from AOMEI and troubleshoots technical problems against data protection. She has received professional and systematic technical training. With a focus on user experience, security, and problem-solving, she always puts herself in the readers' shoes and provides them with valuable technical insights.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Related Articles
 
@@ -292,11 +292,11 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -313,20 +313,14 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-boost-your-channels-income-understanding-critical-view-thresholds/"><u>[New] 2024 Approved Boost Your Channel's Income Understanding Critical View Thresholds</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-curating-historical-wisdom-the-ultimate-student-friendly-channel-list-1-10/"><u>[New] 2024 Approved Curating Historical Wisdom The Ultimate Student-Friendly Channel List (#1-10)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-ready-set-fly-dji-spark-reviewed-for-selfie-enthusiasts-and-photographers-alike/"><u>2024 Approved Ready, Set, Fly DJI Spark Reviewed for Selfie Enthusiasts and Photographers Alike</u></a></li>
-<li><a href="https://discover-able.techidaily.com/movavioggmp4/"><u>最新Movaviプロバイダーが提供するOGG形式をMP4に容易に変換 - 無料オンラインツール</u></a></li>
-<li><a href="https://discover-able.techidaily.com/convert-your-videos-instantly-with-a-top-rated-free-online-flvmp4-converter/"><u>Convert Your Videos Instantly with a Top-Rated FREE Online FLV/MP4 Converter!</u></a></li>
-<li><a href="https://games-able.techidaily.com/delving-into-gamings-meta-understanding-and-obedience/"><u>Delving Into Gaming’s Meta: Understanding & Obedience</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-tips-to-streamline-your-experience-with-file-explorer-on-windows-11/"><u>Expert Tips to Streamline Your Experience with File Explorer on Windows 11</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-printer-connectivity-issue-win7/"><u>Fixing Printer Connectivity Issue: Win7</u></a></li>
-<li><a href="https://discover-able.techidaily.com/gratis-online-remakelen-van-mka-naar-mkv-movavi/"><u>Gratis Online Remakelen Van MKA Naar MKV - Movavi</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Infinix Hot 30i? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-ultimate-live-broadcast-guide-software-and-hardware-recommendations/"><u>In 2024, Ultimate Live Broadcast Guide Software & Hardware Recommendations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-vlog-glow-achieving-professional-video-setup/"><u>In 2024, Vlog Glow Achieving Professional Video Setup</u></a></li>
-<li><a href="https://discover-able.techidaily.com/trasformare-file-raw-in-immagini-jpeg-gratuite-online-con-convertitore-di-movavi/"><u>Trasformare File RAW in Immagini JPEG Gratuite Online Con Convertitore Di Movavi</u></a></li>
-<li><a href="https://discover-able.techidaily.com/vobmjpeg/"><u>VOBファイルをMJPEG形式に自由に変換: 簡単なオンラインツール</u></a></li>
-<li><a href="https://discover-able.techidaily.com/wmv-wma/"><u>WMV 및 WMA 형식의 인터넷상 무세 변환 해제 - 모바비</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-7-advanced-mobile-applications-transforming-voice-clarity/"><u>[New] In 2024, 7 Advanced Mobile Applications Transforming Voice Clarity</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ius6loenjeaykplusihjoawueazltog5li65oko5oplusq5l6b5yig6zmk5pah5lu255qe5a6m5ywo5asn5y6f5oyh5y2xig/"><u>五种易行方法: 为您提供删除文件的完全复原指南</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964465096-galax-unveils-advanced-overclocking-motherboards-equipped-with-ddr5-memory-and-enhanced-voltage-regulation-systems/"><u>Galax Unveils Advanced Overclocking Motherboards - Equipped with DDR5 Memory and Enhanced Voltage Regulation Systems</u></a></li>
+<li><a href="https://discover-able.techidaily.com/gebruikersgegevens-opruimen-terug-na-een-iphone-factory-reset/"><u>Gebruikersgegevens Opruimen Terug Na Een iPhone Factory Reset</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-pop-8-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Pop 8 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://discover-able.techidaily.com/losung-fur-nicht-erkannte-sata-festplatten-im-bios-system/"><u>Lösung Für Nicht Erkannte SATA-Festplatten Im BIOS-System</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/perfecting-your-srt-craft-a-compreran-guide-to-tips-and-tricks/"><u>Perfecting Your SRT Craft A Compreran Guide to Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/smart-shopping-tips-for-finding-windows-11-keys/"><u>Smart Shopping Tips for Finding Windows 11 Keys</u></a></li>
+<li><a href="https://discover-able.techidaily.com/1728471484587-windows-11/"><u>Windows 11 '書/重寫預設值'保護失靈？救回電腦的速成技術！</u></a></li>
 </ul></div>
 
