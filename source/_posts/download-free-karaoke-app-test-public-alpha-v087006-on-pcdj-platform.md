@@ -1,7 +1,7 @@
 ---
 title: Download Free Karaoke App - Test Public Alpha v0.8.7006 on PCDJ Platform
-date: 2025-01-27T21:10:57.583Z
-updated: 2025-01-31T16:14:26.590Z
+date: 2025-02-10T23:16:27.996Z
+updated: 2025-02-12T22:28:34.497Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ While considered a public beta, we strongly suggest Karaoki customers update to 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed And Fixed In Karaoki Beta 0.8.7006
@@ -48,7 +48,7 @@ _**IMPORTANT NOTES:** Install update with your existing version of Karaoki close
 _Have questions about version 0.8.7006 of our **karaoke software** solution? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -70,15 +70,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2019/03/karaoki-cover.jpg?fit=706%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-impact-of-authenticity-in-insta-self-portraits/"><u>[Updated] 2024 Approved The Impact of Authenticity in Insta Self-Portraits</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-insight-into-the-anker-powercoreplus-26800-charger-bundle-slim-and-efficient/"><u>Comprehensive Insight Into the Anker PowerCore+ 26800 Charger Bundle - Slim & Efficient</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-blackout-on-windows-11-post-fall/"><u>Correcting Blackout on Windows 11 Post-Fall</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/image-innovation-unveiling-secrets-of-photo-enhancement-for-2024/"><u>Image Innovation Unveiling Secrets of Photo Enhancement for 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-f54-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy F54 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://discover-able.techidaily.com/merging-multiple-m2ts-video-files-into-a-single-file-a-step-by-step-guide/"><u>Merging Multiple M2TS Video Files Into a Single File: A Step-by-Step Guide</u></a></li>
-<li><a href="https://discover-able.techidaily.com/resolving-off-beat-sound-issues-on-tiktok-videos/"><u>Resolving Off-Beat Sound Issues on TikTok Videos</u></a></li>
-<li><a href="https://discover-able.techidaily.com/silent-recording-techniques-capturing-videos-without-audio-on-desktops-and-smartphones/"><u>Silent Recording Techniques: Capturing Videos Without Audio on Desktops and Smartphones</u></a></li>
-<li><a href="https://discover-able.techidaily.com/step-by-step-guide-converting-your-tivo-recordings-into-mp4-format/"><u>Step-by-Step Guide: Converting Your TiVo Recordings Into MP4 Format</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/user-guide-an-in-depth-look-at-line-chat-platform/"><u>User Guide: An In-Depth Look at Line Chat Platform</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-charting-new-territory-in-youtube-advertising-artistry-for-2024/"><u>[New] Charting New Territory in YouTube Advertising Artistry for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-premium-internet-havens-tune-downloads-directory/"><u>[Updated] 2024 Approved Premium Internet Havens Tune Downloads Directory</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-streamline-your-listening-exclusive-access-to-this-curated-list-of-24-free-rippers/"><u>[Updated] 2024 Approved Streamline Your Listening Exclusive Access to This Curated List of 24 Free Rippers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-step-by-step-starting-a-skype-call-on-android/"><u>2024 Approved Step-by-Step Starting a Skype Call on Android</u></a></li>
+<li><a href="https://discover-able.techidaily.com/best-free-image-duplicator-applications-for-windows-10-11-and-8-like-hdclone/"><u>Best Free Image Duplicator Applications for Windows 10, 11 & 8 Like HDClone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-lenovo-display-screen-drivers-step-by-step-guide/"><u>Download and Update Lenovo Display Screen Drivers - Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-10-free-and-best-text-to-speech-generators/"><u>In 2024, Top 10 Free and Best Text-to-Speech Generators</u></a></li>
+<li><a href="https://discover-able.techidaily.com/komplette-neuinstallation-von-windows-10-dein-handbuch-zur-wiederherstellung-und-neuanfang/"><u>Komplette Neuinstallation Von Windows 10: Dein Handbuch Zur Wiederherstellung Und Neuanfang</u></a></li>
+<li><a href="https://discover-able.techidaily.com/lenovopc/"><u>LenovoPCでのパフォーマンス低下:詳しいトラブルシューティングと修正方法</u></a></li>
+<li><a href="https://discover-able.techidaily.com/revive-deleted-data-on-windows-11-top-3-methods/"><u>Revive Deleted Data on Windows 11: Top 3 Methods</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2682521-9781515409328-the-life-triumphant/"><u>The Life Triumphant | Free Book</u></a></li>
+<li><a href="https://discover-able.techidaily.com/transformacion-en-la-creacion-de-materiales-videograficos-para-marketing-introduccion-al-software-corporativo-de-movavi/"><u>Transformación en La Creación De Materiales Videográficos Para Marketing: Introducción Al Software Corporativo De Movavi</u></a></li>
+<li><a href="https://discover-able.techidaily.com/tutorial-detaille-pour-configurer-un-serveur-windows-2016-a-laide-dune-machine-virtuelle/"><u>Tutorial Détaillé Pour Configurer Un Serveur Windows 2016 À L'aide D'une Machine Virtuelle</u></a></li>
+<li><a href="https://discover-able.techidaily.com/use-list-disk-to-view-all-connected-disks-then-select-your-usb-drive-using-select-disk/"><u>Use `List Disk` to View All Connected Disks, Then Select Your USB Drive Using `Select Disk #`.</u></a></li>
 </ul></div>
 
